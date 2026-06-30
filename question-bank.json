@@ -1,11 +1,11 @@
 {
-  "version": "2026.06.30.4",
+  "version": "2026.07.01.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-06-30T17:52:39+08:00",
+  "updatedAt": "2026-07-01T00:12:04+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1185,
+  "questionCount": 1190,
   "typeCounts": {
-    "single_choice": 617,
+    "single_choice": 622,
     "multiple_choice": 213,
     "true_false": 267,
     "fill_blank": 37,
@@ -22194,6 +22194,101 @@
         "C"
       ],
       "sourceIndex": 1185,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782835920445_2",
+      "type": "single_choice",
+      "question": "新产品试产期间的报废损失是否考核（ ）",
+      "options": [
+        "否",
+        "视情况而定",
+        "是",
+        "仅考核责任人"
+      ],
+      "answers": [
+        "否"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1186,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782835920446_6",
+      "type": "single_choice",
+      "question": "“发现并消除可能导致重大质量事故的系统 性隐患”属于哪级奖励的适用情形（ ）",
+      "options": [
+        "三等奖",
+        "二等奖",
+        "一等奖",
+        "四等奖"
+      ],
+      "answers": [
+        "一等奖"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1187,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782835920446_8",
+      "type": "single_choice",
+      "question": "惩处等级中，“二级（记过）”的核心界定 是（ ）",
+      "options": [
+        "轻微违规，无后果",
+        "恶意违规，触及根本",
+        "严重违规，造成实际损失",
+        "一般违规，有风险或轻微影响"
+      ],
+      "answers": [
+        "一般违规，有风险或轻微影响"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1188,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782835920446_9",
+      "type": "single_choice",
+      "question": "以下哪项行为属于“锂源质量十大红线” （ ）",
+      "options": [
+        "设备未按时点检",
+        "跨部门信息延误",
+        "记录填写不及时",
+        "数据弄虚作假"
+      ],
+      "answers": [
+        "数据弄虚作假"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1189,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782835920446_10",
+      "type": "single_choice",
+      "question": "异物管控“5M1E”中的“环”指的是（ ）",
+      "options": [
+        "人员操作环境",
+        "设备运行环境",
+        "物料存储环境",
+        "生产现场环境"
+      ],
+      "answers": [
+        "生产现场环境"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1190,
       "source": "italent-review"
     }
   ]
