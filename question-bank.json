@@ -1,11 +1,11 @@
 {
-  "version": "2026.06.30.3",
+  "version": "2026.06.30.4",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-06-30T17:37:46+08:00",
+  "updatedAt": "2026-06-30T17:52:39+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1175,
+  "questionCount": 1185,
   "typeCounts": {
-    "single_choice": 607,
+    "single_choice": 617,
     "multiple_choice": 213,
     "true_false": 267,
     "fill_blank": 37,
@@ -22004,6 +22004,196 @@
         "A"
       ],
       "sourceIndex": 1175,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_1",
+      "type": "single_choice",
+      "question": "询问公交车是否正确时，以下哪句表达最准确？（）",
+      "options": [
+        "Is this the right bus to the library?",
+        "Is this bus go to the library?",
+        "Is this bus for library?",
+        "This bus is right for library?"
+      ],
+      "answers": [
+        "Is this the right bus to the library?"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1176,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_2",
+      "type": "single_choice",
+      "question": "询问车费时，以下哪句符合准确的表达？",
+      "options": [
+        "How much is the fee to the museum?",
+        "How much is the fare to the museum?",
+        "What’s the price for the museum bus?",
+        "How many dollars to the museum?"
+      ],
+      "answers": [
+        "How much is the fare to the museum?"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1177,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_3",
+      "type": "single_choice",
+      "question": "提醒他人挪位置时，以下哪句最合适？（）",
+      "options": [
+        "Could you move over please?",
+        "Please sit here.",
+        "Are you sitting there?",
+        "Do you want this seat?"
+      ],
+      "answers": [
+        "Could you move over please?"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1178,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_4",
+      "type": "single_choice",
+      "question": "关于“下车”的表达，以下哪项区分正确？（）",
+      "options": [
+        "Get off（自己下车） / Drop off（让别人下车）",
+        "Get off（司机停车） / Drop off（乘客主动下车）",
+        "Get off（提前下车） / Drop off（到站下车）",
+        "Get off（紧急下车） / Drop off（正常下车）"
+      ],
+      "answers": [
+        "Get off（自己下车） / Drop off（让别人下车）"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1179,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_5",
+      "type": "single_choice",
+      "question": "公交车“几站”的正确翻译是？（）",
+      "options": [
+        "How many stations?",
+        "How many stops?",
+        "How many places?",
+        "How many times?"
+      ],
+      "answers": [
+        "How many stops?"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1180,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_6",
+      "type": "single_choice",
+      "question": "想用电话预约时，以下哪句表达正确？（）",
+      "options": [
+        "Can I call an appointment by phone?",
+        "Can I make an appointment by phone?",
+        "Can I speak an appointment by phone?",
+        "Can I write an appointment by phone?"
+      ],
+      "answers": [
+        "Can I make an appointment by phone?"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1181,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_7",
+      "type": "single_choice",
+      "question": "“确认预约时间”的表达是？（）",
+      "options": [
+        "make the appointment",
+        "confirm the appointment",
+        "decide the meeting time",
+        "discuss the appointment"
+      ],
+      "answers": [
+        "confirm the appointment"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1182,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_8",
+      "type": "single_choice",
+      "question": "“明天我与与经理有个预约”的正确表达是？（）",
+      "options": [
+        "I have a meeting with the manager tomorrow.",
+        "I have an appointment with the manager tomorrow.",
+        "I will visit the manager’s office tomorrow.",
+        "I need to talk to the manager tomorrow."
+      ],
+      "answers": [
+        "I have an appointment with the manager tomorrow."
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1183,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_9",
+      "type": "single_choice",
+      "question": "通过秘书安排预约的正确表达是？（）",
+      "options": [
+        "Appointments can be made by my secretary.",
+        "Appointments can be made by arrangement with my secretary.",
+        "You can ask my secretary for an appointment.",
+        "My secretary will call you for the time."
+      ],
+      "answers": [
+        "Appointments can be made by arrangement with my secretary."
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1184,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782813157544_10",
+      "type": "single_choice",
+      "question": "预约销售经理的正确表达是？（）",
+      "options": [
+        "I’d like to meet the sales manager.",
+        "I need to talk to the sales department.",
+        "I’d like to make an appointment with the sales manager.",
+        "Can I see the sales manager now?"
+      ],
+      "answers": [
+        "I’d like to make an appointment with the sales manager."
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1185,
       "source": "italent-review"
     }
   ]
