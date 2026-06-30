@@ -1,13 +1,13 @@
 {
-  "version": "2026.06.30.2",
+  "version": "2026.06.30.3",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-06-30T15:30:00+08:00",
+  "updatedAt": "2026-06-30T17:37:46+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1173,
+  "questionCount": 1175,
   "typeCounts": {
     "single_choice": 607,
     "multiple_choice": 213,
-    "true_false": 265,
+    "true_false": 267,
     "fill_blank": 37,
     "short_answer": 51
   },
@@ -21971,6 +21971,40 @@
         "愿为锂源积极创新，愿为锂源拼搏奉献；"
       ],
       "answerLetters": []
+    },
+    {
+      "id": "italent_review_1782812246706_3",
+      "type": "true_false",
+      "question": "5M1E指的是人（Man）、机器（Machine）、物料（Material）、方法（Method）、环境（Environments）、测量（Measure），简称人、机、料、法、环、测。",
+      "options": [
+        "错误",
+        "正确"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1174,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782812246707_8",
+      "type": "true_false",
+      "question": "基于风险的思维使组织能够确定可能导致其过程和质量管理体系偏离策划结果的各种因素，采取预防控制，最大限度地降低不利影响，并最大限度地利用出现的机遇。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1175,
+      "source": "italent-review"
     }
   ]
 }
