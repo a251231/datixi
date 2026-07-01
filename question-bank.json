@@ -1,13 +1,13 @@
 {
-  "version": "2026.07.01.1",
+  "version": "2026.07.01.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-01T00:12:04+08:00",
+  "updatedAt": "2026-07-01T08:50:18+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1190,
+  "questionCount": 1334,
   "typeCounts": {
-    "single_choice": 622,
+    "single_choice": 692,
     "multiple_choice": 213,
-    "true_false": 267,
+    "true_false": 341,
     "fill_blank": 37,
     "short_answer": 51
   },
@@ -22290,6 +22290,2304 @@
       ],
       "sourceIndex": 1190,
       "source": "italent-review"
+    },
+    {
+      "type": "single_choice",
+      "question": "异物防控的核心方针是“不引入、不产生、（ ）”？",
+      "options": [
+        "不检测",
+        "不流出",
+        "不报告",
+        "不处理"
+      ],
+      "answers": [
+        "不流出"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1053"
+    },
+    {
+      "type": "single_choice",
+      "question": "金属异物导致电池化学短路的主要原因是：（ ）",
+      "options": [
+        "大颗粒直接刺穿隔膜",
+        "金属离子在正负极间迁移并富集",
+        "与电解液发生爆炸反应",
+        "破坏电池外壳结构"
+      ],
+      "answers": [
+        "金属离子在正负极间迁移并富集"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1054"
+    },
+    {
+      "type": "single_choice",
+      "question": "车间“三害一恶”中的“一恶”指的是：（ ）",
+      "options": [
+        "生锈部件",
+        "铜锌部件",
+        "打磨未防护",
+        "设备螺丝松动"
+      ],
+      "answers": [
+        "打磨未防护"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1055"
+    },
+    {
+      "type": "single_choice",
+      "question": "以下哪种措施属于“不引入”异物的控制手段？（ ）",
+      "options": [
+        "设备定期清磁",
+        "施工全包围隔离",
+        "原料过筛除铁",
+        "成品金属检测"
+      ],
+      "answers": [
+        "原料过筛除铁"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1056"
+    },
+    {
+      "type": "single_choice",
+      "question": "金属异物在电池充电时的氧化反应发生在：（ ）",
+      "options": [
+        "正极表面",
+        "负极表面",
+        "隔膜中间",
+        "电解液中"
+      ],
+      "answers": [
+        "正极表面"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1057"
+    },
+    {
+      "type": "single_choice",
+      "question": "车间施工禁止携带的高风险物品是：（ ）",
+      "options": [
+        "塑料工具",
+        "铜锌部件",
+        "橡胶手套",
+        "无尘抹布"
+      ],
+      "answers": [
+        "铜锌部件"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1058"
+    },
+    {
+      "type": "single_choice",
+      "question": "永磁网的主要作用是拦截：（ ）",
+      "options": [
+        "非金属异物",
+        "磁性金属异物",
+        "有色金属异物",
+        "微小粉尘"
+      ],
+      "answers": [
+        "磁性金属异物"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1059"
+    },
+    {
+      "type": "single_choice",
+      "question": "以下哪种属于“不产生”异物的控制措施？（ ）",
+      "options": [
+        "设备螺丝防呆管理",
+        "成品金属检测仪",
+        "异物事后排查"
+      ],
+      "answers": [
+        "设备螺丝防呆管理"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1060"
+    },
+    {
+      "type": "single_choice",
+      "question": "非金属异物对电池的典型危害是：（ ）",
+      "options": [
+        "内部短路",
+        "放电容量衰减",
+        "爆炸风险",
+        "外壳腐蚀"
+      ],
+      "answers": [
+        "放电容量衰减"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1061"
+    },
+    {
+      "type": "single_choice",
+      "question": "异物防控中“不流出”的关键环节是：（ ）",
+      "options": [
+        "原料入厂检测",
+        "生产过程控制",
+        "成品出厂检验",
+        "车间环境清扫"
+      ],
+      "answers": [
+        "成品出厂检验"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1062"
+    },
+    {
+      "type": "single_choice",
+      "question": "铁磁性物质的特性是：（ ）",
+      "options": [
+        "使磁场减弱",
+        "使磁场略有增强",
+        "使磁场强烈增加",
+        "不影响磁场"
+      ],
+      "answers": [
+        "使磁场强烈增加"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1063"
+    },
+    {
+      "type": "single_choice",
+      "question": "设备磨损产生的金属异物属于：（ ）",
+      "options": [
+        "原料引入",
+        "生产过程产生",
+        "外部环境引入",
+        "人员携带"
+      ],
+      "answers": [
+        "生产过程产生"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1064"
+    },
+    {
+      "type": "single_choice",
+      "question": "车间微正压环境的主要目的是：（ ）",
+      "options": [
+        "防止外部灰尘进入",
+        "降低车间温度",
+        "提高设备运行效率",
+        "减少金属氧化"
+      ],
+      "answers": [
+        "防止外部灰尘进入"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1065"
+    },
+    {
+      "type": "single_choice",
+      "question": "以下哪种施工作业符合规范要求？（ ）",
+      "options": [
+        "切割未防护",
+        "焊接全包围隔离",
+        "抛光未隔离",
+        "打磨无收集措施"
+      ],
+      "answers": [
+        "焊接全包围隔离"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1066"
+    },
+    {
+      "type": "single_choice",
+      "question": "金属异物导致电池自放电的主要原因是：（ ）",
+      "options": [
+        "正极表面金属颗粒",
+        "负极表面金属颗粒",
+        "隔膜破损",
+        "电解液变质"
+      ],
+      "answers": [
+        "正极表面金属颗粒"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1067"
+    },
+    {
+      "type": "single_choice",
+      "question": "“5M1E”中的“法”指的是：（ ）",
+      "options": [
+        "法律法规",
+        "操作方法优化",
+        "管理流程",
+        "应急预案"
+      ],
+      "answers": [
+        "操作方法优化"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1068"
+    },
+    {
+      "type": "single_choice",
+      "question": "鞋套残屑属于哪类异物？（ ）",
+      "options": [
+        "黑色金属",
+        "有色金属",
+        "非金属异物",
+        "磁性异物"
+      ],
+      "answers": [
+        "非金属异物"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1069"
+    },
+    {
+      "type": "single_choice",
+      "question": "投料口增加防护盖的作用是：（ ）",
+      "options": [
+        "拦截金属异物",
+        "防止外部异物掉入",
+        "提高投料效率",
+        "降低粉尘浓度"
+      ],
+      "answers": [
+        "防止外部异物掉入"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1070"
+    },
+    {
+      "type": "single_choice",
+      "question": "以下哪种物质属于有色金属异物？（ ）",
+      "options": [
+        "铁",
+        "钴",
+        "铜",
+        "镍"
+      ],
+      "answers": [
+        "铜"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1071"
+    },
+    {
+      "type": "single_choice",
+      "question": "异物携带风险案例中，螺丝生锈的改善对策是：（ ）",
+      "options": [
+        "禁止带入车间",
+        "刷漆防护",
+        "打黄油润滑",
+        "增加永磁吸附"
+      ],
+      "answers": [
+        "刷漆防护"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1072"
+    },
+    {
+      "type": "single_choice",
+      "question": "物理短路与化学短路的主要区别是：（ ）",
+      "options": [
+        "短路位置不同",
+        "金属颗粒大小不同",
+        "发生时间不同",
+        "危害程度不同"
+      ],
+      "answers": [
+        "金属颗粒大小不同"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1073"
+    },
+    {
+      "type": "single_choice",
+      "question": "车间落尘监控属于“5M1E”中的哪个维度？（ ）",
+      "options": [
+        "人",
+        "机",
+        "环",
+        "测"
+      ],
+      "answers": [
+        "环"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1074"
+    },
+    {
+      "type": "single_choice",
+      "question": "异物防控的整体思路中，“风险部件剔除”属于哪个原则？（ ）",
+      "options": [
+        "不引入",
+        "不产生",
+        "不进入车间",
+        "不流出"
+      ],
+      "answers": [
+        "不进入车间"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1075"
+    },
+    {
+      "type": "single_choice",
+      "question": "《体系奖惩管理制度》的制定目的不包括以下哪项？（ ）",
+      "options": [
+        "保障产品与服务质量",
+        "提升运营效率",
+        "降低员工薪酬成本",
+        "控制风险"
+      ],
+      "answers": [
+        "降低员工薪酬成本"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1076"
+    },
+    {
+      "type": "single_choice",
+      "question": "“红线行为”的核心特征是？（ ）",
+      "options": [
+        "轻微违反流程但无后果",
+        "可能导致重大事故或损失",
+        "系统性流程缺陷",
+        "偶然发生的流程偏离"
+      ],
+      "answers": [
+        "可能导致重大事故或损失"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1077"
+    },
+    {
+      "type": "single_choice",
+      "question": "获得“一等奖”的奖励形式不包括以下哪项？（ ）",
+      "options": [
+        "奖金1000-5000元",
+        "荣誉证书",
+        "晋升加分",
+        "立即晋升职务"
+      ],
+      "answers": [
+        "立即晋升职务"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "id": "quality_single_choice_1078"
+    },
+    {
+      "type": "single_choice",
+      "question": "对于“关键质量控制点记录造假”的行为，应给予哪级惩处？（ ）",
+      "options": [
+        "一级（警告）",
+        "二级（记过）",
+        "三级（记大过/降级）",
+        "四级（解除劳动合同）"
+      ],
+      "answers": [
+        "三级（记大过/降级）"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1079"
+    },
+    {
+      "type": "single_choice",
+      "question": "体系日常碎片化学习的考核方式是？（ ）",
+      "options": [
+        "每月一次考试",
+        "每工作日10道题，80分及格",
+        "季度综合测评",
+        "年度闭卷考试"
+      ],
+      "answers": [
+        "每工作日10道题，80分及格"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1080"
+    },
+    {
+      "type": "single_choice",
+      "question": "体系稽核的频率是？（ ）",
+      "options": [
+        "每月一次",
+        "每周一次",
+        "每季度一次",
+        "每年一次"
+      ],
+      "answers": [
+        "每周一次"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1081"
+    },
+    {
+      "type": "single_choice",
+      "question": "一般问题点的整改周期要求是？（ ）",
+      "options": [
+        "3天内",
+        "7天内",
+        "15个工作日内",
+        "30天内"
+      ],
+      "answers": [
+        "7天内"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1082"
+    },
+    {
+      "type": "single_choice",
+      "question": "员工对惩处决定不服，申诉期限是收到通知后多少天内？（ ）",
+      "options": [
+        "1个工作日",
+        "3个工作日",
+        "5个工作日",
+        "7个工作日"
+      ],
+      "answers": [
+        "3个工作日"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1083"
+    },
+    {
+      "type": "single_choice",
+      "question": "个人体系行为年度基础分为多少分？（ ）",
+      "options": [
+        "10分",
+        "12分",
+        "15分",
+        "20分"
+      ],
+      "answers": [
+        "12分"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1084"
+    },
+    {
+      "type": "single_choice",
+      "question": "个人体系行为积分中，获得一次“二等奖”可加多少积分？（ ）",
+      "options": [
+        "1分",
+        "2-3分",
+        "4-5分",
+        "6分"
+      ],
+      "answers": [
+        "2-3分"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1085"
+    },
+    {
+      "type": "single_choice",
+      "question": "年度积分低于多少分者，取消晋升/评优资格？（ ）",
+      "options": [
+        "6分",
+        "8分",
+        "10分",
+        "12分"
+      ],
+      "answers": [
+        "6分"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1086"
+    },
+    {
+      "type": "single_choice",
+      "question": "“飞行检查”的特点是？（ ）",
+      "options": [
+        "提前通知被检查部门",
+        "定期开展",
+        "未事先通知的临时性审核",
+        "仅检查书面记录"
+      ],
+      "answers": [
+        "未事先通知的临时性审核"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1087"
+    },
+    {
+      "type": "single_choice",
+      "question": "以下哪项是“系统性不符合”的定义？（ ）",
+      "options": [
+        "偶然、孤立的流程偏离",
+        "同一领域重复发生的不符合",
+        "未造成严重后果的违规",
+        "故意违反流程的行为"
+      ],
+      "answers": [
+        "同一领域重复发生的不符合"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1088"
+    },
+    {
+      "type": "single_choice",
+      "question": "获得“三等奖”的奖金范围是？（ ）",
+      "options": [
+        "100-500元",
+        "500-2000元",
+        "1000-5000元",
+        "无奖金，仅通报表扬"
+      ],
+      "answers": [
+        "100-500元"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1089"
+    },
+    {
+      "type": "single_choice",
+      "question": "“提出的流程改进建议被采纳，有效提升部门效率达10%以上”属于哪级奖励？（ ）",
+      "options": [
+        "一等奖",
+        "二等奖",
+        "三等奖",
+        "专项奖"
+      ],
+      "answers": [
+        "二等奖"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1090"
+    },
+    {
+      "type": "single_choice",
+      "question": "奖励管理中，“团队/项目奖”的适用场景是？（ ）",
+      "options": [
+        "个人流程优化提案被采纳",
+        "重大项目中卓越执行流程并取得突出成果",
+        "长期遵守流程成为部门标杆",
+        "发现一般性流程缺陷"
+      ],
+      "answers": [
+        "重大项目中卓越执行流程并取得突出成果"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1091"
+    },
+    {
+      "type": "single_choice",
+      "question": "惩处等级中，“四级（解除劳动合同）”的适用情形是？（ ）",
+      "options": [
+        "轻微违规且无后果",
+        "一般违规有轻微影响",
+        "严重违规造成实际损失",
+        "触犯红线行为"
+      ],
+      "answers": [
+        "触犯红线行为"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "id": "quality_single_choice_1092"
+    },
+    {
+      "type": "single_choice",
+      "question": "“重复发生一级违规行为”对应的惩处等级是？（ ）",
+      "options": [
+        "一级（警告）",
+        "二级（记过）",
+        "三级（记大过/降级）",
+        "四级（解除劳动合同）"
+      ],
+      "answers": [
+        "二级（记过）"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1093"
+    },
+    {
+      "type": "single_choice",
+      "question": "整改措施有效性验证的时间节点是？（ ）",
+      "options": [
+        "整改完成后立即验证",
+        "整改完成后3个工作日内",
+        "整改完成后5个工作日后",
+        "无需验证，提交报告即可"
+      ],
+      "answers": [
+        "整改完成后5个工作日后"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1094"
+    },
+    {
+      "type": "single_choice",
+      "question": "个人体系行为积分中，获得一次“三等奖”可加多少分？（ ）",
+      "options": [
+        "1分",
+        "2-3分",
+        "4-5分",
+        "不加分"
+      ],
+      "answers": [
+        "1分"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1095"
+    },
+    {
+      "type": "single_choice",
+      "question": "年度体系标兵的评选依据是？（ ）",
+      "options": [
+        "部门推荐",
+        "个人申请",
+        "年度积分排名前三",
+        "领导直接指定"
+      ],
+      "answers": [
+        "年度积分排名前三"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1096"
+    },
+    {
+      "type": "single_choice",
+      "question": "“一般不符合”的特征是？（ ）",
+      "options": [
+        "系统性失效",
+        "偶然、孤立的流程偏离",
+        "造成严重后果",
+        "重复发生的违规"
+      ],
+      "answers": [
+        "偶然、孤立的流程偏离"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1097"
+    },
+    {
+      "type": "single_choice",
+      "question": "《品质奖惩管理制度》的制定目的不包括以下哪项？（ ）",
+      "options": [
+        "提高产品品质",
+        "防止重复发生低级人为错误",
+        "降低生产成本",
+        "明确品质问题的责任及奖惩"
+      ],
+      "answers": [
+        "降低生产成本"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1098"
+    },
+    {
+      "type": "single_choice",
+      "question": "奖惩原则中，经济奖惩的定位是？（ ）",
+      "options": [
+        "主要手段",
+        "辅助手段",
+        "唯一手段",
+        "不使用经济奖惩"
+      ],
+      "answers": [
+        "辅助手段"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1099"
+    },
+    {
+      "type": "single_choice",
+      "question": "“四不放过”原则不包括？（ ）",
+      "options": [
+        "原因分析不清不放过",
+        "责任者未受处理不放过",
+        "员工未受教育不放过",
+        "客户未道歉不放过"
+      ],
+      "answers": [
+        "客户未道歉不放过"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "id": "quality_single_choice_1100"
+    },
+    {
+      "type": "single_choice",
+      "question": "品质问题发生后，生产车间需在多长时间内报告质量检测部？（ ）",
+      "options": [
+        "2小时",
+        "1小时",
+        "30分钟",
+        "立即"
+      ],
+      "answers": [
+        "1小时"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1101"
+    },
+    {
+      "type": "single_choice",
+      "question": "对品质问题处罚有异议时，申诉期限为通报后几天内？（ ）",
+      "options": [
+        "3日",
+        "5日",
+        "7日",
+        "10日"
+      ],
+      "answers": [
+        "3日"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1102"
+    },
+    {
+      "type": "single_choice",
+      "question": "因擅自变更工艺造成30万以下损失，赔偿方式为？（ ）",
+      "options": [
+        "成本价赔偿或经济损失10%",
+        "全额赔偿",
+        "不赔偿",
+        "赔偿50%"
+      ],
+      "answers": [
+        "成本价赔偿或经济损失10%"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1103"
+    },
+    {
+      "type": "single_choice",
+      "question": "质量考核执行标准中，直接责任者承担比例为？（ ）",
+      "options": [
+        "50%",
+        "60%",
+        "80%",
+        "100%"
+      ],
+      "answers": [
+        "80%"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1104"
+    },
+    {
+      "type": "single_choice",
+      "question": "来料无标识继续流转使用，责任人负激励金额为？（ ）",
+      "options": [
+        "100元",
+        "200元",
+        "500元",
+        "1000元"
+      ],
+      "answers": [
+        "200元"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1105"
+    },
+    {
+      "type": "single_choice",
+      "question": "来料上线不良率超过5%，责任部门是？（ ）",
+      "options": [
+        "生产部",
+        "储运部",
+        "质量检测部",
+        "采购部"
+      ],
+      "answers": [
+        "质量检测部"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1106"
+    },
+    {
+      "type": "single_choice",
+      "question": "私自调整工艺生产导致不良，责任人处理方式为？（ ）",
+      "options": [
+        "罚款500元",
+        "罚款2000元",
+        "开除",
+        "警告"
+      ],
+      "answers": [
+        "开除"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1107"
+    },
+    {
+      "type": "single_choice",
+      "question": "设备未点检即生产且产生返工损失，责任人负激励金额为？（ ）",
+      "options": [
+        "500元",
+        "1000元",
+        "2000元",
+        "3000元"
+      ],
+      "answers": [
+        "2000元"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1108"
+    },
+    {
+      "type": "single_choice",
+      "question": "检测设备未按要求设定导致返工，责任部门是？（ ）",
+      "options": [
+        "装备管理部",
+        "质量检测部",
+        "生产部",
+        "工艺技术部"
+      ],
+      "answers": [
+        "质量检测部"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1109"
+    },
+    {
+      "type": "single_choice",
+      "question": "成品包装少装产品，责任人负激励金额为？（ ）",
+      "options": [
+        "100元",
+        "200元",
+        "500元",
+        "1000元"
+      ],
+      "answers": [
+        "200元"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1110"
+    },
+    {
+      "type": "single_choice",
+      "question": "因漏检导致客户批量退货，责任人负激励金额为？（ ）",
+      "options": [
+        "200元",
+        "300元",
+        "500元",
+        "1000元"
+      ],
+      "answers": [
+        "500元"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1111"
+    },
+    {
+      "type": "single_choice",
+      "question": "质量KPI完成率80%≤目标值＜100%，负激励金额为？（ ）",
+      "options": [
+        "200元/项/月",
+        "500元/项/月",
+        "800元/项/月",
+        "1000元/项/月"
+      ],
+      "answers": [
+        "500元/项/月"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1112"
+    },
+    {
+      "type": "single_choice",
+      "question": "QC小组活动获国家级优秀成果，奖励金额为？（ ）",
+      "options": [
+        "2000元",
+        "3000元",
+        "4000元",
+        "5000元"
+      ],
+      "answers": [
+        "5000元"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "id": "quality_single_choice_1113"
+    },
+    {
+      "type": "single_choice",
+      "question": "新客户导入（战略客户）通过审核，激励奖金包为？（ ）",
+      "options": [
+        "2000元",
+        "5000元",
+        "10000元",
+        "20000元"
+      ],
+      "answers": [
+        "10000元"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "id": "quality_single_choice_1114"
+    },
+    {
+      "type": "single_choice",
+      "question": "PPAP资料提交延迟，专员级负激励金额为？（ ）",
+      "options": [
+        "100元",
+        "200元",
+        "300元",
+        "500元"
+      ],
+      "answers": [
+        "200元"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1115"
+    },
+    {
+      "type": "single_choice",
+      "question": "客户重复性质量问题半年内未再发生，正向激励总额为？（ ）",
+      "options": [
+        "200元",
+        "500元",
+        "1000元",
+        "2000元"
+      ],
+      "answers": [
+        "200元"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1116"
+    },
+    {
+      "type": "single_choice",
+      "question": "客户抱怨事件（口头），主管级负激励金额为？（ ）",
+      "options": [
+        "200元",
+        "300元",
+        "400元",
+        "500元"
+      ],
+      "answers": [
+        "300元"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1117"
+    },
+    {
+      "type": "single_choice",
+      "question": "客诉较大质量事故（5-10万元损失），经理级负激励金额为？（ ）",
+      "options": [
+        "500元",
+        "800元",
+        "1000元",
+        "1500元"
+      ],
+      "answers": [
+        "500元"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1118"
+    },
+    {
+      "type": "single_choice",
+      "question": "收到客户表扬信，正向激励总额为？（ ）",
+      "options": [
+        "200元",
+        "500元",
+        "1000元",
+        "2000元"
+      ],
+      "answers": [
+        "500元"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1119"
+    },
+    {
+      "type": "single_choice",
+      "question": "正、负向激励的清算周期为？（ ）",
+      "options": [
+        "每月",
+        "每季度",
+        "每半年",
+        "每年"
+      ],
+      "answers": [
+        "每季度"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1120"
+    },
+    {
+      "type": "single_choice",
+      "question": "客户要求未在合理时间内回应，主管级负激励金额为？（ ）",
+      "options": [
+        "300元",
+        "500元",
+        "800元",
+        "1000元"
+      ],
+      "answers": [
+        "500元"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_single_choice_1121"
+    },
+    {
+      "type": "true_false",
+      "question": "异物防控以预防为主，硬件与管理相结合。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1106"
+    },
+    {
+      "type": "true_false",
+      "question": "金属异物只会导致电池短路，不会影响容量。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1107"
+    },
+    {
+      "type": "true_false",
+      "question": "磁性物质比铁磁性物质更易被磁化。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1108"
+    },
+    {
+      "type": "true_false",
+      "question": "车间施工时，半包围密封隔离是合规的防护方式。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1109"
+    },
+    {
+      "type": "true_false",
+      "question": "非金属异物包括纸屑、陶瓷、塑料碎屑等。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1110"
+    },
+    {
+      "type": "true_false",
+      "question": "清磁称重的频次为8小时/次。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1111"
+    },
+    {
+      "type": "true_false",
+      "question": "金属异物在负极表面被还原成金属并富集。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1112"
+    },
+    {
+      "type": "true_false",
+      "question": "“5M1E”中的“料”仅指原料管理，不包括成品。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1113"
+    },
+    {
+      "type": "true_false",
+      "question": "铜锌部件可以带入生产车间。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1114"
+    },
+    {
+      "type": "true_false",
+      "question": "永磁网可有效拦截所有类型的金属异物。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1115"
+    },
+    {
+      "type": "true_false",
+      "question": "设备螺丝松动的改善对策包括划线点检和更换防松螺丝。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1116"
+    },
+    {
+      "type": "true_false",
+      "question": "抗磁性物质会使磁场强度略有增强。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1117"
+    },
+    {
+      "type": "true_false",
+      "question": "异物管控的“不产生”原则主要针对生产过程中的磨损和污染。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1118"
+    },
+    {
+      "type": "true_false",
+      "question": "电池短路自燃案例仅涉及国产汽车品牌。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1119"
+    },
+    {
+      "type": "true_false",
+      "question": "车间三害一恶中的“三害”包括生锈部件、铜锌部件和焊接残渣。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1120"
+    },
+    {
+      "type": "true_false",
+      "question": "微小金属颗粒通过化学短路导致电池故障的风险更高。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1121"
+    },
+    {
+      "type": "true_false",
+      "question": "新风管无需定期检查异物，因其有过滤装置。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1122"
+    },
+    {
+      "type": "true_false",
+      "question": "异物防控的方针是“不引入、不产生、不流出”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1123"
+    },
+    {
+      "type": "true_false",
+      "question": "非金属异物不会导致电池自放电。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1124"
+    },
+    {
+      "type": "true_false",
+      "question": "施工隔离不到位属于车间违禁作业。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1125"
+    },
+    {
+      "type": "true_false",
+      "question": "正极材料中混入100μm以上金属颗粒短路风险达68%。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1126"
+    },
+    {
+      "type": "true_false",
+      "question": "移动设备磨损可通过打黄油减少异物产生。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1127"
+    },
+    {
+      "type": "true_false",
+      "question": "异物携带风险案例中，镀锌部件必须完全剔除。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1128"
+    },
+    {
+      "type": "true_false",
+      "question": "电柜接线不标准易导致铜丝异物风险。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1129"
+    },
+    {
+      "type": "true_false",
+      "question": "异物防控仅需关注生产环节，与供应商无关。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1130"
+    },
+    {
+      "type": "true_false",
+      "question": "“个人贡献奖”可表彰在流程优化方面表现突出的个人。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1131"
+    },
+    {
+      "type": "true_false",
+      "question": "一等奖的奖励形式包括“晋升加分”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1132"
+    },
+    {
+      "type": "true_false",
+      "question": "“全年体系稽核无不符合项”属于三等奖的适用情形。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1133"
+    },
+    {
+      "type": "true_false",
+      "question": "“锂源质量十大红线”包括“禁止不按标准流程操作”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1134"
+    },
+    {
+      "type": "true_false",
+      "question": "二级（记过）处罚的核心界定是“严重违规，造成实际损失”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1135"
+    },
+    {
+      "type": "true_false",
+      "question": "“关键质量控制点记录造假”将被处以三级（记大过/降级）处罚。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1136"
+    },
+    {
+      "type": "true_false",
+      "question": "体系日常碎片化学习的考试及格分数是60分。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1137"
+    },
+    {
+      "type": "true_false",
+      "question": "体系稽核每周开展一次，覆盖所有部门（含财务部）。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1138"
+    },
+    {
+      "type": "true_false",
+      "question": "一般问题点的整改周期为7天，不可延期。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1139"
+    },
+    {
+      "type": "true_false",
+      "question": "整改效果验证需在整改完成后3个工作日内实施现场验证。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1140"
+    },
+    {
+      "type": "true_false",
+      "question": "“系统性不符合”指同一领域重复发生的不符合。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1141"
+    },
+    {
+      "type": "true_false",
+      "question": "“流程优化提案奖”属于团队/项目奖的子类。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1142"
+    },
+    {
+      "type": "true_false",
+      "question": "部门可自行决定整改延期，无需体系组批准。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1143"
+    },
+    {
+      "type": "true_false",
+      "question": "个人体系行为积分与晋升直接挂钩。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1144"
+    },
+    {
+      "type": "true_false",
+      "question": "申诉期间，原惩处决定暂停执行。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1145"
+    },
+    {
+      "type": "true_false",
+      "question": "体系稽核仅通过审核记录资料进行，不观察现场操作。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1146"
+    },
+    {
+      "type": "true_false",
+      "question": "二级（记过）处罚的罚款金额为100-500元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1147"
+    },
+    {
+      "type": "true_false",
+      "question": "一级（警告）处罚会导致积分清零。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1148"
+    },
+    {
+      "type": "true_false",
+      "question": "红线行为一旦触犯，将提交体系流程管理委员会从严处理。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1149"
+    },
+    {
+      "type": "true_false",
+      "question": "团队/项目奖仅表彰生产部门的团队。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1150"
+    },
+    {
+      "type": "true_false",
+      "question": "各部门无需开展内部流程自查自纠，仅需配合体系组稽核。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1151"
+    },
+    {
+      "type": "true_false",
+      "question": "奖励管理的“基本原则”包括“奖惩结合原则”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1152"
+    },
+    {
+      "type": "true_false",
+      "question": "二等奖的适用情形包括“主动纠正他人重大违规，避免公司损失”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1153"
+    },
+    {
+      "type": "true_false",
+      "question": "“锂源质量十大红线”中包含“禁止设备未验证批量生产”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1154"
+    },
+    {
+      "type": "true_false",
+      "question": "体系稽核的依据包括“各岗位作业指导书”和“以往审核问题点”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1155"
+    },
+    {
+      "type": "true_false",
+      "question": "奖惩原则以经济奖惩为主、精神鼓励为辅。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1156"
+    },
+    {
+      "type": "true_false",
+      "question": "“四不放过”包括“客户未满意不放过”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1157"
+    },
+    {
+      "type": "true_false",
+      "question": "品质问题发生后，生产车间需在2小时内报告质量检测部。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1158"
+    },
+    {
+      "type": "true_false",
+      "question": "对处罚有异议可在通报后5日内申诉。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1159"
+    },
+    {
+      "type": "true_false",
+      "question": "新产品试产期间的报废损失不作考核。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1160"
+    },
+    {
+      "type": "true_false",
+      "question": "擅自变更工艺造成30万以上损失，由责任人全额赔偿。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1161"
+    },
+    {
+      "type": "true_false",
+      "question": "品质问题调查仲裁小组包含销售部人员。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1162"
+    },
+    {
+      "type": "true_false",
+      "question": "质量考核中直接责任者承担80%责任。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1163"
+    },
+    {
+      "type": "true_false",
+      "question": "来料无标识继续流转，发现者正激励200元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1164"
+    },
+    {
+      "type": "true_false",
+      "question": "私自调整工艺未导致不良，责任人罚款500元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1165"
+    },
+    {
+      "type": "true_false",
+      "question": "设备未点检即生产且无损失，责任人罚款1000元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1166"
+    },
+    {
+      "type": "true_false",
+      "question": "检测错误导致误判，责任人罚款500元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1167"
+    },
+    {
+      "type": "true_false",
+      "question": "质量KPI完成率＜80%，负激励1000元/项/月。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1168"
+    },
+    {
+      "type": "true_false",
+      "question": "直接损失包括不合格处置费用和物流费用。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1169"
+    },
+    {
+      "type": "true_false",
+      "question": "市场因素影响的KPI不作为考核依据。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1170"
+    },
+    {
+      "type": "true_false",
+      "question": "因原材料问题导致不合格，按质保协议处罚供应商。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1171"
+    },
+    {
+      "type": "true_false",
+      "question": "重复发生低级错误，按次数倍数处罚。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1172"
+    },
+    {
+      "type": "true_false",
+      "question": "特殊工序人员未经培训合格上岗，负激励金额为500元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1173"
+    },
+    {
+      "type": "true_false",
+      "question": "成品包装漏粘标签导致返工，发现者正激励100元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1174"
+    },
+    {
+      "type": "true_false",
+      "question": "私自涂改受控文件，负激励50元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1175"
+    },
+    {
+      "type": "true_false",
+      "question": "新产品以包装规格为基准判定是否为“新产品”。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1176"
+    },
+    {
+      "type": "true_false",
+      "question": "对客户态度恶劣导致投诉，专员级负激励400元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1177"
+    },
+    {
+      "type": "true_false",
+      "question": "内部审核发现的体系问题无需纳入奖惩范围。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "id": "quality_true_false_1178"
+    },
+    {
+      "type": "true_false",
+      "question": "因设备带病作业未报修导致品质隐患，责任人负激励1000元。（ ）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_true_false_1179"
+    },
+    {
+      "type": "single_choice",
+      "question": "在狭小的空间内，下列哪种灭火器适用于扑灭电气火灾？（ ）",
+      "options": [
+        "二氧化碳灭火器",
+        "干粉灭火器",
+        "泡沫灭火器"
+      ],
+      "answers": [
+        "二氧化碳灭火器"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "id": "quality_single_choice_1122"
     }
   ]
 }

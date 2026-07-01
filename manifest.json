@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.01.1",
+  "version": "2026.07.01.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-01T00:12:04+08:00",
-  "questionCount": 1190,
+  "updatedAt": "2026-07-01T08:50:18+08:00",
+  "questionCount": 1334,
   "typeCounts": {
-    "single_choice": 622,
+    "single_choice": 692,
     "multiple_choice": 213,
-    "true_false": 267,
+    "true_false": 341,
     "fill_blank": 37,
     "short_answer": 51
   },
