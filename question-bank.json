@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.01.3",
+  "version": "2026.07.02.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-01T08:57:15+08:00",
+  "updatedAt": "2026-07-02T08:33:07+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1335,
+  "questionCount": 1344,
   "typeCounts": {
-    "single_choice": 693,
+    "single_choice": 702,
     "multiple_choice": 213,
     "true_false": 341,
     "fill_blank": 37,
@@ -24606,6 +24606,177 @@
         "C"
       ],
       "sourceIndex": 1335,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386243_1",
+      "type": "single_choice",
+      "question": "“카”的发音是()",
+      "options": [
+        "Ka",
+        "Kao",
+        "Ca",
+        "Cao"
+      ],
+      "answers": [
+        "Ka"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1336,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386243_2",
+      "type": "single_choice",
+      "question": "“터”的发音是()",
+      "options": [
+        "Pa",
+        "Ta",
+        "Peo",
+        "Teo"
+      ],
+      "answers": [
+        "Teo"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1337,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386243_4",
+      "type": "single_choice",
+      "question": "“추”的发音是（）",
+      "options": [
+        "Tu",
+        "Cu",
+        "Pu",
+        "Ku"
+      ],
+      "answers": [
+        "Cu"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1338,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386243_5",
+      "type": "single_choice",
+      "question": "“크”的发音是（）",
+      "options": [
+        "Ti",
+        "T(e)",
+        "Ki",
+        "K(e)"
+      ],
+      "answers": [
+        "K(e)"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1339,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386243_6",
+      "type": "single_choice",
+      "question": "“티”的发音是()",
+      "options": [
+        "Ti",
+        "Te",
+        "Ki",
+        "Ke"
+      ],
+      "answers": [
+        "Ti"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1340,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386243_7",
+      "type": "single_choice",
+      "question": "“채”的发音是()",
+      "options": [
+        "Cai",
+        "Tai",
+        "Pai",
+        "Kai"
+      ],
+      "answers": [
+        "Cai"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1341,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386243_8",
+      "type": "single_choice",
+      "question": "“페”的发音近似为（）",
+      "options": [
+        "Cei",
+        "Tei",
+        "Pei",
+        "Kei"
+      ],
+      "answers": [
+        "Pei"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1342,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386244_9",
+      "type": "single_choice",
+      "question": "“ㅑ、ㅕ、ㅛ、ㅠ”的发音顺序是（）",
+      "options": [
+        "Ye、ya、yo、yu",
+        "Ya、ye、yo、yu",
+        "Ya、ye、yu、ye",
+        "Yu、ye、yo、ya"
+      ],
+      "answers": [
+        "Ya、ye、yo、yu"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1343,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1782952386244_10",
+      "type": "single_choice",
+      "question": "“와”的发音是（）",
+      "options": [
+        "Wa",
+        "Wo",
+        "Wi",
+        "We"
+      ],
+      "answers": [
+        "Wa"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1344,
       "source": "italent-review"
     }
   ]
