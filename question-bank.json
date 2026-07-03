@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.03.3",
+  "version": "2026.07.03.4",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-03T17:41:30+08:00",
+  "updatedAt": "2026-07-03T17:54:50+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1359,
+  "questionCount": 1364,
   "typeCounts": {
-    "single_choice": 707,
+    "single_choice": 712,
     "multiple_choice": 213,
     "true_false": 341,
     "fill_blank": 47,
@@ -24992,6 +24992,101 @@
       ],
       "answerLetters": [],
       "sourceIndex": 1359,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072488635_1",
+      "type": "single_choice",
+      "question": "下列单词中“西瓜”的是？（）",
+      "options": [
+        "귤",
+        "딸기",
+        "사과",
+        "수박"
+      ],
+      "answers": [
+        "수박"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1360,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072488636_2",
+      "type": "single_choice",
+      "question": "下列单词中“汉堡包”的是？（）",
+      "options": [
+        "햄버거",
+        "샌드위치",
+        "스파게티",
+        "피자"
+      ],
+      "answers": [
+        "햄버거"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1361,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072488636_3",
+      "type": "single_choice",
+      "question": "下列单词中“泡面”的是？（）",
+      "options": [
+        "김치",
+        "김치찌개",
+        "냉면",
+        "라면"
+      ],
+      "answers": [
+        "라면"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1362,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072488636_4",
+      "type": "single_choice",
+      "question": "下列单词中表达数字“7”的是？（）",
+      "options": [
+        "다섯",
+        "여섯",
+        "일곱",
+        "여덟"
+      ],
+      "answers": [
+        "일곱"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1363,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072488636_5",
+      "type": "single_choice",
+      "question": "买东西还价时，请按顺序选择正确单词： 너무 _____ 。좀 _____ 주세요。（）",
+      "options": [
+        "비싸요，깎아",
+        "비싸다，깎아",
+        "비싸요，깎아다",
+        "비싸다，깎아다"
+      ],
+      "answers": [
+        "비싸요，깎아"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1364,
       "source": "italent-review"
     }
   ]
