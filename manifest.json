@@ -1,13 +1,13 @@
 {
-  "version": "2026.07.03.2",
+  "version": "2026.07.03.3",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-03T17:40:30+08:00",
-  "questionCount": 1354,
+  "updatedAt": "2026-07-03T17:41:30+08:00",
+  "questionCount": 1359,
   "typeCounts": {
     "single_choice": 707,
     "multiple_choice": 213,
     "true_false": 341,
-    "fill_blank": 42,
+    "fill_blank": 47,
     "short_answer": 51
   },
   "bankUrl": "https://raw.githubusercontent.com/a251231/datixi/main/question-bank.json"
