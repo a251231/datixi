@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.03.1",
+  "version": "2026.07.03.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-03T17:39:24+08:00",
+  "updatedAt": "2026-07-03T17:40:30+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1349,
+  "questionCount": 1354,
   "typeCounts": {
-    "single_choice": 702,
+    "single_choice": 707,
     "multiple_choice": 213,
     "true_false": 341,
     "fill_blank": 42,
@@ -24837,6 +24837,101 @@
       ],
       "answerLetters": [],
       "sourceIndex": 1349,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071624891_1",
+      "type": "single_choice",
+      "question": "下列句子中 “도” 的用法正确的是？（）",
+      "options": [
+        "저는도 학생이에요.",
+        "저도 학생이에요.",
+        "콜라믈도 마셨어요.",
+        "콜라는도 마셨어요."
+      ],
+      "answers": [
+        "저도 학생이에요."
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1350,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071624892_2",
+      "type": "single_choice",
+      "question": "以 “원” 为单位询问价格时，正确的句式是？（）",
+      "options": [
+        "이 물건은 얼마예요?",
+        "이 물건은 얼마 원이에요?",
+        "이 물건은 얼마 원예요?",
+        "이 물건은 얼마 원입니까?"
+      ],
+      "answers": [
+        "이 물건은 얼마예요?"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1351,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071624892_3",
+      "type": "single_choice",
+      "question": "下列句子中 “도” 与其他助词连用正确的是？（）",
+      "options": [
+        "어제 백화점에 갔어요. 시장에도 갔어요",
+        "어제 백화점에 갔어요. 도시장에 갔어요",
+        "어제 백화점에도 갔어요. 시장에도 갔어요",
+        "어제 백화점에 갔어요. 시장에 갔어요"
+      ],
+      "answers": [
+        "어제 백화점에 갔어요. 시장에도 갔어요"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1352,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071624892_4",
+      "type": "single_choice",
+      "question": "橙子六个5000韩元的表述，正确的是？（）",
+      "options": [
+        "여섯 개의 사천 원이에요.",
+        "다섯 개의 사천 원이에요.",
+        "다섯 개의 오천 원이에요.",
+        "여섯 개에 오천 원이에요.."
+      ],
+      "answers": [
+        "여섯 개에 오천 원이에요.."
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1353,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071624892_5",
+      "type": "single_choice",
+      "question": "下列哪项符合 “大叔”的翻译？（）",
+      "options": [
+        "아줌마",
+        "언니",
+        "아저씨",
+        "아자씨"
+      ],
+      "answers": [
+        "아저씨"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1354,
       "source": "italent-review"
     }
   ]
