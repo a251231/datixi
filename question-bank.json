@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.03.5",
+  "version": "2026.07.03.6",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-03T17:56:20+08:00",
+  "updatedAt": "2026-07-03T17:57:42+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1374,
+  "questionCount": 1379,
   "typeCounts": {
-    "single_choice": 712,
+    "single_choice": 717,
     "multiple_choice": 213,
     "true_false": 341,
     "fill_blank": 57,
@@ -25207,6 +25207,101 @@
       ],
       "answerLetters": [],
       "sourceIndex": 1374,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072659383_1",
+      "type": "single_choice",
+      "question": "“医院”的拼写是()",
+      "options": [
+        "병원",
+        "뽀원",
+        "병워",
+        "뽀워"
+      ],
+      "answers": [
+        "병원"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1375,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072659383_2",
+      "type": "single_choice",
+      "question": "“面包”的拼写是()",
+      "options": [
+        "뻥",
+        "빵",
+        "뺌",
+        "뻼"
+      ],
+      "answers": [
+        "빵"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1376,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072659383_3",
+      "type": "single_choice",
+      "question": "“球”的拼写是（）",
+      "options": [
+        "고",
+        "곰",
+        "곤",
+        "공"
+      ],
+      "answers": [
+        "공"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1377,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072659383_4",
+      "type": "single_choice",
+      "question": "“西瓜”的拼写是（）",
+      "options": [
+        "소반",
+        "소박",
+        "수박",
+        "수반"
+      ],
+      "answers": [
+        "수박"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1378,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072659383_5",
+      "type": "single_choice",
+      "question": "“衣服”的拼写是（）",
+      "options": [
+        "옷",
+        "옻",
+        "웃",
+        "웇"
+      ],
+      "answers": [
+        "옷"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1379,
       "source": "italent-review"
     }
   ]
