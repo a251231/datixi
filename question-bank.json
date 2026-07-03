@@ -1,14 +1,14 @@
 {
-  "version": "2026.07.03.2",
+  "version": "2026.07.03.3",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-03T17:40:30+08:00",
+  "updatedAt": "2026-07-03T17:41:30+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1354,
+  "questionCount": 1359,
   "typeCounts": {
     "single_choice": 707,
     "multiple_choice": 213,
     "true_false": 341,
-    "fill_blank": 42,
+    "fill_blank": 47,
     "short_answer": 51
   },
   "questions": [
@@ -24932,6 +24932,66 @@
         "C"
       ],
       "sourceIndex": 1354,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071684546_1",
+      "type": "fill_blank",
+      "question": "翻译：脸（小写）",
+      "options": [],
+      "answers": [
+        "wajah"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1355,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071684546_2",
+      "type": "fill_blank",
+      "question": "翻译：桌子（小写）",
+      "options": [],
+      "answers": [
+        "meja"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1356,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071684546_3",
+      "type": "fill_blank",
+      "question": "翻译：眼睛（小写）",
+      "options": [],
+      "answers": [
+        "mata"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1357,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071684546_4",
+      "type": "fill_blank",
+      "question": "翻译：胸膛（小写）",
+      "options": [],
+      "answers": [
+        "dada"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1358,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071684546_5",
+      "type": "fill_blank",
+      "question": "翻译：勺子（小写）",
+      "options": [],
+      "answers": [
+        "sendok"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1359,
       "source": "italent-review"
     }
   ]
