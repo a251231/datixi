@@ -1,14 +1,14 @@
 {
-  "version": "2026.07.03.4",
+  "version": "2026.07.03.5",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-03T17:54:50+08:00",
+  "updatedAt": "2026-07-03T17:56:20+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1364,
+  "questionCount": 1374,
   "typeCounts": {
     "single_choice": 712,
     "multiple_choice": 213,
     "true_false": 341,
-    "fill_blank": 47,
+    "fill_blank": 57,
     "short_answer": 51
   },
   "questions": [
@@ -25087,6 +25087,126 @@
         "A"
       ],
       "sourceIndex": 1364,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_1",
+      "type": "fill_blank",
+      "question": "请将“自行车”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "sepeda"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1365,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_2",
+      "type": "fill_blank",
+      "question": "请将“卡车”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "truk"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1366,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_3",
+      "type": "fill_blank",
+      "question": "请将“海”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "laut"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1367,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_4",
+      "type": "fill_blank",
+      "question": "请将“空中”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "udara"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1368,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_5",
+      "type": "fill_blank",
+      "question": "请将“颜色”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "warna"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1369,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_6",
+      "type": "fill_blank",
+      "question": "请将“黑色”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "hitam"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1370,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_7",
+      "type": "fill_blank",
+      "question": "请将“红色”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "merah"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1371,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_8",
+      "type": "fill_blank",
+      "question": "请将“白色”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "putih"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1372,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_9",
+      "type": "fill_blank",
+      "question": "请将“金色”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "emas"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1373,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783072550541_10",
+      "type": "fill_blank",
+      "question": "请将“蓝色”翻译成印尼文（小写）",
+      "options": [],
+      "answers": [
+        "biru"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1374,
       "source": "italent-review"
     }
   ]
