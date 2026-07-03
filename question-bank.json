@@ -1,14 +1,14 @@
 {
-  "version": "2026.07.02.1",
+  "version": "2026.07.03.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-02T08:33:07+08:00",
+  "updatedAt": "2026-07-03T17:39:24+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1344,
+  "questionCount": 1349,
   "typeCounts": {
     "single_choice": 702,
     "multiple_choice": 213,
     "true_false": 341,
-    "fill_blank": 37,
+    "fill_blank": 42,
     "short_answer": 51
   },
   "questions": [
@@ -24777,6 +24777,66 @@
         "A"
       ],
       "sourceIndex": 1344,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071560707_1",
+      "type": "fill_blank",
+      "question": "汉译英：空着的（小写，v开头）",
+      "options": [],
+      "answers": [
+        "vacant"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1345,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071560707_2",
+      "type": "fill_blank",
+      "question": "汉译英：登记（小写，r开头）",
+      "options": [],
+      "answers": [
+        "register"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1346,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071560708_3",
+      "type": "fill_blank",
+      "question": "汉译英：确认（小写，c开头）",
+      "options": [],
+      "answers": [
+        "confirm"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1347,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071560708_4",
+      "type": "fill_blank",
+      "question": "柜台（小写，c开头）",
+      "options": [],
+      "answers": [
+        "counter"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1348,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783071560708_5",
+      "type": "fill_blank",
+      "question": "折扣（小写，d开头）",
+      "options": [],
+      "answers": [
+        "discount"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1349,
       "source": "italent-review"
     }
   ]
