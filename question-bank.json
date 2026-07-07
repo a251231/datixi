@@ -1,13 +1,13 @@
 {
-  "version": "2026.07.03.6",
+  "version": "2026.07.07.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-03T17:57:42+08:00",
+  "updatedAt": "2026-07-07T10:48:24+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1379,
+  "questionCount": 1380,
   "typeCounts": {
     "single_choice": 717,
     "multiple_choice": 213,
-    "true_false": 341,
+    "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -25302,6 +25302,23 @@
         "A"
       ],
       "sourceIndex": 1379,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783392495569_2",
+      "type": "true_false",
+      "question": "车间三害一恶指的是锈蚀、铜锌、焊渣、毛刺。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1380,
       "source": "italent-review"
     }
   ]
