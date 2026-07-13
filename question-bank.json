@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.07.1",
+  "version": "2026.07.13.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-07T10:48:24+08:00",
+  "updatedAt": "2026-07-13T15:11:04+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1380,
+  "questionCount": 1424,
   "typeCounts": {
-    "single_choice": 717,
-    "multiple_choice": 213,
+    "single_choice": 744,
+    "multiple_choice": 230,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -25319,6 +25319,910 @@
         "A"
       ],
       "sourceIndex": 1380,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649050_1",
+      "type": "single_choice",
+      "question": "精益生产和六西格玛之间虽然起源不同，解决问题的方法也有一定的差异，但是从核心理念上看，两者都强调基于顾客满意的持续改进，企业中需要将精益生产和六西格玛相结合，展开精益六西格玛项目解决问题。对于这种融合，以下哪个说法正确",
+      "options": [
+        "精益生产本质在于降低成本，六西格玛本质在于缩短周期流程",
+        "精益生产本质在于优化流程，六西格玛本质在于标准化作业",
+        "精益生产本质在于消除浪费，六西格玛本质在于消除变异",
+        "精益生产强调量化和统计工具，六西格玛强调连续流动和拉动"
+      ],
+      "answers": [
+        "精益生产本质在于消除浪费，六西格玛本质在于消除变异"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1381,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649050_2",
+      "type": "single_choice",
+      "question": "关于精益生产的描述，不正确的是",
+      "options": [
+        "只适用于离散制造业，对连续流程生产不适用",
+        "精益生产的核心是消除浪费",
+        "精益生产强调要善于发现浪费现象，暴露问题",
+        "精益生产的本质是持续改进"
+      ],
+      "answers": [
+        "只适用于离散制造业，对连续流程生产不适用"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1382,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649050_3",
+      "type": "single_choice",
+      "question": "在DMAIC 改进流程中，使改进后的过程程序化并通过有效的监测方法保持过程改进的结果，这是哪一阶段的工作内容",
+      "options": [
+        "分析阶段",
+        "测量阶段",
+        "改进阶段",
+        "控制阶段"
+      ],
+      "answers": [
+        "控制阶段"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1383,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649050_4",
+      "type": "single_choice",
+      "question": "精益生产的核心理念是",
+      "options": [
+        "实现拉动生产",
+        "减少一切不必要的浪费",
+        "实现质量水平零缺陷",
+        "看板管理"
+      ],
+      "answers": [
+        "减少一切不必要的浪费"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1384,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649050_5",
+      "type": "single_choice",
+      "question": "“平衡计分卡”由下列哪几个维度构成的",
+      "options": [
+        "财务、顾客、内部业务流程、员工学习与成长",
+        "评价系统、战略管理系统、内部沟通系统",
+        "业绩考评系统、财务管理系统、内部流程",
+        "财务系统、绩效考核系统、顾客关系管理系统"
+      ],
+      "answers": [
+        "财务、顾客、内部业务流程、员工学习与成长"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1385,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_6",
+      "type": "single_choice",
+      "question": "当企业的战略目标和战略方案制定后，最重要的就是战略部署，是战略方案具体化，制定在战略规划长短期内的各职能战略的详细规划，包括行动计划及关键绩效指标、预算和相关新程序等，在制定详细的战略规划时，需要考虑组织的各个方面，平衡公司的发展，常使用的工具是：",
+      "options": [
+        "SWOT分析",
+        "力场分析",
+        "平衡计分卡",
+        "FMEA"
+      ],
+      "answers": [
+        "平衡计分卡"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1386,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_7",
+      "type": "single_choice",
+      "question": "下列陈述中，哪个是质量管理先驱休哈特的观点?",
+      "options": [
+        "取消工作定额，代之以领导职能强化",
+        "单一的观测几乎不能构成客观决策的依据",
+        "质量管理活动中重要的三个过程：质量策划、质量控制和质量改进",
+        "质量特征值偏离目标值导致质量损失"
+      ],
+      "answers": [
+        "单一的观测几乎不能构成客观决策的依据"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1387,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_8",
+      "type": "single_choice",
+      "question": "关于六西格玛战略风险，以下说法错误的是",
+      "options": [
+        "风险的大小可以用失败的概率和失败的后果两个变量来标识",
+        "六西格玛管理战略的风险包括与其企业其他战略的协调性、对企业文化的挑战、在技术和管理方面的阻力、与企业实际情况的适应性",
+        "基础管理薄弱的企业不建议过急推广六西格玛管理",
+        "六西格玛是以项目目标完成为基础，因此只要完成各个项目就能达到推进六西格玛的目的"
+      ],
+      "answers": [
+        "六西格玛是以项目目标完成为基础，因此只要完成各个项目就能达到推进六西格玛的目的"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1388,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_9",
+      "type": "single_choice",
+      "question": "质量管理大师戴明先生在其著名的质量管理十四条中指出“停止依靠检验达成质量的做法”，这句话的含义是",
+      "options": [
+        "企业雇佣了太多的检验人员，对企业来说是不经济的",
+        "质量是设计和生产出来的，不是检验出来的",
+        "在大多数情况下，应该由操作人员自己来保证质量，而不是靠检验员保证",
+        "人工检验的效率和准确率较低，依靠检验是不能保证质量的"
+      ],
+      "answers": [
+        "质量是设计和生产出来的，不是检验出来的"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1389,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_10",
+      "type": "single_choice",
+      "question": "六西格玛管理强调以______为关注焦点",
+      "options": [
+        "顾客",
+        "成本",
+        "质量",
+        "效益"
+      ],
+      "answers": [
+        "顾客"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1390,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_11",
+      "type": "single_choice",
+      "question": "PDCA是质量改进的基本过程，具体开展的顺序为：",
+      "options": [
+        "计划、检查、执行、处置",
+        "检查、执行、处置、计划",
+        "检查、计划、执行、处置",
+        "计划、执行、检查、处置"
+      ],
+      "answers": [
+        "计划、执行、检查、处置"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1391,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_12",
+      "type": "single_choice",
+      "question": "按照平衡计分卡的理论，企业培训的六西格玛倡导者、绿带、黑带和资深黑带，可以作为下述哪个维度的指标纳入企业的绩效评价体系:",
+      "options": [
+        "财务",
+        "顾客",
+        "内部流程",
+        "学习和成长"
+      ],
+      "answers": [
+        "学习和成长"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1392,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_13",
+      "type": "single_choice",
+      "question": "下述哪位质量管理大师创建了控制图",
+      "options": [
+        "朱兰",
+        "石川馨",
+        "田口玄一",
+        "休哈特"
+      ],
+      "answers": [
+        "休哈特"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1393,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_14",
+      "type": "single_choice",
+      "question": "通常所说的六西格玛质量水平对应于3.4ppm缺陷率,是考虑了过程输出质量特性的分布中心相对目标值有______偏移的情况",
+      "options": [
+        "+1.5σ",
+        "-1.5σ",
+        "±1.5σ",
+        "3σ"
+      ],
+      "answers": [
+        "±1.5σ"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1394,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_15",
+      "type": "single_choice",
+      "question": "西格玛是20世纪80年代中期由美国摩托罗拉公司创立的一种_____的方法",
+      "options": [
+        "质量策划",
+        "质量改进",
+        "质量控制",
+        "质量管理"
+      ],
+      "answers": [
+        "质量改进"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1395,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_16",
+      "type": "single_choice",
+      "question": "六西格玛管理推行成功最关键的因素是",
+      "options": [
+        "培训",
+        "组织结构",
+        "领导的参与和支持",
+        "项目计划"
+      ],
+      "answers": [
+        "领导的参与和支持"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1396,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_17",
+      "type": "single_choice",
+      "question": "关于六西格玛绿带的描述，哪个是不正确的?",
+      "options": [
+        "绿带可以作为成员参与六西格玛黑带项目",
+        "绿带可以作为项目组长负责六西格玛绿带项目",
+        "绿带可以作为项目组长负责六西格玛黑带项目",
+        "绿带可以作为组员参与六西格玛绿带项目"
+      ],
+      "answers": [
+        "绿带可以作为项目组长负责六西格玛黑带项目"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1397,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_18",
+      "type": "single_choice",
+      "question": "在六西格玛管理的组织结构中，下面的陈述哪个是正确的",
+      "options": [
+        "黑带应当自主决定项目选择",
+        "绿带的数量和素质是推行六西格玛获得成功的关键因素",
+        "倡导者对六西格玛活动整体负责，确定前进方向",
+        "以上都不是"
+      ],
+      "answers": [
+        "倡导者对六西格玛活动整体负责，确定前进方向"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1398,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_19",
+      "type": "single_choice",
+      "question": "黑带是六西格玛管理中最为重要的角色之一。在下面的陈述中，哪些不是六西格玛黑带应承担的任务",
+      "options": [
+        "在倡导者 (Champion) 和资深黑带 (MBB) 的指导下，带领团队完成六西格玛项目",
+        "运用六西格玛管理工具方法，发现问题产生的根本原因，确认改进机会",
+        "与倡导者、资深黑带以及项目相关方沟通，寻求各方的支持和理解",
+        "负责整个组织六西格玛管理的部署，为团队确定六西格玛管理推进目标，分配资源并监控进展"
+      ],
+      "answers": [
+        "负责整个组织六西格玛管理的部署，为团队确定六西格玛管理推进目标，分配资源并监控进展"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1399,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_20",
+      "type": "single_choice",
+      "question": "关于六西格玛管理中角色及职责的描述以下不正确的是:",
+      "options": [
+        "倡导者是企业六西格玛推进的主要负责人，负责制定六西格玛的战略和规划，并为六西格玛的实施提供资源和扫除障碍",
+        "资深黑带负责从战略层面对六西格玛管理进行全面部署",
+        "黑带在六西格玛项目中组织、管理、激励和指导团队开展工作负责团队的启动，管理团队的发展，为团队成员提供培训和辅导",
+        "业务负责人协助选择黑带、绿带，为其提供资源支持，确保过程改进能够落实，保持改进成果"
+      ],
+      "answers": [
+        "资深黑带负责从战略层面对六西格玛管理进行全面部署"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1400,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_21",
+      "type": "single_choice",
+      "question": "企业推行六西格玛一般可以分为四个阶段，即导入期、加速期、成长期和成熟期。对于正准备导入六西格玛管理的企业来说下面哪个建议是正确的?",
+      "options": [
+        "先进行黑带或绿带培训，然后再让他们做项目",
+        "先进行高层管理培训，让高层统一理念",
+        "先请咨询公司为企业做项目，验证六西格玛方法是否有效",
+        "先进行黑带培训，然后"
+      ],
+      "answers": [
+        "先进行高层管理培训，让高层统一理念"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1401,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_22",
+      "type": "single_choice",
+      "question": "协助倡导者和企业高层领导筛选对企业来说至关重要的六西格玛项目，选择合适的人员，并在项目进行中培训和指导，主要是下述哪个角色的职责",
+      "options": [
+        "绿带（GB）",
+        "黑带（BB）",
+        "资深黑带 （MBB）",
+        "业务负责人"
+      ],
+      "answers": [
+        "资深黑带 （MBB）"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1402,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649051_23",
+      "type": "single_choice",
+      "question": "在下列陈述中,不正确的是",
+      "options": [
+        "六西格玛管理只是一种解决质量问题的工具",
+        "六西格玛管理是企业获取竞争优势的战略",
+        "六西格玛管理是企业整体业务改进的管理模式",
+        "六西格玛管理是不断提高顾客满意度科学方法"
+      ],
+      "answers": [
+        "六西格玛管理只是一种解决质量问题的工具"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1403,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_24",
+      "type": "single_choice",
+      "question": "下列陈述中，哪项不是六西格玛倡导者的主要职责?",
+      "options": [
+        "充分认识变革，从战略视角部署和推进六西格玛管理",
+        "合理分配资源，消除组织障碍",
+        "管理及领导资深黑带和黑带",
+        "在项目改进阶段提供解决方案"
+      ],
+      "answers": [
+        "在项目改进阶段提供解决方案"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1404,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_25",
+      "type": "single_choice",
+      "question": "六西格玛的组织架构中没有包含的角色是以下哪一项",
+      "options": [
+        "公司倡导者",
+        "黑带",
+        "绿带",
+        "客户和供应商"
+      ],
+      "answers": [
+        "客户和供应商"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1405,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_26",
+      "type": "single_choice",
+      "question": "确定项目选择及项目优先级是下列哪个角色的职责",
+      "options": [
+        "黑带",
+        "黑带大师",
+        "倡导者",
+        "绿带"
+      ],
+      "answers": [
+        "倡导者"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1406,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_27",
+      "type": "single_choice",
+      "question": "实施六西格玛的组织中的关键角色是_______",
+      "options": [
+        "执行领导",
+        "倡导者",
+        "黑带大师",
+        "黑带"
+      ],
+      "answers": [
+        "倡导者"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1407,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_28",
+      "type": "multiple_choice",
+      "question": "在精益思想中，库存是万恶之源，这句话的真正含义包括:",
+      "options": [
+        "库存占用了企业大量流动资金",
+        "库存掩盖了生产中诸多问题和矛盾",
+        "企业不该建库房",
+        "库存越高，浪费越大"
+      ],
+      "answers": [
+        "库存占用了企业大量流动资金",
+        "库存掩盖了生产中诸多问题和矛盾",
+        "库存越高，浪费越大"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1408,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_29",
+      "type": "multiple_choice",
+      "question": "平衡计分卡力图平衡下述哪些方面",
+      "options": [
+        "财务指标和非财务指标",
+        "绩效考核和战略考核",
+        "领先性指标和滞后性指标",
+        "短期目标和长期目标"
+      ],
+      "answers": [
+        "财务指标和非财务指标",
+        "领先性指标和滞后性指标",
+        "短期目标和长期目标"
+      ],
+      "answerLetters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1409,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_30",
+      "type": "multiple_choice",
+      "question": "在制定战略时, 一般采用SWOT 分析。请判断下面关于SWOT分析的描述，哪几项是正确的",
+      "options": [
+        "分析外部环境时，寻找决定优势（S）与劣势（W）的战略因素",
+        "分析内部环境时,寻找显示出机会（O）和威胁（T）的战略因素",
+        "机会和威胁分析注重外部环境的变化对其企业可能产生的影响",
+        "优势、劣势分析主要着眼于组织自身的实力及其与竞争对手的比较"
+      ],
+      "answers": [
+        "机会和威胁分析注重外部环境的变化对其企业可能产生的影响",
+        "优势、劣势分析主要着眼于组织自身的实力及其与竞争对手的比较"
+      ],
+      "answerLetters": [
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1410,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_31",
+      "type": "multiple_choice",
+      "question": "平衡计分卡是战略部署的典型方法，平衡计分卡中所说的平衡包括",
+      "options": [
+        "财务和非财务指标",
+        "领先性和滞后性指标",
+        "股东、顾客、员工等利益相关方的价值",
+        "质量指标和非质量指标"
+      ],
+      "answers": [
+        "财务和非财务指标",
+        "领先性和滞后性指标",
+        "股东、顾客、员工等利益相关方的价值"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1411,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_32",
+      "type": "multiple_choice",
+      "question": "关于六西格玛管理推进的过程描述正确的是:",
+      "options": [
+        "企业推行六西格玛一般可分为四个阶段:导入期，加速期，成长期，成熟期",
+        "在六西格玛推进的每一阶段都可能会遇到三类阻力: 技术阻力，管理阻力，文化阻力",
+        "六西格玛在成长期需要把六西格玛与公司的使命，愿景和核心价值观高度融合，强化人们的观念和行为方式的改变",
+        "六西格玛在第一年导入期成功之后，如果没有下一步的正确部署，六西格玛会成为短期流行并走向失败"
+      ],
+      "answers": [
+        "企业推行六西格玛一般可分为四个阶段:导入期，加速期，成长期，成熟期",
+        "在六西格玛推进的每一阶段都可能会遇到三类阻力: 技术阻力，管理阻力，文化阻力",
+        "六西格玛在第一年导入期成功之后，如果没有下一步的正确部署，六西格玛会成为短期流行并走向失败"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1412,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_33",
+      "type": "multiple_choice",
+      "question": "关于DMAIC改进流程，下列说法错误的有哪些",
+      "options": [
+        "界定阶段D，确定顾客的关键需求并识别需要改进的产品或过程，将改进项目界定在合理的范围内",
+        "测量阶段M，通过对现有过程的测量，确定过程的基线以及期望达到的目标，识别影响过程输出Y的输入Xs，并对测量系统的有效性做出评价",
+        "改进阶段I，通过数据分析确定影响输出Y 的关键 Xs 即确定过程的关键影响因素",
+        "分析阶段A，寻找优化过程输出Y 并且消除或减小关键 Xs 影响的方案，使过程的缺陷或变异降低",
+        "控制阶段C，使改进后的过程程序化并通过有效的监测方法保持过程改进的成果"
+      ],
+      "answers": [
+        "改进阶段I，通过数据分析确定影响输出Y 的关键 Xs 即确定过程的关键影响因素",
+        "分析阶段A，寻找优化过程输出Y 并且消除或减小关键 Xs 影响的方案，使过程的缺陷或变异降低"
+      ],
+      "answerLetters": [
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1413,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_34",
+      "type": "multiple_choice",
+      "question": "六西格玛管理倡导者是实施六西格玛的组织中的关键角色，他们负有的职责有哪些",
+      "options": [
+        "充分认识变革，为六西格玛确定前进方向",
+        "确认和支持六西格玛管理全面推行，制定战略性的项目规划",
+        "决定该做什么，确定任务的实施优先顺序",
+        "合理分配资源，提供必要的支持"
+      ],
+      "answers": [
+        "充分认识变革，为六西格玛确定前进方向",
+        "确认和支持六西格玛管理全面推行，制定战略性的项目规划",
+        "决定该做什么，确定任务的实施优先顺序",
+        "合理分配资源，提供必要的支持"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1414,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_35",
+      "type": "multiple_choice",
+      "question": "在精益生产中，沃迈克和琼斯把企业内部的浪费分成两类: I型Muda 和II型Muda，有关这两种类型浪费的描述，正确的是",
+      "options": [
+        "先消除I型Muda，然后再努力消除II型Muda",
+        "先消除II型Muda,然后再努力消除I型Muda",
+        "所有的I型和II型Muda都必须消除",
+        "有些I型Muda在现有生产条件下难以消除"
+      ],
+      "answers": [
+        "先消除II型Muda,然后再努力消除I型Muda",
+        "有些I型Muda在现有生产条件下难以消除"
+      ],
+      "answerLetters": [
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1415,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_36",
+      "type": "multiple_choice",
+      "question": "下列职责中，属于黑带职责的有哪些",
+      "options": [
+        "协调和指导跨职能的六西格项目",
+        "领导六西格玛项目团队，实施并完成六西格玛项目",
+        "识别过程改进机会",
+        "选择最有效的工具和技术",
+        "为绿带提供项目指导"
+      ],
+      "answers": [
+        "领导六西格玛项目团队，实施并完成六西格玛项目",
+        "识别过程改进机会",
+        "选择最有效的工具和技术",
+        "为绿带提供项目指导"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "sourceIndex": 1416,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_37",
+      "type": "multiple_choice",
+      "question": "以下属于精益思想的五大原则的有",
+      "options": [
+        "正确的确定价值",
+        "识别价值流",
+        "实施单件流和快速换型",
+        "拉动"
+      ],
+      "answers": [
+        "正确的确定价值",
+        "识别价值流",
+        "拉动"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1417,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_38",
+      "type": "multiple_choice",
+      "question": "六西格玛管理综合体系框架的核心包括：",
+      "options": [
+        "管理承诺",
+        "DMAIC改进模式",
+        "各方参与",
+        "六西格设计DFSS",
+        "测量体系"
+      ],
+      "answers": [
+        "DMAIC改进模式",
+        "六西格设计DFSS"
+      ],
+      "answerLetters": [
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1418,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_39",
+      "type": "multiple_choice",
+      "question": "推行六西格玛管理的目的就是要",
+      "options": [
+        "将每百万出错机会缺陷数降低到3.4",
+        "提升企业核心竞争力",
+        "追求零缺陷，降低劣质成本",
+        "变革企业文化"
+      ],
+      "answers": [
+        "提升企业核心竞争力",
+        "追求零缺陷，降低劣质成本",
+        "变革企业文化"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1419,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_40",
+      "type": "multiple_choice",
+      "question": "以下关于质量大师们的描述，正确的有",
+      "options": [
+        "泰勒——科学管理理论的奠基人，被誉为科学管理之父",
+        "休哈特——创立统计过程控制SPC",
+        "克劳斯比——提出TQC全面质量控制",
+        "戴明——提出问题的产生85%由于企业的管理系统，15%由于员工个人"
+      ],
+      "answers": [
+        "泰勒——科学管理理论的奠基人，被誉为科学管理之父",
+        "休哈特——创立统计过程控制SPC",
+        "戴明——提出问题的产生85%由于企业的管理系统，15%由于员工个人"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1420,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_41",
+      "type": "multiple_choice",
+      "question": "六西格玛管理方法",
+      "options": [
+        "起源于摩托罗拉，发展于通用电气等跨国公司",
+        "其DMAIC 改进模式与PDCA 循环完全不同",
+        "是对全面质量管理特别是质量改进理论的继承性新发展",
+        "可以和质量管理小组(QCC)等改进方法，与ISO9001、卓越绩效模式等管理系统整合推进"
+      ],
+      "answers": [
+        "起源于摩托罗拉，发展于通用电气等跨国公司",
+        "是对全面质量管理特别是质量改进理论的继承性新发展",
+        "可以和质量管理小组(QCC)等改进方法，与ISO9001、卓越绩效模式等管理系统整合推进"
+      ],
+      "answerLetters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1421,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_42",
+      "type": "multiple_choice",
+      "question": "下列关于六西格玛管理的说法正确的有：",
+      "options": [
+        "六西格玛管理是20世纪80年代初期由美国通用电气公司创立的一种质量改进方法",
+        "DMAIC方法是六西格玛管理中现有流程进行突破式改进的主要方式",
+        "六西格玛管理是通过过程的持续改进追求卓越质量，提高顾客满意度，降低成本的一种质量改进方法",
+        "六西格玛管理是根据组织赶超同业领先目标，针对重点管理项目自上而下进行的质量改进",
+        "六西格玛管理不同于以往的质量管理，是一门全新的科学"
+      ],
+      "answers": [
+        "DMAIC方法是六西格玛管理中现有流程进行突破式改进的主要方式",
+        "六西格玛管理是通过过程的持续改进追求卓越质量，提高顾客满意度，降低成本的一种质量改进方法",
+        "六西格玛管理是根据组织赶超同业领先目标，针对重点管理项目自上而下进行的质量改进"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1422,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_43",
+      "type": "multiple_choice",
+      "question": "朱兰认为在质量管理活动中频繁应用的三个过程，即著名的朱兰质量管理三部曲是：",
+      "options": [
+        "质量策划",
+        "质量控制",
+        "产品设计",
+        "质量改进"
+      ],
+      "answers": [
+        "质量策划",
+        "质量控制",
+        "质量改进"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1423,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1783926649052_44",
+      "type": "multiple_choice",
+      "question": "田口方法提出了在新产品开发过程中进行三阶段设计的思想，即:",
+      "options": [
+        "产品设计",
+        "系统设计",
+        "参数设计",
+        "容差设计"
+      ],
+      "answers": [
+        "系统设计",
+        "参数设计",
+        "容差设计"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1424,
       "source": "italent-review"
     }
   ]
