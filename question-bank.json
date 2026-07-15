@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.15.1",
+  "version": "2026.07.15.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-15T11:29:11+08:00",
+  "updatedAt": "2026-07-15T13:31:33+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1456,
+  "questionCount": 1458,
   "typeCounts": {
-    "single_choice": 776,
+    "single_choice": 778,
     "multiple_choice": 230,
     "true_false": 342,
     "fill_blank": 57,
@@ -26832,6 +26832,44 @@
         "A"
       ],
       "sourceIndex": 1456,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784093460056_9",
+      "type": "single_choice",
+      "question": "在某检验点，对20000个零件进行了检验，该零件上有5个缺陷机会，结果共发现80个零件不合格，合计88个缺陷，则DPMO为:（）",
+      "options": [
+        "0.0000880",
+        "880",
+        "800",
+        "8800"
+      ],
+      "answers": [
+        "880"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1457,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784093460057_37",
+      "type": "single_choice",
+      "question": "某个产品有2个关键特性，经过检验在500个产品中35个产品出现40个缺陷，其中有20个产品经过返工消除了缺陷，则该过程观察到得DPU是_______，一次合格率是FTY是______,最终合格率 PFY是________。（）",
+      "options": [
+        "92% 93% 97%",
+        "8% 92% 97%",
+        "8% 93% 97%",
+        "8% 92% 97%"
+      ],
+      "answers": [
+        "8% 93% 97%"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1458,
       "source": "italent-review"
     }
   ]
