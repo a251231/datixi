@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.13.1",
+  "version": "2026.07.15.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-13T15:11:04+08:00",
+  "updatedAt": "2026-07-15T11:29:11+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1424,
+  "questionCount": 1456,
   "typeCounts": {
-    "single_choice": 744,
+    "single_choice": 776,
     "multiple_choice": 230,
     "true_false": 342,
     "fill_blank": 57,
@@ -26223,6 +26223,615 @@
         "D"
       ],
       "sourceIndex": 1424,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134354_1",
+      "type": "single_choice",
+      "question": "下列哪一条VOC不是六西格玛意义上的顾客需求？（）",
+      "options": [
+        "希望贵行柜台的排队时间短一些",
+        "希望各银行加强对信息网络的安全管理",
+        "希望各部门提高自身的工作效率",
+        "希望贵行对我们的供货价格再提高一些"
+      ],
+      "answers": [
+        "希望贵行对我们的供货价格再提高一些"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1425,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134354_2",
+      "type": "single_choice",
+      "question": "某公司在全面推进六西格玛管理，所有的职能部门都要推进六西格玛项目，该公司的人力资源部在做一个关于车间人员流失率的改进项目，在项目启动初始，项目团队就过程的内部顾客的识别产生的歧义，该项目正确的顾客是（）",
+      "options": [
+        "生产部门",
+        "消费者",
+        "公司老板",
+        "人力资源部"
+      ],
+      "answers": [
+        "生产部门"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1426,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134354_3",
+      "type": "single_choice",
+      "question": "按照KANO模型对顾客需求的三个层次，信用卡免息还款期的长短最接近的可能是（）",
+      "options": [
+        "基本型需求(必须的)",
+        "期望型需求(越多越好的)",
+        "兴奋型需求(魅力的)",
+        "偶然型需求(随意的)"
+      ],
+      "answers": [
+        "期望型需求(越多越好的)"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1427,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134354_4",
+      "type": "single_choice",
+      "question": "关于卡诺质量模型描述错误的是（）",
+      "options": [
+        "卡诺模型是日本质量专家狩野纪昭提出来的",
+        "包含三种质量:基本质量，一元质量，魅力质量",
+        "三种质量会相互转化，魅力质量有可能会变为基本质量",
+        "手机待机时间越长，顾客越满意，这是属于基本质量"
+      ],
+      "answers": [
+        "手机待机时间越长，顾客越满意，这是属于基本质量"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1428,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134354_6",
+      "type": "single_choice",
+      "question": "某笔记本生产企业在改进笔记本设计时对现有顾客和潜在顾客进行调查，得到了大量顾客需求信息，他们准备使用KANO模型对顾客要求进行分类，下述哪一个需求可以看作典型的一元需求？（）",
+      "options": [
+        "安全，不出现电池爆炸或自燃现象",
+        "系统运行稳定，在运行中很少出现死机或蓝屏现象",
+        "电池工作时间长",
+        "具有触摸屏功能"
+      ],
+      "answers": [
+        "电池工作时间长"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1429,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134355_7",
+      "type": "single_choice",
+      "question": "加工5 个线圈，2 个是坏品，每个坏品有2处不良，则DPU 是:（）",
+      "options": [
+        "2",
+        "0.8",
+        "0.4",
+        "以上都不是"
+      ],
+      "answers": [
+        "0.8"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1430,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134355_8",
+      "type": "single_choice",
+      "question": "在某检验点，对1000 个某零件进行检验每个零件上有10 个缺陷机会，结果共发现16 个零件不合格，合计32 个缺陷，则DPMO为:（）",
+      "options": [
+        "0.0032",
+        "3200",
+        "32000",
+        "1600"
+      ],
+      "answers": [
+        "3200"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1431,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134355_10",
+      "type": "single_choice",
+      "question": "一份订单上有5个重要信息需要准确无误地填写。在已填写的1000个订单中，发现有30个错误。请问，订单填写过程的DPMO是多少?（）",
+      "options": [
+        "6000",
+        "30000",
+        "60000",
+        "80000"
+      ],
+      "answers": [
+        "6000"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1432,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134355_11",
+      "type": "single_choice",
+      "question": "假定在 500 块电路板中，每个电路板都含有 2000 个缺陷机会，若在制造这500块电路板时共发现18个缺陷，则其机会缺陷率为______。（）",
+      "options": [
+        "0.0018%",
+        "0.14%",
+        "0.9%",
+        "1.4%"
+      ],
+      "answers": [
+        "0.0018%"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1433,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134355_13",
+      "type": "single_choice",
+      "question": "某产品有4个特性指标，在20000个产品中，有100个产品存在800处缺陷。那么该产品的DPMO值是_______。（）",
+      "options": [
+        "20000",
+        "10000",
+        "12500",
+        "1250"
+      ],
+      "answers": [
+        "10000"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1434,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134355_16",
+      "type": "single_choice",
+      "question": "一个过程由三个工作步骤构成（如图所示），每个步骤相互独立，每个步骤的一次合格率FTY分别是：FTY1 = 99% ；FTY2 = 97%；FTY3 = 96%。则整个过程的流通合格率为（）",
+      "options": [
+        "92.2%",
+        "99%",
+        "96%",
+        "97.3%"
+      ],
+      "answers": [
+        "92.2%"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1435,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134355_17",
+      "type": "single_choice",
+      "question": "某生产线有三道彼此独立的工序，三道工序的合格率分别为:95%，90%，98%。如下图所示:每道工序后有一检测点，可检出前道工序的缺陷，缺陷不可返修,问此时整条线的初检合格率是多少?",
+      "options": [
+        "90%",
+        "98%",
+        "83.79%",
+        "83%"
+      ],
+      "answers": [
+        "83.79%"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1436,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_18",
+      "type": "single_choice",
+      "question": "某生产过程由以下三个主要步骤构成，在过去的三个月内，每一步骤的输出结果如下： 注:这里的交付数是指通过检验提交下道工序的产品数，包含经返修后合格的产品。该过程的流通合格率(RTY)是多少?",
+      "options": [
+        "85%",
+        "95%",
+        "81%",
+        "96%"
+      ],
+      "answers": [
+        "81%"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1437,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_19",
+      "type": "single_choice",
+      "question": "某生产线有两道工序，如下图所示，每道工序后有检验工序（菱形）表示，两道工序本身的初检合格率为90%和92%，A和B为返修工序。根据历史数据，进入返修的产品50%能修好，50%需要报废。假设检验能检出所有不合格，以下说法正确的是：（）",
+      "options": [
+        "整个生产线的直通率为91.2%",
+        "整个生产线的直通率为82.8%",
+        "整个生产线的直通率为87.4%",
+        "整个生产线的直通率为88%"
+      ],
+      "answers": [
+        "整个生产线的直通率为82.8%"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1438,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_20",
+      "type": "single_choice",
+      "question": "项目团队发展过程中，将依次经过：（）",
+      "options": [
+        "形成期、规范期、震荡期、执行期",
+        "震荡期、形成期、规范期、执行期",
+        "形成期、震荡期、规范期、执行期",
+        "震荡期、形成期、执行期、规范期"
+      ],
+      "answers": [
+        "形成期、震荡期、规范期、执行期"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1439,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_21",
+      "type": "single_choice",
+      "question": "下述团队行为标示着团队进入了哪个发展阶段?（）。团队的任务已为其成员所了解，但他们对实现目标的最佳方法存在着分歧，团队成员仍首先作为个体来思考，并往往根据自己的经历做出决定，这些分歧可能引起团队内的争论甚至矛盾。",
+      "options": [
+        "形成期",
+        "震荡期",
+        "规范期",
+        "执行期"
+      ],
+      "answers": [
+        "震荡期"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1440,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_22",
+      "type": "single_choice",
+      "question": "六西格玛项目进入震荡期，一个突出的表现就是:成员对项目目标和工作方法产生分歧，如何处理分歧，以下做法错误的是（）",
+      "options": [
+        "加强团队成员之间的沟通",
+        "鼓励成员发表不同的意见",
+        "统一认识，不许发表与项目目标和工作方法不同的意见",
+        "必要时请业务负责人或倡导者出面支持"
+      ],
+      "answers": [
+        "统一认识，不许发表与项目目标和工作方法不同的意见"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1441,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_23",
+      "type": "single_choice",
+      "question": "震荡期是团队发展的阶段之一，关于团队震荡期的描述，不正确的是:（）",
+      "options": [
+        "团队成员往往作为个体来思考根据自己的经历做出决定，而不是与其他成员协商广泛听取建议",
+        "当团队产生分歧时，团队组长可以通过个别沟通的方法带领团队取得对实现项目目标的一致看法",
+        "团队成员来自于不同的部门，有不同的背景和思考问题的方式存在分歧并不会影响项目目标的实现",
+        "团队组长在此阶段更应该加强沟通，强调实现目标的重要性，通过沟通在团队达成共识"
+      ],
+      "answers": [
+        "团队成员来自于不同的部门，有不同的背景和思考问题的方式存在分歧并不会影响项目目标的实现"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1442,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_24",
+      "type": "single_choice",
+      "question": "在六西格玛项目实施过程中，团队运用头脑风暴法时遇到了这样的问题：一些成员对另一些成员提出的想法表示异议，由此大家争论了起来。这时，作为团队负责人，你应该（）",
+      "options": [
+        "保持沉默，让大家继续争论",
+        "请团队中的权威人士发言，就大家的争论做出评判",
+        "制止争论，将各方的想法记录下来",
+        "采用投票法，按多数人的意见形成决议"
+      ],
+      "answers": [
+        "制止争论，将各方的想法记录下来"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1443,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_25",
+      "type": "single_choice",
+      "question": "“团队已经成为一个具有高度凝聚力的整体，并能够群体解决问题”是团队发展4个阶段中的哪个阶段特征？（）",
+      "options": [
+        "形成期",
+        "震荡期",
+        "规范期",
+        "执行期"
+      ],
+      "answers": [
+        "执行期"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1444,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_26",
+      "type": "single_choice",
+      "question": "六西格玛项目的实施过程是一个流程变革、系统变革和文化变革的过程。对于变革管理，以下哪项说法不正确？（）",
+      "options": [
+        "变革管理的根本目的是确保项目实施成功所必需的利益相关者的支持与承诺",
+        "企业全体员工接受并适应新的系统与业务流程",
+        "项目所涉及的人员，其积极主动的心态并不能带来变革",
+        "变革管理工作的核心是沟通",
+        "团队成员积极主动是可以带来变革的，C 选择是错误的"
+      ],
+      "answers": [
+        "项目所涉及的人员，其积极主动的心态并不能带来变革"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1445,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_27",
+      "type": "single_choice",
+      "question": "亲和图又称KJ法，是日本质量学者川喜田二郎研究开发并加以推广的管理方法。请问，下述关于亲和图法的描述正确的是：（）",
+      "options": [
+        "亲和图法用于将关系复杂的因素，按原因-结果或目的-手段有逻辑地连接起来，从而理清复杂问题",
+        "亲和图法通常用在头脑风暴之后，对罗列出的想法按照某种属性进行分类或整理",
+        "通过亲和图法可以进行项目选择和排序",
+        "通过亲和图法可以将复杂的改进机会进行分解，从而确定具体的六西格玛项目"
+      ],
+      "answers": [
+        "亲和图法通常用在头脑风暴之后，对罗列出的想法按照某种属性进行分类或整理"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1446,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_28",
+      "type": "single_choice",
+      "question": "在确定六西格玛项目时，常常遇到改进机会十分复杂，需要进一步分解才能确定具体的六西格玛项目。例如，开展提高顾客满意度的改善项目时，往往需要将这个难以测量的复杂问题分解成可测量的特性。此时，应该采用如下的哪个工具？（）",
+      "options": [
+        "树图",
+        "甘特图",
+        "因果图",
+        "亲和图"
+      ],
+      "answers": [
+        "树图"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1447,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134356_29",
+      "type": "single_choice",
+      "question": "下表表示某企业拟选的六西格玛项目及项目选择需要考虑的因素和权重，请根据下表，选出项目优先顺序(从高到低)的正确排序。（）",
+      "options": [
+        "项目1、项目3、项目4、项目2",
+        "项目2、项目4、项目1、项目3",
+        "项目1、项目3、项目2、项目4",
+        "项目1、项目2、项目3、项目4"
+      ],
+      "answers": [
+        "项目1、项目3、项目2、项目4"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1448,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_30",
+      "type": "single_choice",
+      "question": "某六西格玛团队识别出三个软件包能极大地帮助他们改进一个过程，但需要决定购买哪一个。每个软件包都有一些相同和不同的特性。团队运用了许多不同的准则进行决策，包括价格、服务、兼容性等。下面哪种工具对团队决策最有帮助：（）",
+      "options": [
+        "树图",
+        "网络图",
+        "优先矩阵图",
+        "PDPC（过程程序决策图）法"
+      ],
+      "answers": [
+        "优先矩阵图"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1449,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_31",
+      "type": "single_choice",
+      "question": "某六西格玛项目的主要任务是分析一个复杂的施工过程并试图缩短工期，通过作业分解已经掌握了各项活动的时间和先后关系，为了分析计算工期和优化资源，该项目组应采用（）",
+      "options": [
+        "过程决策程序图",
+        "因果分析",
+        "网络图",
+        "矩阵图"
+      ],
+      "answers": [
+        "网络图"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1450,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_32",
+      "type": "single_choice",
+      "question": "哪种工具可以用于解决下述问题:一项任务可以分解为许多作业，这些作业相互依赖和相互制约，团队希望把各项作业之间的这种依赖和制约关系清晰地表示出来并通过适当的分析找出影响进度的关键路径，从而能进行统筹协调。",
+      "options": [
+        "PDPC(过程决策程序图)",
+        "箭条图(网络图)",
+        "树图",
+        "关联图"
+      ],
+      "answers": [
+        "箭条图(网络图)"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1451,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_33",
+      "type": "single_choice",
+      "question": "请由下面网络图求出该项任务的关键路径是多少天？（）",
+      "options": [
+        "22 天",
+        "15 天",
+        "21 天",
+        "23 天"
+      ],
+      "answers": [
+        "22 天"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1452,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_36",
+      "type": "single_choice",
+      "question": "使用水平对比benchmarking时，有关选择对比对象的表述，以下错误的是:（）",
+      "options": [
+        "对比对象可以是竞争性行业或非竞争性行业中职能活动的最佳实践者",
+        "对比对象可以是非竞争性行业中职能活动相似的最佳实践者",
+        "对比对象只能是竞争性行业中职能活动的最佳实践者",
+        "对比对象不能选择竞争性行业中的一般企业"
+      ],
+      "answers": [
+        "对比对象只能是竞争性行业中职能活动的最佳实践者"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1453,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_38",
+      "type": "single_choice",
+      "question": "在某六西格玛项目立项之初，确定了该项目要将某产品的直通率FTY提高，以便缩短生产周期和降低成本。通过初步数据分析，团队发现供应商提供的塑料件外观缺陷占总缺陷的 80%，而且设计部门、生产部门和质量检验部门对外观检验的程序和标准不太统一，在构建项目团队时，最佳的团队构成是:（）",
+      "options": [
+        "质量检验部门、生产部门和设计部门以及供应商组成的跨职能团队",
+        "这是一个与生产部门密切相关的项目，团队成员应全部来自生产部门",
+        "这是一个与质量检验部门密切相关的项目，团队成员应全部来自质量检验部门",
+        "质量检验部门、生产部门和设计部门组成的跨职能团队"
+      ],
+      "answers": [
+        "质量检验部门、生产部门和设计部门以及供应商组成的跨职能团队"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1454,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_39",
+      "type": "single_choice",
+      "question": "过程决策程序图PDPC可应用于以下场合:（）",
+      "options": [
+        "评价、选择最优方案",
+        "用于归纳思想，提出新的构思",
+        "整理顾客需求",
+        "通过预测可能出现的障碍和结果，事先策划出多种应变计划"
+      ],
+      "answers": [
+        "通过预测可能出现的障碍和结果，事先策划出多种应变计划"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1455,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784086134357_40",
+      "type": "single_choice",
+      "question": "在绘制双代号网络图时，需要引入虚工序dummy activity，关于虚工序的描述，正确的是:（）",
+      "options": [
+        "虚工序既不消耗时间，也不消耗资源",
+        "虚工序不消耗时间，但可能消耗资源",
+        "绘制网络图时虚工序越多越好",
+        "虚工序肯定不会出现在关键路线上"
+      ],
+      "answers": [
+        "虚工序既不消耗时间，也不消耗资源"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1456,
       "source": "italent-review"
     }
   ]
