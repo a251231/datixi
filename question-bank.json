@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.15.2",
+  "version": "2026.07.16.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-15T13:31:33+08:00",
+  "updatedAt": "2026-07-16T14:21:35+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1458,
+  "questionCount": 1478,
   "typeCounts": {
-    "single_choice": 778,
-    "multiple_choice": 230,
+    "single_choice": 796,
+    "multiple_choice": 232,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -26870,6 +26870,391 @@
         "C"
       ],
       "sourceIndex": 1458,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891913_1",
+      "type": "single_choice",
+      "question": "六西格玛价值观之一是聚焦于过程改进，对于过程的理解，以下说法不正确的是:（）",
+      "options": [
+        "过程是一组将输入转化为输出的相互关联或相互作用的活动",
+        "过程的输入可以是有形的，也可以是无形的",
+        "增值是对过程的期望",
+        "所有过程输入均应是可控的"
+      ],
+      "answers": [
+        "所有过程输入均应是可控的"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1459,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891914_2",
+      "type": "single_choice",
+      "question": "六西格玛项目团队在明确项目范围时，应采用以下什么工具？（）",
+      "options": [
+        "因果图",
+        "SIPOC图",
+        "PDPC法",
+        "头脑风暴法"
+      ],
+      "answers": [
+        "SIPOC图"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1460,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891914_3",
+      "type": "single_choice",
+      "question": "SIPOC是____，_____，____，____和____的缩写。（）",
+      "options": [
+        "系统、智能、生产、定位、控制",
+        "倡导者、改进、流程、优化、控制",
+        "供应商、输入、过程、输出、顾客",
+        "标准化、输入、供给、输出、容量"
+      ],
+      "answers": [
+        "供应商、输入、过程、输出、顾客"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1461,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891914_4",
+      "type": "single_choice",
+      "question": "SIPOC分析常常是项目界定阶段的一项重要工作。对SIPOC图作用的描述，下列哪一个是错误的？（）",
+      "options": [
+        "使用 SIPOC 图可以界定项目的边界",
+        "使用 SIPOC 图可以分析项目的顾客",
+        "使用 SIPOC 图可以分析过程的细节和非增值步骤",
+        "使用 SIPOC 图可以分析项目所涉及的过程供方"
+      ],
+      "answers": [
+        "使用 SIPOC 图可以分析过程的细节和非增值步骤"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1462,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891914_6",
+      "type": "single_choice",
+      "question": "下述关于SIPOC图的陈述，不正确的是：（）",
+      "options": [
+        "SIPOC图要尽量详细，不能漏掉细节",
+        "SIPOC图的输出和输入可以是有形的，也可以是无形的",
+        "SIPOC图的S(供方)可能是企业内部的，也可能是企业外部的",
+        "SIPOC图主要用于界定项目的边界"
+      ],
+      "answers": [
+        "SIPOC图要尽量详细，不能漏掉细节"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1463,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891914_7",
+      "type": "single_choice",
+      "question": "以下角色中，对项目范围的定义负有最终/首要责任的是（）",
+      "options": [
+        "黑带",
+        "黑带大师",
+        "项目负责人",
+        "倡导者"
+      ],
+      "answers": [
+        "倡导者"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1464,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891914_8",
+      "type": "single_choice",
+      "question": "如果一个改进团队要通过从一般的客户需求转移到更具体的客户需求来调查他们的客户群，应该采用什么技术?（）",
+      "options": [
+        "帕累托分析",
+        "卡诺模型",
+        "树图",
+        "亲和图"
+      ],
+      "answers": [
+        "树图"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1465,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891914_9",
+      "type": "single_choice",
+      "question": "在六西格玛项目的界定Define阶段进行问题陈述时，以下哪种描述是错误的？（）",
+      "options": [
+        "应阐明问题对企业战略目标或顾客的影响",
+        "要将造成问题的原因和改进方案一起描述",
+        "应阐明问题发生的条件（时间、地点等）和频率",
+        "应阐明问题导致的损失"
+      ],
+      "answers": [
+        "要将造成问题的原因和改进方案一起描述"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1466,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_10",
+      "type": "single_choice",
+      "question": "在项目立项表中,需要陈述\"经营情况\"Business Case，也被称为项目背景，该项内容是为了说明（）",
+      "options": [
+        "为什么要做该项目",
+        "项目的目标",
+        "项目要解决的问题",
+        "问题产生的原因"
+      ],
+      "answers": [
+        "为什么要做该项目"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1467,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_11",
+      "type": "single_choice",
+      "question": "表面封装技术SMT【Surface Mount Technology】生产主要由锡浆印刷、插件和回流焊三道工序组成，某企业统计发现，该SMT生产线的DPU=0.04， 产品在该生产线上的缺陷机会数为200，则该SMT生产过程的DPMO为：（）",
+      "options": [
+        "8",
+        "200",
+        "5000",
+        "500"
+      ],
+      "answers": [
+        "200"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1468,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_13",
+      "type": "single_choice",
+      "question": "检验和试验费用或质量审核费用是属于哪一类型质量成本？（）",
+      "options": [
+        "预防成本",
+        "鉴定成本",
+        "内部故障(损失)成本",
+        "外部故障(损失)成本"
+      ],
+      "answers": [
+        "鉴定成本"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1469,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_14",
+      "type": "single_choice",
+      "question": "关于项目目标SMART原则解释正确的是（）",
+      "options": [
+        "具体的、可测量的、可行的、相关的、有时间限制的",
+        "挑战的、可测量的、可行的、相关的、有时间限制的",
+        "具体的、满足顾客要求的、可行的、相关的、有时间限制的",
+        "具体的、可测量的、可行的、相关的、团队的"
+      ],
+      "answers": [
+        "具体的、可测量的、可行的、相关的、有时间限制的"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1470,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_15",
+      "type": "single_choice",
+      "question": "在下述项目目标的陈述中，符合六西格玛项目与SMART原则的是：（）",
+      "options": [
+        "2006年12月底前，将缺陷率降低到5%以下",
+        "2006年12月底前，使缺陷率降有较大的降低",
+        "2006年12月底前，使流程的不良质量成本有较明显的降低",
+        "2006年12月底前，将未能在10天内回款的交易的比例从目前的20%降低到5%以下"
+      ],
+      "answers": [
+        "2006年12月底前，将未能在10天内回款的交易的比例从目前的20%降低到5%以下"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1471,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_18",
+      "type": "single_choice",
+      "question": "界定阶段是六西格玛 DMAIC 五步法中非常重要的一个阶段，应正确地实施这个阶段的项目工作。下述陈述中，哪一个不是界定阶段的工作？（）",
+      "options": [
+        "确认顾客关键需求，明确本项目关注的关键质量特性",
+        "对缺陷产生的原因进行分析",
+        "识别项目所涉及的主要流程",
+        "组建项目团队，编制项目立项表或特许任务书"
+      ],
+      "answers": [
+        "对缺陷产生的原因进行分析"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1472,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_19",
+      "type": "single_choice",
+      "question": "在制定一个六西格玛改善项目计划时，通常使用的工具是（）",
+      "options": [
+        "排列图",
+        "甘特图",
+        "SIPOC分析",
+        "树图"
+      ],
+      "answers": [
+        "甘特图"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1473,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_20",
+      "type": "single_choice",
+      "question": "在团队活动开始之初，应建立团队合约，以充分理解项目指标，规则等，这句话的说法（）",
+      "options": [
+        "正确",
+        "错误",
+        "不一定"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1474,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_22",
+      "type": "single_choice",
+      "question": "六西格玛项目团队发展的阶段顺序是（）",
+      "options": [
+        "震荡，形成，执行，规范",
+        "形成，震荡，规范，执行",
+        "震荡，形成，规范，执行",
+        "形成，震荡，执行，规范"
+      ],
+      "answers": [
+        "形成，震荡，规范，执行"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1475,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891915_23",
+      "type": "single_choice",
+      "question": "在六西格玛方法论中，你能看到最先使用的工具是（）",
+      "options": [
+        "详细流程图—M 阶段——罗列过程的所有可能的输入因子",
+        "项目立项表Project Charter ——D阶段——项目负责人、团队、倡导者、业务负责人之间的合约",
+        "因果矩阵—A 阶段——对流程的输入因子做初步的筛选",
+        "FMEA——A 阶段——对潜在X’s因子做二次筛选"
+      ],
+      "answers": [
+        "项目立项表Project Charter ——D阶段——项目负责人、团队、倡导者、业务负责人之间的合约"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1476,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891916_28",
+      "type": "multiple_choice",
+      "question": "使用净现值【NPV】评价六西格玛项目经济性时，下述哪些说法是正确的?（）",
+      "options": [
+        "净现值<0,六西格玛项目的经济性不好，项目不可行",
+        "净现值>0,六西格玛项目的经济性不好，项目不可行",
+        "净现值是指当前企业拥有的现金流",
+        "净现值的计算与折现率有关"
+      ],
+      "answers": [
+        "净现值<0,六西格玛项目的经济性不好，项目不可行",
+        "净现值的计算与折现率有关"
+      ],
+      "answerLetters": [
+        "A",
+        "D"
+      ],
+      "sourceIndex": 1477,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784182891916_33",
+      "type": "multiple_choice",
+      "question": "六西格玛流程中，以下属于界定阶段的目的的是（）",
+      "options": [
+        "保证项目没有强加到别的部门",
+        "清晰界定项目的范围",
+        "确定项目特定的指标",
+        "明确确定项目的目标"
+      ],
+      "answers": [
+        "清晰界定项目的范围",
+        "确定项目特定的指标",
+        "明确确定项目的目标"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1478,
       "source": "italent-review"
     }
   ]
