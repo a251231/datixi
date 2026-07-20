@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.16.1",
+  "version": "2026.07.20.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-16T14:21:35+08:00",
+  "updatedAt": "2026-07-20T08:32:11+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1478,
+  "questionCount": 1488,
   "typeCounts": {
-    "single_choice": 796,
+    "single_choice": 806,
     "multiple_choice": 232,
     "true_false": 342,
     "fill_blank": 57,
@@ -27255,6 +27255,196 @@
         "D"
       ],
       "sourceIndex": 1478,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529102_1",
+      "type": "single_choice",
+      "question": "根据《安全生产法》，生产经营单位从业人员有权了解作业场所和工作岗位存在的（ ）、防范措施及事故应急措施。",
+      "options": [
+        "安全投入",
+        "危险因素",
+        "管理制度",
+        "考核标准"
+      ],
+      "answers": [
+        "危险因素"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1479,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529102_2",
+      "type": "single_choice",
+      "question": "从业人员有权对本单位安全生产工作中存在的问题提出批评、检举、（ ）。",
+      "options": [
+        "控告",
+        "申诉",
+        "投诉",
+        "异议"
+      ],
+      "answers": [
+        "控告"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1480,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529102_3",
+      "type": "single_choice",
+      "question": "从业人员应当接受安全生产教育和培训，核心目的是（ ），提升应急处置能力。",
+      "options": [
+        "完成培训任务",
+        "掌握本职安全知识、提升操作技能",
+        "应付安全检查",
+        "满足上岗形式要求"
+      ],
+      "answers": [
+        "掌握本职安全知识、提升操作技能"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1481,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529102_4",
+      "type": "single_choice",
+      "question": "从业人员发现事故隐患或不安全因素，应当立即向（ ）报告。",
+      "options": [
+        "亲友",
+        "现场安全管理人员或本单位负责人",
+        "上级政府部门",
+        "网络平台"
+      ],
+      "answers": [
+        "现场安全管理人员或本单位负责人"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1482,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529102_5",
+      "type": "single_choice",
+      "question": "因生产安全事故受到损害的从业人员，除工伤保险外，依照民事法律有权向本单位提出（ ）要求。",
+      "options": [
+        "岗位调整",
+        "经济赔偿",
+        "带薪休假",
+        "职务晋升"
+      ],
+      "answers": [
+        "经济赔偿"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1483,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529103_6",
+      "type": "single_choice",
+      "question": "未经安全生产教育和培训合格的从业人员，（ ）上岗作业。",
+      "options": [
+        "可以临时",
+        "不得",
+        "领导同意即可",
+        "熟练工可以"
+      ],
+      "answers": [
+        "不得"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1484,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529103_7",
+      "type": "single_choice",
+      "question": "从业人员作业时，对配发的劳动防护用品应当（ ）。",
+      "options": [
+        "随意佩戴",
+        "规范佩戴、正确使用",
+        "闲置不用",
+        "私自转借"
+      ],
+      "answers": [
+        "规范佩戴、正确使用"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1485,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529103_8",
+      "type": "single_choice",
+      "question": "从业人员发现作业现场存在重大安全隐患、危及人身安全时，下列说法正确的是（ ）。",
+      "options": [
+        "可先行撤离，无需等待审批",
+        "必须等待管理人员到场",
+        "强行冒险作业",
+        "隐瞒不报继续工作"
+      ],
+      "answers": [
+        "可先行撤离，无需等待审批"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1486,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529103_9",
+      "type": "single_choice",
+      "question": "从业人员应当（ ）本单位的安全生产规章制度和操作规程。",
+      "options": [
+        "选择性遵守",
+        "严格遵守",
+        "可灵活变通",
+        "仅口头遵守"
+      ],
+      "answers": [
+        "严格遵守"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1487,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784507529103_10",
+      "type": "single_choice",
+      "question": "下列属于从业人员安全生产法定义务的是（ ）。",
+      "options": [
+        "了解岗位危险因素",
+        "拒绝违章指挥",
+        "报告安全隐患",
+        "提出安全建议"
+      ],
+      "answers": [
+        "报告安全隐患"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1488,
       "source": "italent-review"
     }
   ]
