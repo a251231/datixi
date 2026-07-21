@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.20.1",
+  "version": "2026.07.21.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-20T08:32:11+08:00",
+  "updatedAt": "2026-07-21T16:24:42+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1488,
+  "questionCount": 1525,
   "typeCounts": {
-    "single_choice": 806,
-    "multiple_choice": 232,
+    "single_choice": 840,
+    "multiple_choice": 235,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -27445,6 +27445,707 @@
         "C"
       ],
       "sourceIndex": 1488,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_1",
+      "type": "single_choice",
+      "question": "某六西格玛绿带项目组对一关键过程进行了过程能力分析，分析结果见以下Minitab输出的报告。基于这一报告，你对该过程的过程能力水平的评价是（）",
+      "options": [
+        "绝大部分产品落在规格范围内，说明过程能力很高",
+        "过程能力较低，过程分布中心与规格中心（公差中心）偏离较大",
+        "过程能力很高，只是分布中心与规格中心(公差中心）偏离较严重",
+        "无法根据此报告判定过程能力"
+      ],
+      "answers": [
+        "过程能力较低，过程分布中心与规格中心（公差中心）偏离较大"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1489,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_2",
+      "type": "single_choice",
+      "question": "对计算过程能力而言，不需要过程处于稳定状态（）",
+      "options": [
+        "对",
+        "错"
+      ],
+      "answers": [
+        "错"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1490,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_3",
+      "type": "single_choice",
+      "question": "当过程Cp高于Cpk时，对该过程我们可以说（）",
+      "options": [
+        "过程中存在大量变差",
+        "过程均值没有对准目标值",
+        "变差主要包括普通原因导致的变差",
+        "A和C都对"
+      ],
+      "answers": [
+        "过程均值没有对准目标值"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1491,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_5",
+      "type": "single_choice",
+      "question": "非正态数据也可以进行分析，这句话的说法（）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1492,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_6",
+      "type": "single_choice",
+      "question": "当评估测量评价系统中的错误时，三种类型的变差指什么？（）",
+      "options": [
+        "评价人自身、评价人之间、以及评价人对比",
+        "评价人自身、评价人之间、以及评价人与标准对比的准确性",
+        "一致百分比，Kappa统计量和组内相关系数ICC",
+        "Kappa统计量，组内相关系数ICC,及Kendalls一致性系数"
+      ],
+      "answers": [
+        "评价人自身、评价人之间、以及评价人与标准对比的准确性"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1493,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_7",
+      "type": "single_choice",
+      "question": "测量系统的Bias代表的是测量系统的准确度，也就是（）",
+      "options": [
+        "测量值和真实值的平均差异",
+        "真实值与标准值的平均差异",
+        "测量值与实际值的平均差异",
+        "实际值与标准值的平均差异"
+      ],
+      "answers": [
+        "测量值和真实值的平均差异"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1494,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_8",
+      "type": "single_choice",
+      "question": "在测量系统分析时，我们知道总变异等于测量系统的变异加上样本的变异，其中测量系统的变异又是由以下哪一对变异造成的?（）",
+      "options": [
+        "系统方差和偏倚",
+        "噪声系统和重复性",
+        "操作员的变异和仪器的变异",
+        "重复性的变异和再现性的变异"
+      ],
+      "answers": [
+        "重复性的变异和再现性的变异"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1495,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_9",
+      "type": "single_choice",
+      "question": "在分析一个测量系统时，我们基本上是要监控三个很重要的指标：%Study Var，%Tolerance和Number of Distinct Categories,哪一个我们是希望能得到越高的值越佳?（）",
+      "options": [
+        "%Study Var",
+        "%Tolerance",
+        "Number of Distinct Categories"
+      ],
+      "answers": [
+        "Number of Distinct Categories"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1496,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_10",
+      "type": "single_choice",
+      "question": "以下哪一项是算不了的，如果我们不知道过程的公差（）",
+      "options": [
+        "%Study Var",
+        "%Tolerance",
+        "Number of Distinct Categories"
+      ],
+      "answers": [
+        "%Tolerance"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1497,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_11",
+      "type": "single_choice",
+      "question": "在改善某一液晶板生产线的质量项目中，需要加电后目测出液晶板是否有瑕疵。由于检测工人的技术水平、认真态度等有差异，经常出现检测结果不一致的现象，若对该测量系统的一致性进行分析，需要用到下列哪种工具进行研究：（）",
+      "options": [
+        "Kappa分析",
+        "缺陷控制图",
+        "GRR%分析",
+        "可靠性分析"
+      ],
+      "answers": [
+        "Kappa分析"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1498,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279538_12",
+      "type": "single_choice",
+      "question": "在测量系统分析，分析操作者之间或系统与系统之间的波动，称之为？（）",
+      "options": [
+        "再现性",
+        "重复性",
+        "偏倚",
+        "稳定性"
+      ],
+      "answers": [
+        "再现性"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1499,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_13",
+      "type": "single_choice",
+      "question": "测量员用同一台千分尺对零件长度进行测量，计算得到测量值的总波动的方差为10，量具重复性方差为3，再现性方差为4，基于上述数据，正确的结论是：（）",
+      "options": [
+        "测量系统能力很好",
+        "测量系统能力尚可，处于临界状态",
+        "测量系统能力不足，必须进行改进",
+        "条件不足，难以判断"
+      ],
+      "answers": [
+        "测量系统能力不足，必须进行改进"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1500,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_14",
+      "type": "single_choice",
+      "question": "不同的操作者使用相同的量具，对相同的零件进行多次测量。请问在确定测量系统的什么性？（）",
+      "options": [
+        "重复性",
+        "再现性",
+        "准确性",
+        "稳定性"
+      ],
+      "answers": [
+        "再现性"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1501,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_15",
+      "type": "single_choice",
+      "question": "某六西格玛团队在项目测量阶段对某关键测量设备进行重复性和再现性分析，他们随机选取了3名测量工，20个被测零件，结果发现，RR%=50%,且主要原因是由于再现性很差，你认为导致再现性差的最可能原因是（）",
+      "options": [
+        "3名测量工人的测量方法有差异",
+        "20个零件之间有显著差异",
+        "测量设备的精度太差",
+        "选择的测量工人人数太少"
+      ],
+      "answers": [
+        "3名测量工人的测量方法有差异"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1502,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_16",
+      "type": "single_choice",
+      "question": "根据MSA,相对于公差的期望的最小的分辨率为（）",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/10",
+        "1/100"
+      ],
+      "answers": [
+        "1/10"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1503,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_18",
+      "type": "single_choice",
+      "question": "当我们讨论准确度和精密度时：（）",
+      "options": [
+        "准确度和稳定性有关，精密度和计量有关",
+        "准确度和变差有关，精密度和数据平均值有关",
+        "准确度和测量的平均值有关，精密度和离散度有关",
+        "准确度和精密度本质上是同一个概念"
+      ],
+      "answers": [
+        "准确度和测量的平均值有关，精密度和离散度有关"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1504,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_21",
+      "type": "single_choice",
+      "question": "稳定的过程一定是正态的输出吗？（）",
+      "options": [
+        "一定是",
+        "不一定"
+      ],
+      "answers": [
+        "不一定"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1505,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_22",
+      "type": "single_choice",
+      "question": "计算过程能力的先决条件是（）",
+      "options": [
+        "过程稳定并正态分布",
+        "没有过程普通原因导致的变差",
+        "过程漂移并且仅有偏移变差",
+        "存在DPMO数值"
+      ],
+      "answers": [
+        "过程稳定并正态分布"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1506,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_23",
+      "type": "single_choice",
+      "question": "在起重设备厂中, 对于供应商提供的垫片厚度很敏感。垫片厚度的公差限要求为12 毫米±1 毫米。供应商对他们本月生产状况的报告中只提供给Cp=1.33, Cpk=1.00 这两个数据。这时可以对于垫片生产过程得出结论说:（）",
+      "options": [
+        "平均值偏离目标12 毫米 大约 0.25 毫米",
+        "平均值偏离目标12 毫米 大约 0.5 毫米",
+        "平均值偏离目标12 毫米 大约 0.75 毫米",
+        "平均值偏离目标12 毫米 大约 1.25 毫米"
+      ],
+      "answers": [
+        "平均值偏离目标12 毫米 大约 0.25 毫米"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1507,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_24",
+      "type": "single_choice",
+      "question": "对于一个稳定的分布为正态的生产过程，计算出它的工序能力指数Cp=1.65,Cpk=0.92。这时，应该对生产过程作出下列判断：（）",
+      "options": [
+        "生产过程的均值偏离目标太远，且过程的标准差太大",
+        "生产过程的均值偏离目标太远，过程的标准差尚可",
+        "生产过程的均值偏离目标尚可，但过程的标准差太大",
+        "对于生产过程的均值偏离目标情况及过程的标准差都不能做出判断"
+      ],
+      "answers": [
+        "生产过程的均值偏离目标太远，过程的标准差尚可"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1508,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_26",
+      "type": "single_choice",
+      "question": "测量系统五大统计特性：线性、稳定性、分辨率、重复性和再现性，这句话的说法是（）",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1509,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_27",
+      "type": "single_choice",
+      "question": "在钳工车间自动钻孔的过程中，取30个钻孔结果分析，其中心位置与规定中心点在水平方向的偏差值的平均值为1um,标准差为8um。测量系统分析后发现重复性repeatability标准差为3um,再现性reproducibility标准差为4um。从精确度/过程波动比RR%的角度来分析，可以得到结论：（）",
+      "options": [
+        "本测量系统从精确度/过程波动比(R&R%)来说是完全合格的",
+        "本测量系统从精确度/过程波动比(R&R%)来说是勉强合格的",
+        "本测量系统从精确度/过程波动比(R&R%)来说是不合格的",
+        "上述数据不能得到精确度/过程波动比(R&R%)，从而无法判断"
+      ],
+      "answers": [
+        "本测量系统从精确度/过程波动比(R&R%)来说是不合格的"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1510,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_28",
+      "type": "single_choice",
+      "question": "下列中不是与测量系统分析关系深远的是：（）",
+      "options": [
+        "为检验数据的信赖性",
+        "以平时进行测量的担当者为对象",
+        "最好在现场作业者不知情的情况下，跟平常同样的方法进行作业",
+        "一般在工程能力分析之后进行"
+      ],
+      "answers": [
+        "一般在工程能力分析之后进行"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1511,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279539_30",
+      "type": "single_choice",
+      "question": "轮胎厂的操作员测量了几个轮胎的直径，并用量具RR研究分析了测量结果。则操作员和部件之间的交互作用图是否表明测量中存在再现性误差？（）",
+      "options": [
+        "是，在测量相同的轮胎直径时操作员不能获得相似的结果",
+        "是，轮胎的变异引起测量的变异",
+        "否，当测量相同的轮胎直径时操作员不能获得相似的结果",
+        "否，操作员不能检测轮胎直径的真正差异"
+      ],
+      "answers": [
+        "是，在测量相同的轮胎直径时操作员不能获得相似的结果"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1512,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_33",
+      "type": "single_choice",
+      "question": "如果想要对产品进行目视检查，检查结果为接受 或拒绝，应该做下面哪项研究？（）",
+      "options": [
+        "ICC",
+        "变量研究",
+        "Kappa",
+        "AC",
+        "ABC"
+      ],
+      "answers": [
+        "Kappa"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1513,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_34",
+      "type": "single_choice",
+      "question": "如果针对某个测量系统既不能进行Gage RR研究，也不能应用Kappa研究，那么不需要对该测量系统进行MSA（）",
+      "options": [
+        "对",
+        "错"
+      ],
+      "answers": [
+        "错"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1514,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_35",
+      "type": "single_choice",
+      "question": "如果量具Kappa研究得到结果为20%，测量系统是否足够好，可以继续在项目中使用？（）",
+      "options": [
+        "是",
+        "否",
+        "进行其他研究"
+      ],
+      "answers": [
+        "否"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1515,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_36",
+      "type": "single_choice",
+      "question": "当评估测量评价系统中的错误时，三种类型的变差是指什么？（）",
+      "options": [
+        "评价人自身，评价人之间，以及评价人对比",
+        "评价人自身，评价人之间，以及评价人与标准对比的准确性",
+        "一致百分比，Kappa统计量和组内相关系数ICC",
+        "Kappa统计量，组内相关系数，及Kendall 一致性系数"
+      ],
+      "answers": [
+        "评价人自身，评价人之间，以及评价人与标准对比的准确性"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1516,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_39",
+      "type": "single_choice",
+      "question": "表面封装技术【Surface Mount Technology, SMT】生产主要由锡浆印刷、插件和回流焊三道工序组成。某企业统计发现，该SMT生产线的DPU=0.04，产品在该生产线上的缺陷机会数为200，则该SMT生产过程的DPMO为（）",
+      "options": [
+        "8",
+        "200",
+        "5000",
+        "500"
+      ],
+      "answers": [
+        "200"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1517,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_40",
+      "type": "single_choice",
+      "question": "如果过程中有四个步骤，每个步骤的首次合格率都是90%，那么这个过程的直通率RTY为（）",
+      "options": [
+        "66%",
+        "81%",
+        "90%",
+        "60%"
+      ],
+      "answers": [
+        "66%"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1518,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_41",
+      "type": "single_choice",
+      "question": "某六西格玛团队通过抽样估计某生产过程生产的某零件的关键尺寸的均值，若过程是稳定的且抽样是随机的。第一次抽取100件产品，得到一组均值，若进一步增加样本容量，置信水平不变，则均值的点估计和区间估计的变化趋势为（）",
+      "options": [
+        "均值的点估计基本不变，区间估计变小",
+        "均值的点估计变小，区间估计不变",
+        "均值的点估计基本不变，区间估计变大",
+        "均值的点估计变大，区间估计不变"
+      ],
+      "answers": [
+        "均值的点估计基本不变，区间估计变小"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1519,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_42",
+      "type": "single_choice",
+      "question": "某服务公司设计的顾客信息调查表上共有8个栏目，这些栏目由客服人员填写。在过去的三个月内，共填写了1835份调查表。经核查，这些调查表中共发现漏填、填写错误以及字迹模糊无法辨认等缺陷83处，如果以每个栏目作为缺陷机会，则该填表过程中的DPMO是多少（）：",
+      "options": [
+        "DPMO=45232；",
+        "DPMO=0.5654；",
+        "DPMO=5654；",
+        "DPMO=0.045"
+      ],
+      "answers": [
+        "DPMO=5654；"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1520,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_43",
+      "type": "single_choice",
+      "question": "某工厂加工零件，已知某天生产了24个产品，经检验，共发现12个缺陷，则RTY和DPU分别是多少（）",
+      "options": [
+        "RTY=0.5,DPU=0.6065",
+        "RTY=0.5,DPU=0.5",
+        "RTY=0.6065,DPU=0.5",
+        "RTY=0.083,DPU=0.5"
+      ],
+      "answers": [
+        "RTY=0.6065,DPU=0.5"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1521,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_44",
+      "type": "single_choice",
+      "question": "假定某晶片生产过程检测发现晶片的DPU=1，缺陷的出现是完全随机的且服从泊松分布，则随机抽取一片晶片，该晶片没有缺陷的概率近似为（）",
+      "options": [
+        "50%",
+        "0",
+        "37%",
+        "10%"
+      ],
+      "answers": [
+        "37%"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1522,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_46",
+      "type": "multiple_choice",
+      "question": "在测量系统分析计算重复性和再现性【RR】时，相对于极差法而言，采用方差分析和方差估计法的优点是：（）",
+      "options": [
+        "计算简便",
+        "可以估计交互作用的影响",
+        "可以进行深层次的统计分析",
+        "是精确算法，计算结果没有误差"
+      ],
+      "answers": [
+        "可以估计交互作用的影响",
+        "可以进行深层次的统计分析"
+      ],
+      "answerLetters": [
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1523,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_47",
+      "type": "multiple_choice",
+      "question": "某六西格玛团队在对某关键测量设备进行重复性和再现性分析时发现,RR%=40%,P/T%=50%,假定被测样本的选取是随机的，样本波动能代表实际生产过程的波动。据此可以推断（）",
+      "options": [
+        "测量系统能力不足",
+        "测量系统能力充分",
+        "过程能力不足，估计过程能力指数Cp小于1.0",
+        "过程能力充分，估计过程能力指数Cp大于1.0"
+      ],
+      "answers": [
+        "测量系统能力不足",
+        "过程能力不足，估计过程能力指数Cp小于1.0"
+      ],
+      "answerLetters": [
+        "A",
+        "C"
+      ],
+      "sourceIndex": 1524,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784622279540_48",
+      "type": "multiple_choice",
+      "question": "对数据集中趋势方式的度量方式是（）",
+      "options": [
+        "众数",
+        "中位数",
+        "均值",
+        "中列数"
+      ],
+      "answers": [
+        "众数",
+        "中位数",
+        "均值",
+        "中列数"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1525,
       "source": "italent-review"
     }
   ]
