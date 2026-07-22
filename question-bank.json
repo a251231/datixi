@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.21.1",
+  "version": "2026.07.22.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-21T16:24:42+08:00",
+  "updatedAt": "2026-07-22T08:27:21+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1525,
+  "questionCount": 1526,
   "typeCounts": {
-    "single_choice": 840,
+    "single_choice": 841,
     "multiple_choice": 235,
     "true_false": 342,
     "fill_blank": 57,
@@ -28146,6 +28146,25 @@
         "D"
       ],
       "sourceIndex": 1525,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680038224_2",
+      "type": "single_choice",
+      "question": "体系日常碎片化学习的考核方式是（ ）",
+      "options": [
+        "每日10道题，80分及格",
+        "季度综合测评",
+        "年度闭卷考试",
+        "每月一次考试"
+      ],
+      "answers": [
+        "每日10道题，80分及格"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1526,
       "source": "italent-review"
     }
   ]
