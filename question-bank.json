@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.22.1",
+  "version": "2026.07.22.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-22T08:27:21+08:00",
+  "updatedAt": "2026-07-22T08:30:58+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1526,
+  "questionCount": 1573,
   "typeCounts": {
-    "single_choice": 841,
-    "multiple_choice": 235,
+    "single_choice": 881,
+    "multiple_choice": 242,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -28165,6 +28165,922 @@
         "A"
       ],
       "sourceIndex": 1526,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255705_1",
+      "type": "single_choice",
+      "question": "回归分析通常何时应用？（）",
+      "options": [
+        "当Y是离散型变量，X是连续型变量时",
+        "当X是离散型变量，Y是连续型变量时",
+        "当X是离散型变量，Y是离散型变量时",
+        "当X是连续型变量，Y是连续型变量时"
+      ],
+      "answers": [
+        "当X是连续型变量，Y是连续型变量时"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1527,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255705_2",
+      "type": "single_choice",
+      "question": "相关性分析是对变量间的相关关系的研究，而相关性系数r 表示出两者线性关系的强弱。假设某位绿带研究电镀过程中镀层厚度与温度的关系，根据结果计算，相关性系数r=0.354,请选出以下正确的一项叙述（）",
+      "options": [
+        "镀层厚度与温度肯定是相关的",
+        "镀层厚度与温度存在微弱相关",
+        "镀层厚度与温度是不相关的",
+        "未给出样本量，因此不能得出肯定的结论"
+      ],
+      "answers": [
+        "未给出样本量，因此不能得出肯定的结论"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1528,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255705_3",
+      "type": "single_choice",
+      "question": "响应变量Y与两个自变量（原始数据）X1及X2建立的回归方程为：y=2.2+30000X1+0.0003X2,由此方程可以得到结论是：（）",
+      "options": [
+        "X1对Y的影响比X2对Y的影响要显著得多",
+        "X1对Y的影响与X2对Y的影响相同",
+        "X2对Y的影响比X1对Y的影响要显著的多",
+        "仅由此方程不能对X1及X2对Y影响大小作判定"
+      ],
+      "answers": [
+        "仅由此方程不能对X1及X2对Y影响大小作判定"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1529,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255705_4",
+      "type": "single_choice",
+      "question": "抗拉强度是钢筋的关键质量特性之一，三条生产线同时生产钢筋，项目组想知道三条生产线所产出的钢筋之抗拉强度是否具有统计意义上的差异，且其中有一条生产线的数据为非正态，下面哪种分析方法更适合？（）",
+      "options": [
+        "双样本t检验",
+        "Man-Whitney检验",
+        "单因子方差分析",
+        "Kruskal-Wallis检验"
+      ],
+      "answers": [
+        "Kruskal-Wallis检验"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1530,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255705_5",
+      "type": "single_choice",
+      "question": "一位工程师想知道一种压滤机完成压滤工作的平均周期时间是否大于55分钟，已知过程正态、独立，方差未知。适当的检验方法是（）",
+      "options": [
+        "单边单样本t检验",
+        "双边单样本t 检验",
+        "单边单样本Z检验",
+        "双样本t 检验"
+      ],
+      "answers": [
+        "单边单样本t检验"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1531,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_6",
+      "type": "single_choice",
+      "question": "收集了3个班组生产的薄钢板强度数据。对下列方差分析结果解释最正确的是：（）来源 自由度 SS MS F P；班组 2 6.822 3.411 29.4 0.000；误差 27 3.133 0.116；合计 29 9.954；S=0.3406 R-sq=68.53% R-sq(调整)=66.2%",
+      "options": [
+        "无法由此结果判断班组间强度是否有显著差异",
+        "班组间强度无差异",
+        "3个班组之间强度都有差异",
+        "至少有一个班组与其他班组之间的强度有差异"
+      ],
+      "answers": [
+        "至少有一个班组与其他班组之间的强度有差异"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1532,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_7",
+      "type": "single_choice",
+      "question": "分别从A,B两种工艺条件下随机抽取1500片及1800片芯片，其中A种工艺条件下有340片为一等品,B种工艺条件下有350片为一等品。在α=0.05下，检验A种工艺条件是否比B种工艺条件有较高的一等品率，采用哪种工具？（）",
+      "options": [
+        "双样本T检验",
+        "双比率检验",
+        "方差分析检验",
+        "卡方检验"
+      ],
+      "answers": [
+        "双比率检验"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1533,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_8",
+      "type": "single_choice",
+      "question": "M车间的任务是将厚度为60mm的厚钢板热压为厚度为45mm的薄钢板，每块钢板都要大约40s才能完成热压。为了检验厚钢板温度对于热压时间是否有显著影响，选定了1300，1260，1220三种初始温度，各热压了10块厚钢板，共记录了三组共计30个热压时间数据。在分析时，准备使用单因子的方差分析ANOVA以比较平均热压时间是否有显著差异。为此应考虑验证下列条件：（）1）经检验，可以认为3组数据都满足独立性；2）经检验，可以认为3组数据都满足正态性；3）经检验，可以认为合并后的30个数据满足正态性；4）经检验，可以认为3组数据的方差是相等的",
+      "options": [
+        "应验证1）2）",
+        "应验证1）2）4）",
+        "应验证1）3）4）",
+        "应验证1）2）3）4）"
+      ],
+      "answers": [
+        "应验证1）2）4）"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1534,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_9",
+      "type": "single_choice",
+      "question": "在检验改进工作后的产量是否比改进前的产量有增加时，先要检查改进前后数据的方差是否相等。为此可以用F检验或者Levene's检验。对于F检验及Levene's检验的适用条件和检验的功效,正确的论述是：（）",
+      "options": [
+        "Levene's检验适用于任何连续型的分布，而F检验只适用于正态分布。因此Levene's检验适用性要比F检验广泛，因此应优先选用Levene's检验",
+        "当数据是正态分布时，不能肯定哪种检验更好，可以随意选取F检验或Levene's检验，最好两者都进行，只要有一个拒绝就可以认为方差不相等",
+        "由于F检验只适用于正态分布，因此当数据不是正态分布时，才选用Levene's检验。当数据是正态分布时，选取F检验肯定比用Levene's检验的功效要高些(即犯Ⅱ类错误的概率小些)",
+        "以上论述都不准确"
+      ],
+      "answers": [
+        "由于F检验只适用于正态分布，因此当数据不是正态分布时，才选用Levene's检验。当数据是正态分布时，选取F检验肯定比用Levene's检验的功效要高些(即犯Ⅱ类错误的概率小些)"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1535,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_10",
+      "type": "single_choice",
+      "question": "二极管制造的不良率一直为1%左右，小李团队通过分析影响不良率的多个因子，并进行了针对性的改进，为了验证改进措施是否有效果，小李收集了改进措施实验后的1000支二极管。请问，接下来应该采用什么方法进行分析？（）",
+      "options": [
+        "单样本t检验",
+        "单侧单比率检验",
+        "双侧双比率检验",
+        "单方差检验"
+      ],
+      "answers": [
+        "单侧单比率检验"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1536,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_11",
+      "type": "single_choice",
+      "question": "某工程师想分析钢水C%的量与炼钢温度之间的关系，以下哪种工具最合适？（）",
+      "options": [
+        "控制图",
+        "直方图",
+        "排列图",
+        "散点图"
+      ],
+      "answers": [
+        "散点图"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1537,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_12",
+      "type": "single_choice",
+      "question": "某工程师想分析轧钢时钢板的不良率与轧钢温度之间的关系，以下哪种工具最合适？（）",
+      "options": [
+        "卡方分析；",
+        "相关分析；",
+        "Logistic回归；",
+        "方差分析"
+      ],
+      "answers": [
+        "Logistic回归；"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1538,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_13",
+      "type": "single_choice",
+      "question": "某工厂月度盘点，原线盘亏，经过小组分析，认为来料不足是潜在原因，为了验证该原因，该小组随机从原材料仓中抽取了标签规格为900m的10个样本，测量其长度(单位：m)结果如下：863.5 856.9 873.5 863 877.3 884.1 889.89 868.4 881.9 868.1 工程师怀疑平均长度没有达到规格要求的900m，假设已知规格长度的分布为正态，但并不了解其分布参数，请问用下列哪种统计方法进行分析？（）",
+      "options": [
+        "单一样本的比率检验",
+        "单一样本的t检验",
+        "单一样本的Z检验",
+        "方差分析(ANOVA)"
+      ],
+      "answers": [
+        "单一样本的t检验"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1539,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_14",
+      "type": "single_choice",
+      "question": "某改善项目团队试图减少某工序的平均加工时间，有4个不同的班组进行生产，他们怀疑不同班组的加工时间分布不同，他们比较了4个班组加工时间的数据，各班组数据量大约有20个左右，数据的分布形态很不对称，更不服从正态分布，另外还发现各班组数据的标准差也不一样大，请建议他们应该怎样做才能得到正确的统计分析结论：（）",
+      "options": [
+        "直接做方差分析；",
+        "直接做中位数检验,如Mood's Median检验；",
+        "采用克鲁斯卡尔沃利斯(Kruskal-Wallis)检验",
+        "进行F检验"
+      ],
+      "answers": [
+        "采用克鲁斯卡尔沃利斯(Kruskal-Wallis)检验"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1540,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_15",
+      "type": "single_choice",
+      "question": "某厂人力资源部部长想了解岗位员工对岗位的满意程度是否与员工的性别有关，随机抽查了本厂员工524人进行了对自己岗位的满意度调查，调查内容要分不满意、基本满意、满意三种情况，结果不满意人数为24人，基本满意人数为315人，满意人数为285人，且524人中男职工有320人，女职工有204人，请问人力资源部部长应当用下列哪种方法对收集到的数据分析才能得到正确的结论？（）",
+      "options": [
+        "列联表；",
+        "方差分析；",
+        "Moods Median检验；",
+        "Kruska-Wallis 检验"
+      ],
+      "answers": [
+        "列联表；"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1541,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255706_16",
+      "type": "single_choice",
+      "question": "假设检验中,作出拒绝H0的决定，则可能的风险为（）",
+      "options": [
+        "α 风险；",
+        "β风险；",
+        "第二类风险；",
+        "无风险"
+      ],
+      "answers": [
+        "α 风险；"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1542,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_17",
+      "type": "single_choice",
+      "question": "钢铁冶炼过程中，对于铁矿粉的要求除了含铁量要高外，还要求含铁量要稳定，现有三个供应商提供的同种铁矿粉中，其平均铁含量均为59%，价格相同，现想通过检验其铁含量的稳定性来决定选择哪家供应商，应当使用哪种假设检验方法？（）",
+      "options": [
+        "方差分析；",
+        "卡方检验；",
+        "多样本方差分析；",
+        "Mood中位数"
+      ],
+      "answers": [
+        "多样本方差分析；"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1543,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_18",
+      "type": "single_choice",
+      "question": "对于非参数假设检验方法，下列说法正确的是：（）",
+      "options": [
+        "对于被检验数据无任何条件",
+        "要求被检验数据是独立的",
+        "要求被检验数据是正态的",
+        "被检验数据正态时不能使用非参数假设检验方法"
+      ],
+      "answers": [
+        "要求被检验数据是独立的"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1544,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_19",
+      "type": "single_choice",
+      "question": "为了研究全国主要城市银行对第二套住房发放贷款宽严程度是否相同，调查了2009年北京、上海和深圳三个城市的黄金商业区的四大银行贷款综合情况，记录了申请总数、批准数和未批准数：基于该结果，正确的解释是（）",
+      "options": [
+        "三城市的银行对第二套住房发放贷款宽严程度没有什么不同",
+        "三城市的银行对第二套住房发放贷款宽严程度有显著不同",
+        "上海银行对第二套住房发放贷款最宽",
+        "以上都不对"
+      ],
+      "answers": [
+        "三城市的银行对第二套住房发放贷款宽严程度有显著不同"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1545,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_20",
+      "type": "single_choice",
+      "question": "实施六西格玛改进项目时,下列工作开展的顺序应当是：a 制定改进方案 b 从众多影响因子中筛选关键因子 c 运用因果图罗列出所有可能的因子 d 使用宏观流程图界定项目范围（）",
+      "options": [
+        "abcd；",
+        "dcba；",
+        "dcab；",
+        "dacb"
+      ],
+      "answers": [
+        "dcba；"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1546,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_21",
+      "type": "single_choice",
+      "question": "在验证原因时，下列哪种假设检验方法不需要先对数据进行正态性检验?（）",
+      "options": [
+        "方差分析",
+        "配对t检验",
+        "2 sample t 检验",
+        "Mann-Whitney"
+      ],
+      "answers": [
+        "Mann-Whitney"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1547,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_22",
+      "type": "single_choice",
+      "question": "某卷烟厂要分析制丝机烘干温度（连续可调）与烟丝含水量之间的关系，选用的统计工具应为（）",
+      "options": [
+        "双样本T检验",
+        "单样本T检验",
+        "方差分析",
+        "回归分析"
+      ],
+      "answers": [
+        "回归分析"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1548,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_23",
+      "type": "single_choice",
+      "question": "为了减少某复合材料胶结强度特性的波动，对材料交工工艺进行了改进。根据改进前后胶结强度的样本数据，判断新工艺是否有效，那么下述陈述正确的是：（）",
+      "options": [
+        "用方差分析法判断改进前后胶结强度的方差是否有显著差异",
+        "用F检验判断改进前后胶结强度的方差 是否有显著差异",
+        "用卡方检验判断改进前后胶结强度的方差是否有显著差异",
+        "用T检验判断改进前后胶结强度的均值是否有显著差异"
+      ],
+      "answers": [
+        "用F检验判断改进前后胶结强度的方差 是否有显著差异"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1549,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_24",
+      "type": "single_choice",
+      "question": "某汽车销售公司，希望了解美国市场和欧洲市场在驱动功率上的需求差异，以便根据不同的需求投放相应的产品，销售人员分别对已经销售在美国市场的40台车以及欧洲市场的60台车的驱动功率进行分析，从样本数据中看到，美国市场的低功率车28台，高功率车40台，欧洲市场低功率车20台，高功率车40台，请观察下列分析结果，哪个是正确的:（）",
+      "options": [
+        "美国车和欧洲车驱动功率上的需求没有明显的差异",
+        "美国车和欧洲车在驱动功率上的需求有明显的差异，且美国市场需求大功率车，欧洲市场需求小功率车",
+        "美国车和欧洲车在驱动功率上的需求有明显的差异，且美国市场需求小功率车，欧洲市场需求大功率车",
+        "不能明显看出美国车和欧洲车在驱动功率上的需求有何差异"
+      ],
+      "answers": [
+        "美国车和欧洲车在驱动功率上的需求有明显的差异，且美国市场需求小功率车，欧洲市场需求大功率车"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1550,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_25",
+      "type": "single_choice",
+      "question": "原材料的硬度是个重要的质量特性，有两家供应商提供这种原材料，先从每家供应商随机抽取了10个样本，为了检验供应商提供的原材料的平均硬度是否有显著差异，可以用以下哪个方法：（）",
+      "options": [
+        "检验分布的正态性",
+        "进行F检验",
+        "进行配对T检验",
+        "进行双样本T检验"
+      ],
+      "answers": [
+        "进行双样本T检验"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1551,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_26",
+      "type": "single_choice",
+      "question": "为了检验A、B两种汽车的操纵性能，选择了20名技术熟练的驾驶员进行入库泊车的停车时间的测试。A、B两台车的泊车时间的统计结果分析如下：（）",
+      "options": [
+        "无法做出判断",
+        "有95%的把握认为A、B两种车的停车时间有显著差异",
+        "有95%的把握认为A、B两种车的停车时间显著短",
+        "没有明显不同"
+      ],
+      "answers": [
+        "有95%的把握认为A、B两种车的停车时间有显著差异"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1552,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_27",
+      "type": "single_choice",
+      "question": "在某生产过程中，发现供应商提供的硬盘噪音超标，反馈给供应商之后，供应商进行了改进，为了验证改进措施是否有效，在数据正态且样本量充分的前提下，我们可以采用以下哪种方法：（）",
+      "options": [
+        "单样本Z检验；",
+        "单样本T检验；",
+        "双样本T检验；",
+        "配对T检验"
+      ],
+      "answers": [
+        "单样本Z检验；"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1553,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_28",
+      "type": "single_choice",
+      "question": "为了判断某班的日产量是否比原来的1800台有所提高，抽取了30天的产量，发现日产量平均值为1810台。对此可以得到判断：（）",
+      "options": [
+        "日产量平均值为1810台，确实比原来的1800台有显著提高",
+        "只提高10台，产量的提高肯定是不显著的",
+        "必须提供整体标准差的信息，否则不可能做出判断",
+        "不必提供整体标准差的信息，只要提供样本标准差的信息就可以做出判断"
+      ],
+      "answers": [
+        "不必提供整体标准差的信息，只要提供样本标准差的信息就可以做出判断"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1554,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_29",
+      "type": "single_choice",
+      "question": "在一元线性回归分析中，关于相关系数r,以下说法错误的是（）",
+      "options": [
+        "相关系数一定有关系式︱r︱≤1",
+        "当0<r≤1,称两个变量正相关，r值越接近1，说明两变量间相关性越强",
+        "当-1≤r<0,称两个变量负相关，r值越接近0，说明两变量间相关性越强"
+      ],
+      "answers": [
+        "当-1≤r<0,称两个变量负相关，r值越接近0，说明两变量间相关性越强"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1555,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255707_30",
+      "type": "single_choice",
+      "question": "为了能够进行ANOVA 方差分析，Y特征和X特征应该是（）",
+      "options": [
+        "Y是连续型变量,X 是连续型变量",
+        "Y是离散型变量,X 是连续型变量",
+        "Y是连续型变量,X 是离散型变量",
+        "Y是离散型变量,X 是离散型变量"
+      ],
+      "answers": [
+        "Y是连续型变量,X 是离散型变量"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1556,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_31",
+      "type": "single_choice",
+      "question": "当因子和响应变量都是离散型数据的时候，下面选项中哪种统计工具是可以被使用的？（）",
+      "options": [
+        "双样本t Test",
+        "方差分析 ANOVA",
+        "回归分析",
+        "卡方检验"
+      ],
+      "answers": [
+        "卡方检验"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1557,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_32",
+      "type": "single_choice",
+      "question": "针对单样本T test,下面哪一个是正确的原假设null hypothesis （）",
+      "options": [
+        "均值=20",
+        "均值小于20",
+        "均值大于20",
+        "均值不等于20"
+      ],
+      "answers": [
+        "均值=20"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1558,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_33",
+      "type": "single_choice",
+      "question": "为了判断不同的生产线所加工的产品的厚度均值是否有显著差异，特选取了企业的四条生产线，从四条线生产的产品中分别随机抽取了10个样本，测量其厚度。通过检验，数据均服从正态分布，且满足等方差条件，接下来应该进行的是（）",
+      "options": [
+        "单因子方差分析(One Way ANONA)",
+        "双因子方差分析(Two Way ANOVA)",
+        "卡方检验",
+        "双比率检验"
+      ],
+      "answers": [
+        "单因子方差分析(One Way ANONA)"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1559,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_34",
+      "type": "single_choice",
+      "question": "某空调企业的六西格玛团队想研究焊接缺陷出现的频数与铜管的厂家和焊环的类型是否相关，为此收集了大量生产过程中记录的不同厂家的铜管和不同焊环类型下的缺陷点数，为了得到研究结论，你认为该团队应该采用的统计分析方法是（）",
+      "options": [
+        "回归分析",
+        "列联表",
+        "t检验",
+        "F检验"
+      ],
+      "answers": [
+        "列联表"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1560,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_35",
+      "type": "single_choice",
+      "question": "某工程师拟合反应釜的收率Y与反应釜温度X之间的回归关系，根据收集的数据，拟合了一条Y=a+bX直线，得到以下回归模型拟合结果。为了检查模型，他还进行了模型诊断，得到下图，根据残差图，你为以下结论中正确的是（）",
+      "options": [
+        "两个系数的P值都小于0.05,且R-Sq=97.6%,R-Sq(调整)=97.5%，说明模型拟合很好",
+        "Y和X存在明显的线性关系",
+        "方差分析表明模型拟合非常好",
+        "残差图表明Y与X可能存在二次非线性关系"
+      ],
+      "answers": [
+        "残差图表明Y与X可能存在二次非线性关系"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1561,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_36",
+      "type": "single_choice",
+      "question": "A和B两个供应商都提供SMT生产所需锡浆，想比较它们提供的锡浆的粘度是否相同，随机抽取A和B各10个批次的锡浆，为了判定A和B两个供应商提供的锡浆的粘度是否相同，以下做法正确的是（）",
+      "options": [
+        "先检查数据的独立性和正态性，再检查方差是否相等，最后进行双样本t检验",
+        "先检查方差是否相等，再检查数据的独立性和正态性，最后进行双样本t检验",
+        "只需先检查独立性，直接进行配对t检验",
+        "先检查数据的独立性和正态性，再进行双样本t检验，最后检查方差是否相等"
+      ],
+      "answers": [
+        "先检查数据的独立性和正态性，再检查方差是否相等，最后进行双样本t检验"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1562,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_37",
+      "type": "single_choice",
+      "question": "对于FMEA(故障模式和影响分析），下列描述中正确的是（）",
+      "options": [
+        "同一种失效模式只能有一个后果和一个严重度值",
+        "通过增加测试的手段，可以降低失效模式的严重度",
+        "通过消除一个或多个失效原因，可以降低失效模式的严重度",
+        "通过消除一个或多个失效原因，只能降低风险发生的频率，不能改变严重度"
+      ],
+      "answers": [
+        "通过消除一个或多个失效原因，只能降低风险发生的频率，不能改变严重度"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1563,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_38",
+      "type": "single_choice",
+      "question": "FMEA是一种以预防为主的管理方法，FMEA针对每一种可能出现的缺陷，分别评估其严重性、发生概率的可检测性，针对FMEA中可检测性，以下说法正确的是（）",
+      "options": [
+        "可检测性是指能够用检测设备检测出缺陷或问题",
+        "可检测性一般用1-10之间的数值来衡量，数值越高，表示缺陷越容易被检测",
+        "可检测性一般用1-10之间的数值来衡量，数值越高，表示缺陷越难以被检测",
+        "缺陷或问题的可检测性与其发生的概率成正比"
+      ],
+      "answers": [
+        "可检测性一般用1-10之间的数值来衡量，数值越高，表示缺陷越难以被检测"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1564,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_39",
+      "type": "single_choice",
+      "question": "关于因果图的绘制，正确的是（）",
+      "options": [
+        "绘制因果图时，应根据管理层关注的重点，将根本原因展示出来",
+        "因果图又叫因果矩阵图，是筛选原因的重要工具",
+        "绘制因果图时，只能由绿带或黑带对工具有深入了解的人绘制，以便保证绘图质量",
+        "为了找到所有的可能原因，通常使用头脑风暴法绘制因果图，以便发挥团队的智慧"
+      ],
+      "answers": [
+        "为了找到所有的可能原因，通常使用头脑风暴法绘制因果图，以便发挥团队的智慧"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1565,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_40",
+      "type": "single_choice",
+      "question": "组织者向小组成员征求意见，让成员写下每个想法，不讨论、不分析、不批评，直到没有新的想法产生，这称为（）",
+      "options": [
+        "变更点分析",
+        "5Why",
+        "障碍分析",
+        "头脑风暴法"
+      ],
+      "answers": [
+        "头脑风暴法"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1566,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_41",
+      "type": "multiple_choice",
+      "question": "对于连续型数据，对于比较均值μ的假设检验方法有：（）",
+      "options": [
+        "1 sample t Test ,1 sample Z test",
+        "2 sample t Test,Paired t",
+        "ANOVA",
+        "F Test"
+      ],
+      "answers": [
+        "1 sample t Test ,1 sample Z test",
+        "2 sample t Test,Paired t",
+        "ANOVA"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1567,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_42",
+      "type": "multiple_choice",
+      "question": "为了解两种不同的绕线圈方式对电阻值的测试结果(以 “通过/不通过”表示)是否显著影响，可采用的工具是（）",
+      "options": [
+        "双样本T检验",
+        "方差分析",
+        "双比例检验",
+        "列联表分析"
+      ],
+      "answers": [
+        "双比例检验",
+        "列联表分析"
+      ],
+      "answerLetters": [
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1568,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_43",
+      "type": "multiple_choice",
+      "question": "下面对于相关分析与回归分析描述不正确的有：（）",
+      "options": [
+        "相关分析是量化两个变量之间的线性的程度",
+        "r=0:意味着两个变量x与y之间无关系",
+        "散点图可以直观地说明两个变量之间的关系与关联程度",
+        "x与y相关即指二者有因果关系"
+      ],
+      "answers": [
+        "r=0:意味着两个变量x与y之间无关系",
+        "x与y相关即指二者有因果关系"
+      ],
+      "answerLetters": [
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1569,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_44",
+      "type": "multiple_choice",
+      "question": "当备择假设为真时，作出不否定原假设的结论，以下描述正确的是（）",
+      "options": [
+        "为Ⅱ类错误",
+        "发生概率为β",
+        "取伪错误",
+        "不能拒绝原假设=接受原假设"
+      ],
+      "answers": [
+        "为Ⅱ类错误",
+        "发生概率为β",
+        "取伪错误"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1570,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_45",
+      "type": "multiple_choice",
+      "question": "对于离散型数据进行比例或百分比P的假设检验方法主要有（）",
+      "options": [
+        "1 Proportion test",
+        "2 Proportion test；",
+        "Chi-square test",
+        "Levene’s Test"
+      ],
+      "answers": [
+        "1 Proportion test",
+        "2 Proportion test；",
+        "Chi-square test"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1571,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255708_46",
+      "type": "multiple_choice",
+      "question": "检验两个工厂平均机器设定时间是否存在显著差别，如果进行假设检验，正确的是：（）",
+      "options": [
+        "原假设为μA=μB",
+        "备择假设为μA≠μB",
+        "为双边检验",
+        "原假设为μA≤μB"
+      ],
+      "answers": [
+        "原假设为μA=μB",
+        "备择假设为μA≠μB",
+        "为双边检验"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1572,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784680255709_50",
+      "type": "multiple_choice",
+      "question": "在进行pFMEA时，要分析每道工序中每个操作的风险优先数RPN，RPN主要取决于哪些方面？（）",
+      "options": [
+        "失效(或故障)产生的后果的严重性",
+        "失效(或故障)发生的概率",
+        "失效(或故障)发生的检测难易程度",
+        "失效(或故障)发生的条件"
+      ],
+      "answers": [
+        "失效(或故障)产生的后果的严重性",
+        "失效(或故障)发生的概率",
+        "失效(或故障)发生的检测难易程度"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1573,
       "source": "italent-review"
     }
   ]
