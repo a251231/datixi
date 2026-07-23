@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.22.2",
+  "version": "2026.07.23.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-22T08:30:58+08:00",
+  "updatedAt": "2026-07-23T11:27:02+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1573,
+  "questionCount": 1582,
   "typeCounts": {
-    "single_choice": 881,
-    "multiple_choice": 242,
+    "single_choice": 884,
+    "multiple_choice": 248,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -29081,6 +29081,193 @@
         "C"
       ],
       "sourceIndex": 1573,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216941_5",
+      "type": "single_choice",
+      "question": "有关SIPOC图的描述，不正确的是（）",
+      "options": [
+        "SIPOC图描述了项目所涉及的范围",
+        "SIPOC图描述了项目的主要过程",
+        "SIPOC图描述了过程的输入和输出",
+        "SIPOC图描述了过程的增值活动和非增值活动"
+      ],
+      "answers": [
+        "SIPOC图描述了过程的增值活动和非增值活动"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1574,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216942_16",
+      "type": "single_choice",
+      "question": "下列内容中，不属于项目特许任务书【Team Charter】必要内容的是：（）",
+      "options": [
+        "项目范围",
+        "项目团队成员",
+        "项目预期收益及计算公式",
+        "项目改善方案"
+      ],
+      "answers": [
+        "项目改善方案"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1575,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216942_17",
+      "type": "single_choice",
+      "question": "在选定了六西格玛项目后，要编写项目特许任务书，一个特许项目任务书不应包括以下哪项内容：（）",
+      "options": [
+        "项目问题描述",
+        "改进机会描述",
+        "改进目标",
+        "问题主要影响因素"
+      ],
+      "answers": [
+        "问题主要影响因素"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1576,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216942_25",
+      "type": "multiple_choice",
+      "question": "SIPOC图也称高阶流程图，在项目实施中，主要用于梳理流程及界定项目范围，正确运用SIPOC图分析十分重要。那么，以下关于SIPOC的应用正确的是:（）",
+      "options": [
+        "运用SIPOC分解将项目所涉及的主要业务流程识别出来",
+        "做SIPOC图分析时，应尽量详细地将流程步骤绘制出来",
+        "做SIPOC图分析时，需考虑流程的输入点和输出点",
+        "供方可以是内部的，也可以是外部的"
+      ],
+      "answers": [
+        "运用SIPOC分解将项目所涉及的主要业务流程识别出来",
+        "做SIPOC图分析时，需考虑流程的输入点和输出点",
+        "供方可以是内部的，也可以是外部的"
+      ],
+      "answerLetters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1577,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216942_29",
+      "type": "multiple_choice",
+      "question": "以下哪些内容属于质量成本中的内部故障成本？（）",
+      "options": [
+        "工厂内部缺陷产品的返修成本",
+        "售后保修期内的缺陷产品在厂内的返修成本",
+        "工厂内部缺陷产品报废成本",
+        "机器设备出现故障后的修理成本"
+      ],
+      "answers": [
+        "工厂内部缺陷产品的返修成本",
+        "工厂内部缺陷产品报废成本"
+      ],
+      "answerLetters": [
+        "A",
+        "C"
+      ],
+      "sourceIndex": 1578,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216942_31",
+      "type": "multiple_choice",
+      "question": "在问题和机会的陈述中，下面说法错误的是（）",
+      "options": [
+        "陈述问题发生的原因",
+        "陈述问题对顾客的影响",
+        "陈述问题的大小和发生的频率",
+        "陈述问题的解决方案"
+      ],
+      "answers": [
+        "陈述问题发生的原因",
+        "陈述问题的解决方案"
+      ],
+      "answerLetters": [
+        "A",
+        "D"
+      ],
+      "sourceIndex": 1579,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216942_32",
+      "type": "multiple_choice",
+      "question": "下述关于项目目标的陈述中正确的是：（）",
+      "options": [
+        "到2011年12月底，将A产品测试一次通过率提高到较高的水平",
+        "到2011年12月底，将A产品波峰焊过程的西格玛水平从2.8提高到3.5",
+        "到2011年12月底，将A产品的交付周期从平均22天缩短到平均20天",
+        "到2011年12月底，实现顾客满意度大幅度提高"
+      ],
+      "answers": [
+        "到2011年12月底，将A产品波峰焊过程的西格玛水平从2.8提高到3.5",
+        "到2011年12月底，将A产品的交付周期从平均22天缩短到平均20天"
+      ],
+      "answerLetters": [
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1580,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216942_34",
+      "type": "multiple_choice",
+      "question": "下列关于DMAIC流程的描述中，正确的是（）",
+      "options": [
+        "DMAIC各阶段中，A阶段最为重要",
+        "DMAIC的各个阶段必须有明确划分，完成一个阶段后不能再回到上一个阶段",
+        "DMAIC的逻辑本质和PDCA是一样的",
+        "DMAIC适用于现有流程的改进，新产品，新工艺，研发过程的设计改善项目比较适合DFSS项目"
+      ],
+      "answers": [
+        "DMAIC的逻辑本质和PDCA是一样的",
+        "DMAIC适用于现有流程的改进，新产品，新工艺，研发过程的设计改善项目比较适合DFSS项目"
+      ],
+      "answerLetters": [
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1581,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777216943_35",
+      "type": "multiple_choice",
+      "question": "【中质协争议题目】在实施六西格玛管理的过程中，应用水平对比（标杆管理，Benchmarking）的目的是（）",
+      "options": [
+        "通过水平对比确定本企业的改进机会",
+        "通过水平对比确定项目的目标",
+        "通过水平对比寻找改进方案",
+        "通过水平对比证明比较弱的的竞争对手要强"
+      ],
+      "answers": [
+        "通过水平对比确定本企业的改进机会",
+        "通过水平对比确定项目的目标",
+        "通过水平对比寻找改进方案"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1582,
       "source": "italent-review"
     }
   ]
