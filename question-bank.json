@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.23.2",
+  "version": "2026.07.23.3",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-23T11:29:33+08:00",
+  "updatedAt": "2026-07-23T11:30:33+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1605,
+  "questionCount": 1607,
   "typeCounts": {
     "single_choice": 907,
-    "multiple_choice": 248,
+    "multiple_choice": 250,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -29704,6 +29704,50 @@
         "B"
       ],
       "sourceIndex": 1605,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777420478_48",
+      "type": "multiple_choice",
+      "question": "根据比较的对象不同，参数检验的类型有（）",
+      "options": [
+        "均值检验",
+        "方差检验",
+        "中位数检验",
+        "比例检验"
+      ],
+      "answers": [
+        "均值检验",
+        "方差检验",
+        "比例检验"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1606,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777420478_49",
+      "type": "multiple_choice",
+      "question": "只要进行假设检验，在决策时就会有风险，Ⅰ类错误(风险)为（）",
+      "options": [
+        "α风险",
+        "弃真风险",
+        "β风险",
+        "取伪概率"
+      ],
+      "answers": [
+        "α风险",
+        "弃真风险"
+      ],
+      "answerLetters": [
+        "A",
+        "B"
+      ],
+      "sourceIndex": 1607,
       "source": "italent-review"
     }
   ]
