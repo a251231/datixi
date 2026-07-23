@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.23.3",
+  "version": "2026.07.23.4",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-23T11:30:33+08:00",
+  "updatedAt": "2026-07-23T11:37:18+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1607,
+  "questionCount": 1624,
   "typeCounts": {
-    "single_choice": 907,
-    "multiple_choice": 250,
+    "single_choice": 917,
+    "multiple_choice": 257,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -29748,6 +29748,351 @@
         "B"
       ],
       "sourceIndex": 1607,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832298_1",
+      "type": "single_choice",
+      "question": "农产品研究员在研究一种新型杂交水稻，希望通过DOE试验获得最高产量的最佳实验条件，（单位：Kg）,第一个因子为A:日照时间（单位：hour），低水平为2h，高水平为3h；第二个因子为施肥量(单位：g),低水平为100g,高水平为200g,试验结果如下：以下对效应的说法，正确的是（）：",
+      "options": [
+        "AB交互效应是10",
+        "因子A的主效应是30",
+        "因子B的主效应是60",
+        "以上都不对"
+      ],
+      "answers": [
+        "因子B的主效应是60"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1608,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832299_2",
+      "type": "single_choice",
+      "question": "实验设计的目的是（）:",
+      "options": [
+        "以尽可能多的试验次数，获取最优化的参数组合方案",
+        "以尽可能少的试验次数，获得尽可能多的信息，达到实验目的",
+        "确保对全部可能的情况进行试验，以获取最优化的参数组合方案",
+        "以上都不是"
+      ],
+      "answers": [
+        "以尽可能少的试验次数，获得尽可能多的信息，达到实验目的"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1609,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832299_3",
+      "type": "single_choice",
+      "question": "在化学工艺中，为了获得化学试剂最低的不纯度，六西格玛团队选定催化剂和稳定剂为两个关键因素，按实验设计DOE的原则制定并执行，得到实验结果后，在统计分析软件的协助下，可绘制如下图形，以下关于这个图形解释错误的是（）:",
+      "options": [
+        "从图右边的响应曲面图可以发现，六西格玛团队已经找到最低不纯度所在的范围",
+        "从图左边的等高线图可以大致判断，当催化剂在[0.3,2.8]内，稳定剂在[1.8,5.1]内时，化学试剂的不纯度都会低于5.5的上限",
+        "如果关键因素有三个，同样可以在一张等高线图上表现这三个因素对不纯度的影响规律",
+        "如果需要得到更精确的优化方案，可以使用工具“预测刻画器”（或称“响应优化器”）"
+      ],
+      "answers": [
+        "如果关键因素有三个，同样可以在一张等高线图上表现这三个因素对不纯度的影响规律"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1610,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832299_5",
+      "type": "single_choice",
+      "question": "某项目团队在开展刀具切削参数优化研究的过程中，如采用3因子2水平，4个中心点的实验设计，需要做多少次试验？（）：",
+      "options": [
+        "22 ;",
+        "24;",
+        "12;",
+        "20"
+      ],
+      "answers": [
+        "12;"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1611,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832299_7",
+      "type": "single_choice",
+      "question": "关于试验误差，以下描述正确的是（）",
+      "options": [
+        "试验误差可能有试验材料、方法手段等多种因素引起的",
+        "增加试验运行次数能够显著的降低试验误差",
+        "只能通过改善试验用到的材料来降低试验误差",
+        "通过严谨的实验设计能够彻底的消除实验误差"
+      ],
+      "answers": [
+        "试验误差可能有试验材料、方法手段等多种因素引起的"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1612,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832300_9",
+      "type": "single_choice",
+      "question": "一个3^2的实验设计意味着会有（）",
+      "options": [
+        "两个水平，三个因子",
+        "两个水平，三个因子，两个中心点",
+        "三个水平，三个因子",
+        "三个水平，两个因子"
+      ],
+      "answers": [
+        "三个水平，两个因子"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1613,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832300_10",
+      "type": "single_choice",
+      "question": "以下哪个不是DOE的目的？（）",
+      "options": [
+        "筛选输入变量",
+        "筛选输出变量",
+        "优化输出变量",
+        "确定输入变量的设定范围"
+      ],
+      "answers": [
+        "筛选输出变量"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1614,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832300_12",
+      "type": "single_choice",
+      "question": "两水平全因子试验设计得到的模型为：（）",
+      "options": [
+        "线性模型",
+        "曲线模型",
+        "线性模型或曲线模型",
+        "以上说法都不对"
+      ],
+      "answers": [
+        "线性模型"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1615,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832300_13",
+      "type": "single_choice",
+      "question": "某六西格玛项目改善团队在改进阶段需进行全因子DOE 试验设计确定改进方案，厂长只批准了19次试验的经费，若每个因子取两个水平，共有4个因子要考虑，本次实验最多能加几个中心点?（）",
+      "options": [
+        "2；",
+        "4;",
+        "3;",
+        "1"
+      ],
+      "answers": [
+        "3;"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1616,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832300_16",
+      "type": "single_choice",
+      "question": "某绿带需要在项目改进阶段需要使用试验设计，他认为有3个连续变量的影响因素，准备进行全因子试验，在角点重复2次，并在中心点做3次试验，则总的试验次数是（）",
+      "options": [
+        "11次",
+        "19次",
+        "9次",
+        "18次"
+      ],
+      "answers": [
+        "19次"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1617,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832301_17",
+      "type": "multiple_choice",
+      "question": "在2水平全因子试验时，常常增加3至4个中心点，这样做的优点是（）",
+      "options": [
+        "以较少的试验次数实现重复试验，用以估计出实验误差",
+        "可以评估因素的主效应",
+        "可以评估交互效应",
+        "增加了对弯曲趋势的估计能力"
+      ],
+      "answers": [
+        "以较少的试验次数实现重复试验，用以估计出实验误差",
+        "增加了对弯曲趋势的估计能力"
+      ],
+      "answerLetters": [
+        "A",
+        "D"
+      ],
+      "sourceIndex": 1618,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832301_18",
+      "type": "multiple_choice",
+      "question": "在实验设计中，有三个必须考虑的基本设计的原则，它们是（）",
+      "options": [
+        "重复试验；",
+        "随机化；",
+        "中心点",
+        "区组化"
+      ],
+      "answers": [
+        "重复试验；",
+        "随机化；",
+        "区组化"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1619,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832301_19",
+      "type": "multiple_choice",
+      "question": "在2水平全因子试验中，通过 统计分析发现因子C及交互作用A*B是显著的，而A,B,D均不显著,则在选取最佳方案时，应考虑：（）",
+      "options": [
+        "找出因子A的最好水平",
+        "找出因子C的最好水平",
+        "找出因子A和B的最好水平搭配",
+        "找出因子D的最好水平"
+      ],
+      "answers": [
+        "找出因子C的最好水平",
+        "找出因子A和B的最好水平搭配"
+      ],
+      "answerLetters": [
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1620,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832301_20",
+      "type": "multiple_choice",
+      "question": "在DOE的方差分析中，残差的SS【sum of square】一般由以下哪几部分构成？（）",
+      "options": [
+        "角点仿行 ;",
+        "失拟 ;",
+        "中心点重复 ;",
+        "随机化"
+      ],
+      "answers": [
+        "角点仿行 ;",
+        "失拟 ;",
+        "中心点重复 ;"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1621,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832301_22",
+      "type": "multiple_choice",
+      "question": "关于两水平全因子DOE试验设计，下列说法正确的是：（）",
+      "options": [
+        "试验设计的原则是：完全重复、随机化、区组化",
+        "随机化指随机组合各因子的水平",
+        "随机化指随机化实验运行的顺序",
+        "每个DOE试验设计均要进行区组化"
+      ],
+      "answers": [
+        "试验设计的原则是：完全重复、随机化、区组化",
+        "随机化指随机化实验运行的顺序"
+      ],
+      "answerLetters": [
+        "A",
+        "C"
+      ],
+      "sourceIndex": 1622,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832301_23",
+      "type": "multiple_choice",
+      "question": "有关全因子试验设计的应用条件，下列表述正确的是：（）",
+      "options": [
+        "因子的个数较少(5个以内)",
+        "因子个数较多，一般5个以上",
+        "因子和响应输出之间是线性关系",
+        "因子间可能存在交互作用"
+      ],
+      "answers": [
+        "因子的个数较少(5个以内)",
+        "因子和响应输出之间是线性关系",
+        "因子间可能存在交互作用"
+      ],
+      "answerLetters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1623,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777832301_24",
+      "type": "multiple_choice",
+      "question": "关于全因子实验设计，下述概念中正确的有（）",
+      "options": [
+        "它是包含了所有因子的所有水平的所有组合的设计",
+        "为避免试验次数的指数增长，通常制作二水平全因子试验",
+        "在做全因子实验设计时，不需要考虑区组化",
+        "可以估计出所有的因子主效应和所有的各阶交互效应"
+      ],
+      "answers": [
+        "它是包含了所有因子的所有水平的所有组合的设计",
+        "为避免试验次数的指数增长，通常制作二水平全因子试验",
+        "可以估计出所有的因子主效应和所有的各阶交互效应"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1624,
       "source": "italent-review"
     }
   ]
