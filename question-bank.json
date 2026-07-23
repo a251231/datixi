@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.23.1",
+  "version": "2026.07.23.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-23T11:27:02+08:00",
+  "updatedAt": "2026-07-23T11:29:33+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1582,
+  "questionCount": 1605,
   "typeCounts": {
-    "single_choice": 884,
+    "single_choice": 907,
     "multiple_choice": 248,
     "true_false": 342,
     "fill_blank": 57,
@@ -29268,6 +29268,442 @@
         "C"
       ],
       "sourceIndex": 1582,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370303_2",
+      "type": "single_choice",
+      "question": "在计算出控制图的上下控制限后，可以比较上下控制限和上下公差限的数值。这两个限制范围的关系是：（）",
+      "options": [
+        "上下控制限的范围一定与上下公差限的范围相同",
+        "上下控制限的范围一定比上下公差限的范围宽",
+        "上下控制限的范围一定比上下公差限的范围窄",
+        "下控制限的范围与上下公差限的范围一般不能比较"
+      ],
+      "answers": [
+        "下控制限的范围与上下公差限的范围一般不能比较"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1583,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370303_4",
+      "type": "single_choice",
+      "question": "控制图的计算及日常记录都应作为技术资料加以妥善保管。故而，对下述哪种情况不应予以记录（）",
+      "options": [
+        "点出界的情况；",
+        "界内点排列不随机的情况；",
+        "点在中心线周围随机散布的情况；",
+        "异常情况的处理"
+      ],
+      "answers": [
+        "点在中心线周围随机散布的情况；"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1584,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370303_5",
+      "type": "single_choice",
+      "question": "图纸规定，打孔直径的公差为φ10.62±0.03mm。工人们利用均值-标准差控制图，管理上月的打孔直径的质量。一段时间来，打孔直径比较稳定，σ=0.015,则过程能力指数为（）：",
+      "options": [
+        "0.33;",
+        "0.5;",
+        "0.67;",
+        "0.1"
+      ],
+      "answers": [
+        "0.67;"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1585,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370303_6",
+      "type": "single_choice",
+      "question": "某工程师经过分析，选择使用Xbar-R控制图进行过程控制，未来将有工人从线上采集数据，他们应该（）",
+      "options": [
+        "以最方便的方式抽取子组",
+        "在生产线上随机抽取子组",
+        "按照生产次序抽取子组",
+        "以上都可以"
+      ],
+      "answers": [
+        "按照生产次序抽取子组"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1586,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370303_7",
+      "type": "single_choice",
+      "question": "在使用控制图控制过程中，若出现控制线以外的点，以下说法正确的是（）",
+      "options": [
+        "过程一定出现了不合格",
+        "过程可能存在异常情况，但不一定出现了不合格",
+        "99.73%的把握判定过程出现了不合格",
+        "过程不存在异常，出现控制线以外的点是小概率事件，且小概率事件发生了"
+      ],
+      "answers": [
+        "过程可能存在异常情况，但不一定出现了不合格"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1587,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370303_8",
+      "type": "single_choice",
+      "question": "汽车厂商需要在生产过程中对某产品的直径进行控制，采用游标卡尺进行测量。每次测量5个产品，现已收集了25组直径的数据，可选用哪种控制图（）：",
+      "options": [
+        "Xbar-R控制图；",
+        "C控制图；",
+        "I-MR控制图；",
+        "P控制图"
+      ],
+      "answers": [
+        "Xbar-R控制图；"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1588,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370303_9",
+      "type": "single_choice",
+      "question": "某装配车间，每小时从装配线上随机抽取200台复印机作为一个样本，记录不合格复印件数量。请问选择什么图来监控装配过程？（）",
+      "options": [
+        "P 图",
+        "NP图",
+        "C 图",
+        "U 图"
+      ],
+      "answers": [
+        "NP图"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1589,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_10",
+      "type": "single_choice",
+      "question": "一个制造轴承的企业，生产线上的一个关键指标是内径。在线监测设备全检每个部件，每个部件间隔4秒钟。请问选择什么控制图监控？（）",
+      "options": [
+        "I-MR 图",
+        "X-bar R 图",
+        "X-Bar S 图"
+      ],
+      "answers": [
+        "I-MR 图"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1590,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_11",
+      "type": "single_choice",
+      "question": "用于制造半导体的硅片的厚度必须进行严格控制。这种产品的公差为±0.005英寸。在一家生产厂，每小时抽取三张晶片，测量其厚度（精确到0.001）,请问选择什么控制图？（）",
+      "options": [
+        "I-MR 图",
+        "X-bar R 图",
+        "X-Bar S 图"
+      ],
+      "answers": [
+        "X-bar R 图"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1591,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_12",
+      "type": "single_choice",
+      "question": "一位工程师准备监控每天不合格品数，每天抽样数不能保证相同，他应当选用以下哪种控制图？（）",
+      "options": [
+        "U图；",
+        "NP图；",
+        "C图；",
+        "P图"
+      ],
+      "answers": [
+        "P图"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1592,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_13",
+      "type": "single_choice",
+      "question": "下列对流程的陈述中错误的是（）",
+      "options": [
+        "当流程不受特殊因素影响时，流程在统计受控状态下",
+        "当所有数据点都落在控制限内并围绕均值随机散布时，流程是在统计受控状态下",
+        "当控制限在客户规格限内时，流程是在统计受控状态下",
+        "当流程仅受偶然原因变异的影响时，流程是在统计受控之下"
+      ],
+      "answers": [
+        "当控制限在客户规格限内时，流程是在统计受控状态下"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1593,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_14",
+      "type": "single_choice",
+      "question": "通过SPC控制图可以了解过程的哪个方面?（）",
+      "options": [
+        "过程能力",
+        "过程稳定性",
+        "过程适用性",
+        "A和B都对"
+      ],
+      "answers": [
+        "过程稳定性"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1594,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_15",
+      "type": "single_choice",
+      "question": "什么是合理子组原则?（）",
+      "options": [
+        "请明智的认为你建立抽样子组",
+        "利用中心极限定理",
+        "确保抽样子组与变差",
+        "选择样本量大于100的样本"
+      ],
+      "answers": [
+        "确保抽样子组与变差"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1595,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_16",
+      "type": "single_choice",
+      "question": "一个稳定的过程包括随时间推移____ ____的波动(变差)（）",
+      "options": [
+        "不可预测",
+        "可预测",
+        "特殊原因",
+        "A和C"
+      ],
+      "answers": [
+        "可预测"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1596,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_17",
+      "type": "single_choice",
+      "question": "如果过程中仅有普通原因导致的变差,我们可以看到过程输出（）",
+      "options": [
+        "完全不可预测",
+        "可以预测",
+        "偏斜",
+        "无法分析",
+        "以上都对"
+      ],
+      "answers": [
+        "可以预测"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1597,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_18",
+      "type": "single_choice",
+      "question": "使用哪种控制图可以查看到子组内变差?（）",
+      "options": [
+        "均值图",
+        "极差图",
+        "单值图",
+        "A和B都对"
+      ],
+      "answers": [
+        "极差图"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1598,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_19",
+      "type": "single_choice",
+      "question": "做SPC的合理原因是什么?（）",
+      "options": [
+        "在产线终端检测缺陷",
+        "通过分析过程变差确定导致过程波动的特殊原因和普通原因",
+        "确定我们可以应用哪些SPC控制图",
+        "A和C都对"
+      ],
+      "answers": [
+        "通过分析过程变差确定导致过程波动的特殊原因和普通原因"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1599,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_20",
+      "type": "single_choice",
+      "question": "关于使用控制图的目地，下列表述不正确的是：（）",
+      "options": [
+        "监测出流程的输出产品是否合格",
+        "监测流程中是否存在异常原因",
+        "预测流程输出的变化趋势",
+        "分析流程的均值和标准差是否变化"
+      ],
+      "answers": [
+        "监测出流程的输出产品是否合格"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1600,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_21",
+      "type": "single_choice",
+      "question": "正确或者错误：控制图用规格限来表示过程中的正常变异。（）",
+      "options": [
+        "正确。规格限是控制图的一部分。",
+        "正确。过程数据决定规格限。",
+        "错误。控制图的上下边界称为控制限。",
+        "错误。上边界称为控制限，下边界称为规格限。"
+      ],
+      "answers": [
+        "错误。控制图的上下边界称为控制限。"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1601,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_22",
+      "type": "single_choice",
+      "question": "流程处于稳定受控状态指的是：（）",
+      "options": [
+        "流程的输出部件都在规格限范围内",
+        "流程中没有变异",
+        "所有的产品都合格",
+        "流程中只存在随机变异"
+      ],
+      "answers": [
+        "流程中只存在随机变异"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1602,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_23",
+      "type": "single_choice",
+      "question": "在研究完改进措施后，决定进行试生产。试生产半月后，采集了100 个数据。发现过程仍未受控，且标准差过大，平均值也低于目标要求。对于这3 方面的问题的解决顺序应该是：（）",
+      "options": [
+        "首先分析找出过程未受控的原因，即找出影响过程的异常变异原因，使过程达到受控。",
+        "首先分析找出标准差过大的原因，然后减小变异。",
+        "首先分析找出平均值太低的原因，用最短时间及最小代价调整好均值。",
+        "以上步骤顺序不能肯定，应该根据实际情况判断解决问题的途径。"
+      ],
+      "answers": [
+        "首先分析找出过程未受控的原因，即找出影响过程的异常变异原因，使过程达到受控。"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1603,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370304_24",
+      "type": "single_choice",
+      "question": "在性佳牌手机生产车间，要检测手机的抗脉冲电压冲击性能。由于是破坏性检验，成本较高，每小时从生产线上抽一部来作检测，共连续监测4 昼夜，得到了96 个数据。六西格玛团队中，王先生主张对这些数据画“单值-移动极差控制图”，梁先生主张将3 个数据当作一组，对这32 组数据作“Xbar-R 控制图”。这时你认为应使用的控制图是：（）",
+      "options": [
+        "只能使用“单值-移动极差控制图”，",
+        "只能使用“Xbar-R 控制图”。",
+        "两者都可以使用，而以“Xbar-R 控制图”的精度较好。",
+        "两者都可以使用，而以“单值-移动极差控制图”的精度较好"
+      ],
+      "answers": [
+        "只能使用“单值-移动极差控制图”，"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1604,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1784777370305_25",
+      "type": "single_choice",
+      "question": "在分析X -bar R控制图时应（）",
+      "options": [
+        "先分析Xbar 图然后再分析R 图",
+        "先分析R 图然后再分析Xbar 图",
+        "Xbar 图和R图无关，应单独分析",
+        "以上答案都不对"
+      ],
+      "answers": [
+        "先分析R 图然后再分析Xbar 图"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1605,
       "source": "italent-review"
     }
   ]
