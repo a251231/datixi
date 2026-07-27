@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.23.4",
+  "version": "2026.07.27.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-23T11:37:18+08:00",
+  "updatedAt": "2026-07-27T13:33:21+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1624,
+  "questionCount": 1629,
   "typeCounts": {
-    "single_choice": 917,
+    "single_choice": 922,
     "multiple_choice": 257,
     "true_false": 342,
     "fill_blank": 57,
@@ -30093,6 +30093,101 @@
         "D"
       ],
       "sourceIndex": 1624,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130394310_1",
+      "type": "single_choice",
+      "question": "印尼语 “mencium” 的中文意思是？（）",
+      "options": [
+        "看",
+        "闻",
+        "听",
+        "想"
+      ],
+      "answers": [
+        "闻"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1625,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130394311_2",
+      "type": "single_choice",
+      "question": "中文 “害怕” 对应的印尼语词汇是？（）",
+      "options": [
+        "tidur",
+        "takut",
+        "hidup",
+        "mati"
+      ],
+      "answers": [
+        "takut"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1626,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130394311_3",
+      "type": "single_choice",
+      "question": "印尼语 “membunuh” 的中文含义是？（）",
+      "options": [
+        "杀",
+        "打",
+        "打架",
+        "狩猎"
+      ],
+      "answers": [
+        "杀"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1627,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130394311_4",
+      "type": "single_choice",
+      "question": "中文 “睡觉” 对应的印尼语是？（）",
+      "options": [
+        "napas",
+        "tawa",
+        "tidur",
+        "hidup"
+      ],
+      "answers": [
+        "tidur"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1628,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130394311_5",
+      "type": "single_choice",
+      "question": "印尼语 “berkelahi” 的中文意思是？（）",
+      "options": [
+        "狩猎",
+        "打架",
+        "打",
+        "杀"
+      ],
+      "answers": [
+        "打架"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1629,
       "source": "italent-review"
     }
   ]
