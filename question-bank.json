@@ -1,11 +1,11 @@
 {
-  "version": "2026.07.27.1",
+  "version": "2026.07.27.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-27T13:33:21+08:00",
+  "updatedAt": "2026-07-27T13:39:21+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1629,
+  "questionCount": 1634,
   "typeCounts": {
-    "single_choice": 922,
+    "single_choice": 927,
     "multiple_choice": 257,
     "true_false": 342,
     "fill_blank": 57,
@@ -30188,6 +30188,101 @@
         "B"
       ],
       "sourceIndex": 1629,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130745134_1",
+      "type": "single_choice",
+      "question": "对话中 “I sent them formal invitations a week ago” 里，“formal” 的中文含义是？（）",
+      "options": [
+        "临时的",
+        "正式的",
+        "手写的",
+        "电子的"
+      ],
+      "answers": [
+        "正式的"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1630,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130745134_2",
+      "type": "single_choice",
+      "question": "经典句 “Can we set up the stand now?” 中，“stand” 在展会语境下意为？（）",
+      "options": [
+        "站立",
+        "展台",
+        "标准",
+        "摊位费"
+      ],
+      "answers": [
+        "展台"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1631,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130745135_3",
+      "type": "single_choice",
+      "question": "对话 “I've been doing this job for 10 years.” 使用的时态是？（）",
+      "options": [
+        "一般过去时",
+        "现在完成时",
+        "现在完成进行时",
+        "过去进行时"
+      ],
+      "answers": [
+        "现在完成进行时"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1632,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130745135_4",
+      "type": "single_choice",
+      "question": "注释中 “bottleneck” 的中文释义是？（）",
+      "options": [
+        "机遇",
+        "瓶颈",
+        "转机",
+        "方法"
+      ],
+      "answers": [
+        "瓶颈"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1633,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785130745135_5",
+      "type": "single_choice",
+      "question": "经典句 “Reaching our sales goal this quarter is a long shot” 中，“quarter” 意为？（）",
+      "options": [
+        "月份",
+        "年度",
+        "季度",
+        "半年度"
+      ],
+      "answers": [
+        "季度"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1634,
       "source": "italent-review"
     }
   ]
