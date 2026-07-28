@@ -1,12 +1,12 @@
 {
-  "version": "2026.07.27.2",
+  "version": "2026.07.28.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-27T13:39:21+08:00",
+  "updatedAt": "2026-07-28T09:32:40+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1634,
+  "questionCount": 1637,
   "typeCounts": {
-    "single_choice": 927,
-    "multiple_choice": 257,
+    "single_choice": 929,
+    "multiple_choice": 258,
     "true_false": 342,
     "fill_blank": 57,
     "short_answer": 51
@@ -30283,6 +30283,66 @@
         "C"
       ],
       "sourceIndex": 1634,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785202350711_4",
+      "type": "single_choice",
+      "question": "如果Cp=1.5,并且Cpk=1.5,Cp意味着过程的散布程度是1）______;Cpk意味着过程是2）_____（）",
+      "options": [
+        "1）对准目标的，2）稳定的",
+        "1）有能力的，2）仅有特殊原因导致的变差",
+        "1）不可预测的，2）可接受的",
+        "1）可接受的，2）对准目标的",
+        "1）没有能力的，2）仅有特殊原因导致的变差"
+      ],
+      "answers": [
+        "1）可接受的，2）对准目标的"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1635,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785202350712_29",
+      "type": "single_choice",
+      "question": "用测量的轮胎直径数据进行了量具RR分析。从下图中的值中我们可以得到什么结论？（）",
+      "options": [
+        "总体研究变异中大约32.36%的变异是由于相同测量员多次测量同一部件引起的",
+        "总体研究变异中大约32.36%的变异是由于不同测量员多次测量同一部件引起的",
+        "测量系统变异中大约32.36%的变异是由于相同测量员多次测量同一部件引起的",
+        "测量系统变异中大约32.36%的变异是由于不同测量员多次测量同一部件引起的"
+      ],
+      "answers": [
+        "总体研究变异中大约32.36%的变异是由于不同测量员多次测量同一部件引起的"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1636,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1785202350713_45",
+      "type": "multiple_choice",
+      "question": "某企业在购买新的生产设备时，有两台不同厂家的设备可以选择，生产同样的产品，对A厂家的设备进行过程能努力分析，发现Cp=1.4,Cpk=1.0;而B厂家的结果是Cp=1.0,Cpk=1.0。假定两台设备的价格和厂家提供的服务均相同，你认为从质量角度应该（）",
+      "options": [
+        "选择A厂家，因为A厂家设备的加工精度更高",
+        "选择B厂家，因为B厂家设备的Cpk=Cp,表明过程没有漂移",
+        "选择B厂家，因为A厂家设备的CpkCp,表明其过程有漂移",
+        "选择A厂家，因为A厂家的潜在能力更高"
+      ],
+      "answers": [
+        "选择A厂家，因为A厂家设备的加工精度更高",
+        "选择A厂家，因为A厂家的潜在能力更高"
+      ],
+      "answerLetters": [
+        "A",
+        "D"
+      ],
+      "sourceIndex": 1637,
       "source": "italent-review"
     }
   ]
