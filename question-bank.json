@@ -1,13 +1,13 @@
 {
-  "version": "2026.07.28.1",
+  "version": "2026.08.10.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-07-28T09:32:40+08:00",
+  "updatedAt": "2026-08-10T08:26:42+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1637,
+  "questionCount": 1643,
   "typeCounts": {
-    "single_choice": 929,
-    "multiple_choice": 258,
-    "true_false": 342,
+    "single_choice": 932,
+    "multiple_choice": 260,
+    "true_false": 343,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -30343,6 +30343,126 @@
         "D"
       ],
       "sourceIndex": 1637,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786321598211_3",
+      "type": "true_false",
+      "question": "人员在罐内作业位置距离罐底 2.2 米，办理受限空间作业票后，仍需要办理登高作业票。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1638,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786321598212_5",
+      "type": "single_choice",
+      "question": "使用登高车进行登高作业时，作业人员安全带要求为( )",
+      "options": [
+        "高度低于3米不用系安全带",
+        "现场管理人员可视情况决定",
+        "必须系挂安全带",
+        "不需要佩戴安全带"
+      ],
+      "answers": [
+        "必须系挂安全带"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1639,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786321598212_6",
+      "type": "single_choice",
+      "question": "使用移动式登高车开展作业，下列说法正确的是（ )",
+      "options": [
+        "只有登高高度超过5米才需要开票",
+        "仍然需要办理高处作业票，落实风险管控",
+        "登高车自带防护栏，不需要办理高处作业票",
+        "仅人员超过3人时才需要开票"
+      ],
+      "answers": [
+        "仍然需要办理高处作业票，落实风险管控"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1640,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786321598212_7",
+      "type": "multiple_choice",
+      "question": "针对动火、受限空间配套的临时用电，规定用电时间与作业时间保持一致，目的包含 ( )",
+      "options": [
+        "方便统计电费",
+        "两项作业风险较高，作业结束及时拆除临时用电线路",
+        "避免遗留电气线路引发火灾、爆炸事故",
+        "防止作业环境变化，引发触电事故"
+      ],
+      "answers": [
+        "两项作业风险较高，作业结束及时拆除临时用电线路",
+        "避免遗留电气线路引发火灾、爆炸事故",
+        "防止作业环境变化，引发触电事故"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1641,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786321598212_9",
+      "type": "multiple_choice",
+      "question": "下列哪些情形作业人员应持有高处作业特种作业操作证（ )",
+      "options": [
+        "高空物料吊运",
+        "厂区常规巡检、开关阀门",
+        "登高架设作业",
+        "独立脚手架搭设"
+      ],
+      "answers": [
+        "高空物料吊运",
+        "登高架设作业",
+        "独立脚手架搭设"
+      ],
+      "answerLetters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1642,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786321598212_10",
+      "type": "single_choice",
+      "question": "生产厂区正式运行配电箱内所接的非永久性用电属于临时用电，下列哪项无需办理用电票( )",
+      "options": [
+        "罐体打磨临时接线",
+        "插销、插盘接电",
+        "动火作业配套临时线路",
+        "长时间设备检修接电"
+      ],
+      "answers": [
+        "插销、插盘接电"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1643,
       "source": "italent-review"
     }
   ]
