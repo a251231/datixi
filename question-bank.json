@@ -1,13 +1,13 @@
 {
-  "version": "2026.08.10.1",
+  "version": "2026.08.10.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-10T08:26:42+08:00",
+  "updatedAt": "2026-08-10T08:47:25+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1643,
+  "questionCount": 1645,
   "typeCounts": {
-    "single_choice": 932,
+    "single_choice": 933,
     "multiple_choice": 260,
-    "true_false": 343,
+    "true_false": 344,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -30463,6 +30463,42 @@
         "B"
       ],
       "sourceIndex": 1643,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786322830051_1",
+      "type": "single_choice",
+      "question": "关于特殊作业监护人要求，下列说法正确的是( )",
+      "options": [
+        "临时用电作业，接电、设备启动阶段配备监护人，设备正常运行期间可不设专职监护人，定期检查即可",
+        "动火作业正常工作期间不需要监护人",
+        "所有特殊作业都必须监护人全程监护",
+        "受限空间作业无需监护人全程监护"
+      ],
+      "answers": [
+        "临时用电作业，接电、设备启动阶段配备监护人，设备正常运行期间可不设专职监护人，定期检查即可"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1644,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786322830051_4",
+      "type": "true_false",
+      "question": "所有的特殊作业都需要监护人全程监护。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1645,
       "source": "italent-review"
     }
   ]
