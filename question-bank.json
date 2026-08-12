@@ -1,13 +1,13 @@
 {
-  "version": "2026.08.11.1",
+  "version": "2026.08.12.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-11T08:32:22+08:00",
+  "updatedAt": "2026-08-12T08:25:24+08:00",
   "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1654,
+  "questionCount": 1663,
   "typeCounts": {
-    "single_choice": 937,
+    "single_choice": 942,
     "multiple_choice": 263,
-    "true_false": 346,
+    "true_false": 350,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -30680,6 +30680,169 @@
         "D"
       ],
       "sourceIndex": 1654,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_1",
+      "type": "single_choice",
+      "question": "承包商人员开展脚手架架设、设备高处检修维护作业，作业人员应当（ ）",
+      "options": [
+        "持有高处作业《特种作业操作证》",
+        "无需持证，直接作业",
+        "只需要班长在场即可",
+        "仅办理作业票，不用取证"
+      ],
+      "answers": [
+        "持有高处作业《特种作业操作证》"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1655,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_2",
+      "type": "true_false",
+      "question": "车间行吊常态化固定工位吊运原料、成品，纳入操作规程管理，可不办理吊装作业票。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1656,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_3",
+      "type": "single_choice",
+      "question": "企业内部操作人员开展高处常规巡检、开关阀门作业，以下描述正确的是（ ）",
+      "options": [
+        "高度不足 3 米无需任何手续",
+        "不需要取得高处作业特种操作证，但必须办理登高作业票",
+        "需要取得高处作业证，同时办理登高票",
+        "既不需要取证，也不需要办理登高作业票"
+      ],
+      "answers": [
+        "不需要取得高处作业特种操作证，但必须办理登高作业票"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1657,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_4",
+      "type": "true_false",
+      "question": "焊工在高处进行设备定点维保焊接，属于本职工作，无需额外取得高处作业证。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1658,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_5",
+      "type": "single_choice",
+      "question": "电工承接外墙保温配套高空管线安装，属于超出本职范围高处作业，应当（ ）",
+      "options": [
+        "凭电工证直接作业",
+        "额外取得高处作业特种作业操作证",
+        "只需要监护人在场即可",
+        "不用办理高处作业票"
+      ],
+      "answers": [
+        "额外取得高处作业特种作业操作证"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1659,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_6",
+      "type": "true_false",
+      "question": "早班人员可以直接沿用夜班未结束的作业票，不需要属地人员重新开票和交接。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1660,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_8",
+      "type": "single_choice",
+      "question": "属地负责人因其他工作无法抵达现场开展作业票审批，优先处理方式为（ ）",
+      "options": [
+        "寻找属地负责人的直接上级进行审批，无需授权",
+        "安全员直接代为审批",
+        "作业人员先行开工，事后补票",
+        "直接交由下级人员口头审批"
+      ],
+      "answers": [
+        "寻找属地负责人的直接上级进行审批，无需授权"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1661,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_9",
+      "type": "single_choice",
+      "question": "电工在 2 米及以上基准面开展桥架施工、高处电气接线本职工作，下列说法正确的是（ ）",
+      "options": [
+        "必须额外考取高处作业证",
+        "不用办理任何作业票",
+        "仅高度超过 4 米才需要管控",
+        "无需重新取得登高证，按规定办理高处作业票即可"
+      ],
+      "answers": [
+        "无需重新取得登高证，按规定办理高处作业票即可"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1662,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786494321630_10",
+      "type": "true_false",
+      "question": "登高车作业时，即便围栏完好，作业人员依然必须系挂安全带。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1663,
       "source": "italent-review"
     }
   ]
