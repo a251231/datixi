@@ -1,13 +1,13 @@
 {
-  "version": "2026.08.12.1",
+  "version": "2026.08.12.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-12T08:25:24+08:00",
-  "source": "1 质量体系知识竞赛题库-全量结构化可解析版.docx",
-  "questionCount": 1663,
+  "updatedAt": "2026-08-12T10:52:12+08:00",
+  "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
+  "questionCount": 1669,
   "typeCounts": {
-    "single_choice": 942,
-    "multiple_choice": 263,
-    "true_false": 350,
+    "single_choice": 943,
+    "multiple_choice": 266,
+    "true_false": 352,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -21285,7 +21285,8 @@
       "question": "能源存在和产生的形式可分为几类，分别进行举例",
       "options": [],
       "answers": [
-        "一类是自然界存在的，可以直接利用的能源，如煤、石油、天然气、植物燃料、水能、风能、太阳能、原子能、地热能、海洋能、潮汐能等，称为一次能源。第二类是由一次能源经过加工转换而成的能源产品，如电、蒸汽、煤气、焦炭、石油制品、沼气、酒精、氢、余热等，称为二次能源。"
+        "一类是自然界存在的，可以直接利用的能源，如煤、石油、天然气、植物燃料、水能、风能、太阳能、原子能、地热能、海洋能、潮汐能等，称为一次能源。",
+        "第二类是由一次能源经过加工转换而成的能源产品，如电、蒸汽、煤气、焦炭、石油制品、沼气、酒精、氢、余热等，称为二次能源。"
       ],
       "answerLetters": []
     },
@@ -30844,6 +30845,136 @@
       ],
       "sourceIndex": 1663,
       "source": "italent-review"
+    },
+    {
+      "id": "quality_multiple_choice_1083",
+      "sourceIndex": 1664,
+      "sourceNumber": 65,
+      "section": "二、多选题",
+      "type": "multiple_choice",
+      "question": "车间“三害一恶”指的是：",
+      "options": [
+        "锈蚀",
+        "铜锌",
+        "焊渣",
+        "毛刺"
+      ],
+      "answers": [
+        "锈蚀",
+        "铜锌",
+        "焊渣",
+        "毛刺"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "quality_single_choice_1123",
+      "sourceIndex": 1665,
+      "sourceNumber": 278,
+      "section": "2安全知识竞赛题库",
+      "type": "single_choice",
+      "question": "属地负责人直接上级同样无法到场审批时，属地负责人应当",
+      "options": [
+        "通过微信语音口头授权他人签批",
+        "直接作废作业计划，禁止作业",
+        "出具文字证明授权下级签批",
+        "由监护人员代为审批"
+      ],
+      "answers": [
+        "出具文字证明授权下级签批"
+      ],
+      "answerLetters": [
+        "C"
+      ]
+    },
+    {
+      "id": "quality_multiple_choice_1084",
+      "sourceIndex": 1666,
+      "sourceNumber": 125,
+      "section": "二、多选题",
+      "type": "multiple_choice",
+      "question": "罐内高处作业开票判定标准，说法正确的有",
+      "options": [
+        "仅使用梯子进出罐体，不在罐底 2 米以上停留作业，只开受限空间票",
+        "在罐内距离罐底 2 米以上位置持续作业，受限空间票 + 登高作业票均需办理",
+        "只要进入罐体内部，一律同步开具登高票",
+        "罐内作业高度临界点为距离罐底 2 米"
+      ],
+      "answers": [
+        "仅使用梯子进出罐体，不在罐底 2 米以上停留作业，只开受限空间票",
+        "在罐内距离罐底 2 米以上位置持续作业，受限空间票 + 登高作业票均需办理",
+        "罐内作业高度临界点为距离罐底 2 米"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": "quality_multiple_choice_1085",
+      "sourceIndex": 1667,
+      "sourceNumber": 126,
+      "section": "二、多选题",
+      "type": "multiple_choice",
+      "question": "关于属地负责人无法现场审批作业票的管理要求，说法正确的有",
+      "options": [
+        "优先联系属地负责人直接上级审批，无需授权",
+        "直接上级无法到场，属地负责人必须提供书面授权材料",
+        "禁止仅使用口头授权方式委托他人签批作业票",
+        "可直接安排作业人员自行签票开工"
+      ],
+      "answers": [
+        "优先联系属地负责人直接上级审批，无需授权",
+        "直接上级无法到场，属地负责人必须提供书面授权材料",
+        "禁止仅使用口头授权方式委托他人签批作业票"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": "quality_true_false_1180",
+      "sourceIndex": 1668,
+      "sourceNumber": 122,
+      "section": "三、判断题",
+      "type": "true_false",
+      "question": "插销、插盘简单接电，属于临时用电范畴，但无需办理用电票。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ]
+    },
+    {
+      "id": "quality_true_false_1181",
+      "sourceIndex": 1669,
+      "sourceNumber": 123,
+      "section": "三、判断题",
+      "type": "true_false",
+      "question": "临时用电作业在设备正常工作期间，可以不设置专职监护人，定期开展检查。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ]
     }
   ]
 }
