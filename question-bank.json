@@ -1,11 +1,11 @@
 {
-  "version": "2026.08.12.2",
+  "version": "2026.08.13.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-12T10:52:12+08:00",
+  "updatedAt": "2026-08-13T12:29:04+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1669,
+  "questionCount": 1679,
   "typeCounts": {
-    "single_choice": 943,
+    "single_choice": 953,
     "multiple_choice": 266,
     "true_false": 352,
     "fill_blank": 57,
@@ -30975,6 +30975,196 @@
       "answerLetters": [
         "A"
       ]
+    },
+    {
+      "id": "italent_review_1786595342050_1",
+      "type": "single_choice",
+      "question": "下列关于风险分级管控描述正确的是（）",
+      "options": [
+        "风险消除后才可以开展生产",
+        "对风险进行辨识、评估、分级，落实对应管控措施",
+        "风险就是隐患，二者概念完全相同",
+        "只有重大风险才需要管控"
+      ],
+      "answers": [
+        "对风险进行辨识、评估、分级，落实对应管控措施"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1670,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342050_2",
+      "type": "single_choice",
+      "question": "不属于常用风险识别与评估方法的是（）",
+      "options": [
+        "JHA 工作危害分析法",
+        "SCL 安全检查表法",
+        "主观猜测法",
+        "LEC 危险性评价法"
+      ],
+      "answers": [
+        "主观猜测法"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1671,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342050_3",
+      "type": "single_choice",
+      "question": "企业风险等级一般划分为四级，红色代表（）",
+      "options": [
+        "一般风险",
+        "较大风险",
+        "重大风险",
+        "低风险"
+      ],
+      "answers": [
+        "重大风险"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1672,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342050_4",
+      "type": "single_choice",
+      "question": "构建隐患排查治理体系，企业应当建立（）隐患排查模式",
+      "options": [
+        "仅依靠安全员检查",
+        "日常、专项、综合等多形式相结合",
+        "一年只开展一次全面排查",
+        "只检查设备不检查人的行为"
+      ],
+      "answers": [
+        "日常、专项、综合等多形式相结合"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1673,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342050_5",
+      "type": "single_choice",
+      "question": "双重预防机制建设最终目的是（）",
+      "options": [
+        "应付上级检查",
+        "关口前移，防范生产安全事故发生",
+        "只用来整理台账资料",
+        "仅用于事故之后分析"
+      ],
+      "answers": [
+        "关口前移，防范生产安全事故发生"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1674,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342050_6",
+      "type": "single_choice",
+      "question": "风险管控责任体系，风险管控责任要落实到（）",
+      "options": [
+        "仅安全管理人员",
+        "各级部门、车间、班组、具体岗位人员",
+        "只由企业主要负责人承担",
+        "仅外包单位负责"
+      ],
+      "answers": [
+        "各级部门、车间、班组、具体岗位人员"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1675,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342050_7",
+      "type": "single_choice",
+      "question": "典型事故案例分析，绝大多数生产安全事故根源是（）",
+      "options": [
+        "完全不可抗自然灾害",
+        "风险管控缺失、隐患未及时治理",
+        "设备全部先天质量缺陷",
+        "全部为外部人员导致"
+      ],
+      "answers": [
+        "风险管控缺失、隐患未及时治理"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1676,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342051_8",
+      "type": "single_choice",
+      "question": "应急响应能力建设，针对辨识出的重大风险，企业应编制（）",
+      "options": [
+        "专项应急处置方案",
+        "无需编制预案",
+        "仅口头告知员工",
+        "只做档案存放不用培训演练"
+      ],
+      "answers": [
+        "专项应急处置方案"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1677,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342051_9",
+      "type": "single_choice",
+      "question": "隐患分为一般隐患和重大隐患，重大隐患是指（）",
+      "options": [
+        "不会造成任何伤害的小问题",
+        "危害程度大，整改难度大，可能直接引发事故的隐患",
+        "标识轻微脱落",
+        "工具摆放不整齐"
+      ],
+      "answers": [
+        "危害程度大，整改难度大，可能直接引发事故的隐患"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1678,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786595342051_10",
+      "type": "single_choice",
+      "question": "双重预防机制建设，风险辨识工作多久需要更新（）",
+      "options": [
+        "工艺、设备发生变更时及时重新辨识评估",
+        "建成一次终身不用更新",
+        "只在发生事故后更新",
+        "每年仅抄写旧资料"
+      ],
+      "answers": [
+        "工艺、设备发生变更时及时重新辨识评估"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1679,
+      "source": "italent-review"
     }
   ]
 }
