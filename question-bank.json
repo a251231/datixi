@@ -1,12 +1,12 @@
 {
-  "version": "2026.08.13.1",
+  "version": "2026.08.14.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-13T12:29:04+08:00",
+  "updatedAt": "2026-08-14T12:43:33+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1679,
+  "questionCount": 1683,
   "typeCounts": {
-    "single_choice": 953,
-    "multiple_choice": 266,
+    "single_choice": 956,
+    "multiple_choice": 267,
     "true_false": 352,
     "fill_blank": 57,
     "short_answer": 51
@@ -31164,6 +31164,84 @@
         "A"
       ],
       "sourceIndex": 1679,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786682610054_4",
+      "type": "single_choice",
+      "question": "下图是根据3因子2水平全因子实验得到的因子标准化效应的帕累托图，根据此图表，下述结论中不正确的是（）:",
+      "options": [
+        "A因素与C因素的交互效应最大，且在α=0.05的水平下是显著的",
+        "B因素的主效应在α=0.05的水平下是显著的",
+        "A因素与C因素的交互效应、B因素的主效应和C因素的主效应在α=0.05的水平下均是显著的，因此进入模型的项应为AC、B和C",
+        "A因素与B因素的交互效应在α=0.05的水平下是不显著的"
+      ],
+      "answers": [
+        "A因素与C因素的交互效应、B因素的主效应和C因素的主效应在α=0.05的水平下均是显著的，因此进入模型的项应为AC、B和C"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1680,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786682610055_6",
+      "type": "single_choice",
+      "question": "某六西格玛绿带项目团队为了调查A、B、C三个因素对流程输出Y的影响 ，安排了3因子2水平的全因子实验，下图是根据实验结果 得到的因素主效应图，假如Y为望小特性【Y的测量值越小越好】，下述结论中不正确的是（）",
+      "options": [
+        "B、C三个因素中，A因素的主效应最小",
+        "C因素的主效应比B因素的主效应小一些",
+        "B、C三个因素中，B因素的主效应最大",
+        "B、C三个因素的主效应均需考虑"
+      ],
+      "answers": [
+        "B、C三个因素的主效应均需考虑"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1681,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786682610055_8",
+      "type": "single_choice",
+      "question": "在一个试验设计的分析问题中，建立响应变量与各因子及交互作用的回归方程可以有两种办法：一是对各因子的代码值【Coded Units】建立回归方程；二是直接对各因子的原始值【Uncoded Units】建立回归方程。在判断各因子或交互作用是否影响显著时，要进行对各因子回归系数的显著性检验时，可以使用这两种方法中的一种？（）",
+      "options": [
+        "两种方程检验效果都一样，用哪种都可以",
+        "只有用代码值(Coded Units)建立的回归方程才准确；用原始值(Uncoded Units)建立的回归方程有时判断不准确",
+        "只有用原始值(Uncoded Units)建立的回归方程才准确；用代码值(Coded Units)建立的回归方程有时不准确",
+        "根本用不着回归方程，ANOVA表中结果信息已经足够进行判断"
+      ],
+      "answers": [
+        "只有用代码值(Coded Units)建立的回归方程才准确；用原始值(Uncoded Units)建立的回归方程有时判断不准确"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1682,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1786682610056_21",
+      "type": "multiple_choice",
+      "question": "两水平全因子试验设计加中心点的说法正确的是：（）",
+      "options": [
+        "得到曲线模型",
+        "在中心点处重复从而得到试验过程的随机误差",
+        "可加1个中心点",
+        "发现模型是否有弯曲"
+      ],
+      "answers": [
+        "在中心点处重复从而得到试验过程的随机误差",
+        "发现模型是否有弯曲"
+      ],
+      "answerLetters": [
+        "B",
+        "D"
+      ],
+      "sourceIndex": 1683,
       "source": "italent-review"
     }
   ]
