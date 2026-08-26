@@ -1,11 +1,11 @@
 {
-  "version": "2026.08.14.1",
+  "version": "2026.08.26.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-14T12:43:33+08:00",
+  "updatedAt": "2026-08-26T08:27:28+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1683,
+  "questionCount": 1684,
   "typeCounts": {
-    "single_choice": 956,
+    "single_choice": 957,
     "multiple_choice": 267,
     "true_false": 352,
     "fill_blank": 57,
@@ -31242,6 +31242,25 @@
         "D"
       ],
       "sourceIndex": 1683,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1787704045969_6",
+      "type": "single_choice",
+      "question": "某供应商提供的 8D 报告中，有一项纠正措施涉及图纸修改，正确做法是什么？（ ）",
+      "options": [
+        "8D 报告经过CATL QA 批准",
+        "供应商需要提交《变更申请表》经过CATL QA 部门批准",
+        "8D 报告经过经过CATL R&D、QA、SRC、PM 等部门批准",
+        "供应商需要提交《变更申请表》经过CATL R&D、QA、SRC、PM 等部门批准"
+      ],
+      "answers": [
+        "供应商需要提交《变更申请表》经过CATL QA 部门批准"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1684,
       "source": "italent-review"
     }
   ]
