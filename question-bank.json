@@ -1,12 +1,12 @@
 {
-  "version": "2026.08.26.1",
+  "version": "2026.08.31.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-26T08:27:28+08:00",
+  "updatedAt": "2026-08-31T00:02:26+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1684,
+  "questionCount": 1687,
   "typeCounts": {
     "single_choice": 957,
-    "multiple_choice": 267,
+    "multiple_choice": 270,
     "true_false": 352,
     "fill_blank": 57,
     "short_answer": 51
@@ -31261,6 +31261,77 @@
         "B"
       ],
       "sourceIndex": 1684,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788105742924_1",
+      "type": "multiple_choice",
+      "question": "干部管理制度可以在哪里查看？",
+      "options": [
+        "OA-总索引框-点击文档-输入名称搜索",
+        "飞书-全员官宣群-找到干部管理制度发布通知-点击链接",
+        "OA-制度管理门户-人力资源管理-组织与干部管理"
+      ],
+      "answers": [
+        "OA-总索引框-点击文档-输入名称搜索",
+        "飞书-全员官宣群-找到干部管理制度发布通知-点击链接",
+        "OA-制度管理门户-人力资源管理-组织与干部管理"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1685,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788105742924_5",
+      "type": "multiple_choice",
+      "question": "以下关于干部激励与退出制度的说法，正确的是？",
+      "options": [
+        "年度考核需分等（A/B/C/D），按考核等级对应年度考核系数",
+        "年度积分制与干部的选拔、激励无关",
+        "物质激励对应“分钱”，荣誉激励对应“分荣誉”",
+        "年度积分制仅用于年终评优，不与晋升挂钩"
+      ],
+      "answers": [
+        "年度考核需分等（A/B/C/D），按考核等级对应年度考核系数",
+        "物质激励对应“分钱”，荣誉激励对应“分荣誉”"
+      ],
+      "answerLetters": [
+        "A",
+        "C"
+      ],
+      "sourceIndex": 1686,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788105742924_6",
+      "type": "multiple_choice",
+      "question": "公司的岗位序列包括哪几类？",
+      "options": [
+        "M 管理序列",
+        "P 专业序列",
+        "T 技术序列",
+        "S 营销序列",
+        "O 操作序列"
+      ],
+      "answers": [
+        "M 管理序列",
+        "P 专业序列",
+        "T 技术序列",
+        "S 营销序列",
+        "O 操作序列"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "sourceIndex": 1687,
       "source": "italent-review"
     }
   ]
