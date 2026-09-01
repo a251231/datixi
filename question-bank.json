@@ -1,12 +1,12 @@
 {
-  "version": "2026.09.01.2",
+  "version": "2026.09.01.3",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-01T10:09:00+08:00",
+  "updatedAt": "2026-09-01T17:40:07+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1697,
+  "questionCount": 1699,
   "typeCounts": {
-    "single_choice": 963,
-    "multiple_choice": 272,
+    "single_choice": 964,
+    "multiple_choice": 273,
     "true_false": 354,
     "fill_blank": 57,
     "short_answer": 51
@@ -31530,6 +31530,50 @@
         "E"
       ],
       "sourceIndex": 1697,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788255606579_2",
+      "type": "single_choice",
+      "question": "根据龙蟠科技干部分类管理规则，以下哪个职级及以上的员工会被纳入干部管理范围？",
+      "options": [
+        "L3 及以上",
+        "L4 及以上",
+        "L5 及以上",
+        "L6 及以上"
+      ],
+      "answers": [
+        "L5 及以上"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1698,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788255606579_3",
+      "type": "multiple_choice",
+      "question": "根据干部转身模型中“新任干部个人发展规划”的四个阶段，以下哪个选项属于该规划涵盖的内容？",
+      "options": [
+        "角色认知",
+        "速赢项目",
+        "业务引领",
+        "影响力构建"
+      ],
+      "answers": [
+        "角色认知",
+        "速赢项目",
+        "业务引领",
+        "影响力构建"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1699,
       "source": "italent-review"
     }
   ]
