@@ -1,13 +1,13 @@
 {
-  "version": "2026.08.31.1",
+  "version": "2026.09.01.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-08-31T00:02:26+08:00",
+  "updatedAt": "2026-09-01T10:04:04+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1687,
+  "questionCount": 1693,
   "typeCounts": {
-    "single_choice": 957,
-    "multiple_choice": 270,
-    "true_false": 352,
+    "single_choice": 960,
+    "multiple_choice": 272,
+    "true_false": 353,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -31332,6 +31332,129 @@
         "E"
       ],
       "sourceIndex": 1687,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228216191_1",
+      "type": "single_choice",
+      "question": "搅拌工序浆料单耗持续偏高，下面哪项不会造成浆料单耗上升（） Konsumsi satuan slurry di proses pencampuran terus tinggi. Manakah di bawah ini yang TIDAK menyebabkan konsumsi satuan slurry naik ()",
+      "options": [
+        "极片涂布出现厚边、掉料造成大量极片报废 Terjadi tepi tebal saat pelapisan lembar elektroda, pengadukan menyebabkan banyak limbah lembar elektroda",
+        "换型清洗时浆料残留过多、转序转运洒落浪费 Sisa bubur terlalu banyak saat pergantian model, pemborosan tumpahan saat ganti produk",
+        "浆料管控不当产生异常浆料，整批隔离报废 Pengendalian bubur yang tidak tepat menghasilkan bubur anomali, isolasi dan buang seluruh batch",
+        "严格按照工艺要求控制涂布面密度，减少报废 Kontrol ketat massa luas lapisan sesuai persyaratan proses untuk mengurangi limbah produksi"
+      ],
+      "answers": [
+        "严格按照工艺要求控制涂布面密度，减少报废 Kontrol ketat massa luas lapisan sesuai persyaratan proses untuk mengurangi limbah produksi"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1688,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228216191_2",
+      "type": "multiple_choice",
+      "question": "内部审核的目的是确定质量管理体系是否() Tujuan audit internal adalah untuk menentukan apakah sistem manajemen kualitas ()",
+      "options": [
+        "符合产品实现过程的策划安排 Sesuai dengan rencana perencanaan proses realisasi produk",
+        "提高了过程的效率 Meningkatkan efisiensi proses",
+        "符合GB/19001-2016标准和组织体系文件的要求 Mematuhi persyaratan standar GB/19001-2016 dan dokumen sistem organisasi",
+        "得到了有效实施与保持 Diterapkan dan dipelihara secara efektif",
+        "组织的类型和规模 Jenis dan skala organisasi"
+      ],
+      "answers": [
+        "符合产品实现过程的策划安排 Sesuai dengan rencana perencanaan proses realisasi produk",
+        "符合GB/19001-2016标准和组织体系文件的要求 Mematuhi persyaratan standar GB/19001-2016 dan dokumen sistem organisasi",
+        "得到了有效实施与保持 Diterapkan dan dipelihara secara efektif"
+      ],
+      "answerLetters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1689,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228216191_3",
+      "type": "true_false",
+      "question": "北斗七星质量文化提出大质量始于微小细节，车间作业人员手套破损、岗位粉尘管控不到位属于小问题，不会造成电芯异物短路、胀气等重大质量隐患。（） The Big‑Dipper‑Seven‑Star quality culture states that great quality starts from tiny details. Damaged gloves of workshop operators and poor dust control at workstations are minor issues and will not cause major quality risks such as foreign‑object short‑circuit or gas swelling of cells. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1690,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228216191_4",
+      "type": "single_choice",
+      "question": "正常生产停机＞6h 或正常运行压力＞（ ）时，需用纯水清洗管道及砂磨机 Ketika penghentian produksi normal > 6 jam atau tekanan operasi normal > (), pipa dan penggiling pasir harus dibersihkan dengan air murni",
+      "options": [
+        "0.3MPa",
+        "0.2MPa",
+        "2.0MPa",
+        "0.5MPa"
+      ],
+      "answers": [
+        "0.3MPa"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1691,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228216191_5",
+      "type": "single_choice",
+      "question": "5Why 分析中，应当尽量避免以下哪类根因结论 Dalam analisis 5Why, jenis kesimpulan akar penyebab mana yang harus dihindari sebisa mungkin",
+      "options": [
+        "作业指导书缺失 Instruksi kerja hilang",
+        "设备轴承磨损 Keausan bantalan peralatan",
+        "员工责任心不强 Rasa tanggung jawab karyawan yang kurang",
+        "来料尺寸偏移 Pergeseran dimensi material masuk"
+      ],
+      "answers": [
+        "员工责任心不强 Rasa tanggung jawab karyawan yang kurang"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1692,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228216191_6",
+      "type": "multiple_choice",
+      "question": "下列对四种质量工具定位描述正确的是 Deskripsi mana di bawah ini terkait posisi empat alat kualitas yang benar",
+      "options": [
+        "5Why：根因分析工具，定位问题根源 5Why: Alat analisis akar penyebab untuk menemukan sumber permasalahan",
+        "QCC：基层小组持续改善活动，课题改善 QCC: Aktivitas perbaikan berkelanjutan tim lapangan, perbaikan topik",
+        "8D：完整闭环问题解决流程，适合重大 / 客诉问题 8D: Proses penyelesaian masalah loop tertutup lengkap, cocok untuk masalah utama/keluhan pelanggan",
+        "SPC：过程统计预警工具，预防批量异常 SPC: Alat peringatan dini statistik proses untuk mencegah anomali massal"
+      ],
+      "answers": [
+        "5Why：根因分析工具，定位问题根源 5Why: Alat analisis akar penyebab untuk menemukan sumber permasalahan",
+        "QCC：基层小组持续改善活动，课题改善 QCC: Aktivitas perbaikan berkelanjutan tim lapangan, perbaikan topik",
+        "8D：完整闭环问题解决流程，适合重大 / 客诉问题 8D: Proses penyelesaian masalah loop tertutup lengkap, cocok untuk masalah utama/keluhan pelanggan",
+        "SPC：过程统计预警工具，预防批量异常 SPC: Alat peringatan dini statistik proses untuk mencegah anomali massal"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1693,
       "source": "italent-review"
     }
   ]
