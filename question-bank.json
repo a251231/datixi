@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.01.1",
+  "version": "2026.09.01.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-01T10:04:04+08:00",
+  "updatedAt": "2026-09-01T10:09:00+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1693,
+  "questionCount": 1697,
   "typeCounts": {
-    "single_choice": 960,
+    "single_choice": 963,
     "multiple_choice": 272,
-    "true_false": 353,
+    "true_false": 354,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -31455,6 +31455,81 @@
         "D"
       ],
       "sourceIndex": 1693,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228538147_1",
+      "type": "single_choice",
+      "question": "北斗七星质量文化强调敬畏风险，不放过任何异常。基地现场经常出现设备报警后人为复位、屏蔽报警，造成涂布面密度超差批量不良逃逸，以下属于质量红线行为的是（） Budaya kualitas Bintang Biduk Tujuh menekankan penghormatan terhadap risiko dan tidak membiarkan anomali apa pun lewat. Di lokasi, alarm peralatan sering di-reset dan ditekan secara manual setelah alarm, menyebabkan cacat massal penyimpangan kepadatan permukaan pelapisan lolos. Manakah di bawah ini yang merupakan perilaku garis merah kualitas ()",
+      "options": [
+        "报警弹窗弹出，不查找根因直接复位继续生产 Muncul jendela peringatan alarm, langsung reset tanpa cari akar penyebab lalu lanjutkan produksi",
+        "报警触发后停机，上报异常并留存记录 Hentikan peralatan saat alarm aktif, laporkan anomali dan simpan catatan",
+        "报警后呼叫设备人员排查问题 Panggil personel peralatan untuk menyelidiki masalah setelah alarm berbunyi",
+        "发生报警优先核对工艺参数 Periksa parameter proses terlebih dahulu saat alarm muncul"
+      ],
+      "answers": [
+        "报警弹窗弹出，不查找根因直接复位继续生产 Muncul jendela peringatan alarm, langsung reset tanpa cari akar penyebab lalu lanjutkan produksi"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1694,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228538148_3",
+      "type": "true_false",
+      "question": "\" 收率低、单耗高仅仅是成本问题，不会反映现场工艺执行、设备状态、操作质量问题。（） \" Low recovery rate and high unit consumption are merely cost issues and cannot reflect problems of on‑site process execution, equipment status or operation quality. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1695,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228538148_4",
+      "type": "single_choice",
+      "question": "磷酸铁锂S18/S20的理论收率是多少 Berapa hasil teoritis litium besi fosfat S18/S20",
+      "options": [
+        "1.048",
+        "1.038",
+        "1.068",
+        "1.058"
+      ],
+      "answers": [
+        "1.058"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1696,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788228538148_5",
+      "type": "single_choice",
+      "question": "查找原因的常用方法有 Metode umum untuk mencari akar penyebab meliputi",
+      "options": [
+        "头脑风暴&鱼骨图分析方法 Kerusakan utama & metode analisis diagram tulang ikan",
+        "机理分析&失效树分析(FTA) Analisis mekanisme, analisis pohon kegagalan FTA",
+        "部件搜索 Pencarian komponen",
+        "5WHY 分析方法 Metode analisis 5‑WHY",
+        "以上都是 Semua di atas"
+      ],
+      "answers": [
+        "以上都是 Semua di atas"
+      ],
+      "answerLetters": [
+        "E"
+      ],
+      "sourceIndex": 1697,
       "source": "italent-review"
     }
   ]
