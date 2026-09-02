@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.01.3",
+  "version": "2026.09.02.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-01T17:40:07+08:00",
+  "updatedAt": "2026-09-02T14:58:27+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1699,
+  "questionCount": 1705,
   "typeCounts": {
-    "single_choice": 964,
-    "multiple_choice": 273,
-    "true_false": 354,
+    "single_choice": 967,
+    "multiple_choice": 275,
+    "true_false": 355,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -31574,6 +31574,131 @@
         "D"
       ],
       "sourceIndex": 1699,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788332282560_1",
+      "type": "true_false",
+      "question": "\"根据 IATF16949 工装设备管理要求，辊压、分切切刀等关键工装，必须按点检表周期点检，切刀磨损未到更换周期，即使出现毛刺不良也可继续生产。（） \" Per IATF16949 tooling‑equipment management requirements, key tooling such as rolling press and slitting knives must be inspected periodically per check‑list. If slitting‑knife wear has not reached replacement cycle, production may continue even with burr defects. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1700,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788332282560_2",
+      "type": "single_choice",
+      "question": "喷雾干燥（喷雾塔）前，空气通常需要经过几次过滤？ Sebelum masuk ke menara spray dryer, udara umumnya melewati berapa tahap filtrasi? ( )",
+      "options": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "answers": [
+        "3"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1701,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788332282560_3",
+      "type": "multiple_choice",
+      "question": "制程异常处理的基本原则有（）？ Apa prinsip dasar penanganan anomali proses ()?",
+      "options": [
+        "先停产/隔离，再分析 Hentikan produksi / lakukan isolasi terlebih dahulu, baru kemudian lakukan analisis",
+        "调查需追到根本原因（5Why、鱼骨图等） Investigasi perlu menelusuri akar penyebab (5Why, diagram tulang ikan, dll.)",
+        "异常品标识清楚、专区存放 Produk abnormal diidentifikasi dengan jelas dan disimpan di area khusus",
+        "纠正措施需验证有效后才能关闭 Tindakan koreksi hanya dapat ditutup setelah efektivitas diverifikasi",
+        "处理完即可结案，不必留记录 Kasus dapat ditutup setelah diproses, tidak perlu menyimpan catatan"
+      ],
+      "answers": [
+        "先停产/隔离，再分析 Hentikan produksi / lakukan isolasi terlebih dahulu, baru kemudian lakukan analisis",
+        "调查需追到根本原因（5Why、鱼骨图等） Investigasi perlu menelusuri akar penyebab (5Why, diagram tulang ikan, dll.)",
+        "异常品标识清楚、专区存放 Produk abnormal diidentifikasi dengan jelas dan disimpan di area khusus",
+        "纠正措施需验证有效后才能关闭 Tindakan koreksi hanya dapat ditutup setelah efektivitas diverifikasi"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1702,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788332282560_4",
+      "type": "single_choice",
+      "question": "“将活动和相关资源作为过程进行管理，可以更高效地得到期望的结果”，这反映了质量管理原则中的（） “Mengelola aktivitas dan sumber daya terkait sebagai suatu proses dapat menghasilkan hasil yang diharapkan dengan lebih efektif dan efisien.” Pernyataan ini mencerminkan prinsip manajemen mutu ( ).",
+      "options": [
+        "过程方法 Pendekatan Proses Pendekatan proses",
+        "领导作用 Kepemimpinan Simpan catatan peristiwa anomali",
+        "领导作用 Kepemimpinan Simpan catatan peristiwa anomali",
+        "资源管理 Manajemen Sumber Daya"
+      ],
+      "answers": [
+        "过程方法 Pendekatan Proses Pendekatan proses"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1703,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788332282561_5",
+      "type": "multiple_choice",
+      "question": "龙蟠科技的战略锚点包括 Pusat strategis Teknologi Longpan meliputi",
+      "options": [
+        "产品为根 Produk sebagai fondasi",
+        "三强为王 Tiga kekuatan menjadikan raja",
+        "用户为本 Berorientasi pada pengguna",
+        "数据制胜 Kemenangan berbasis data"
+      ],
+      "answers": [
+        "产品为根 Produk sebagai fondasi",
+        "三强为王 Tiga kekuatan menjadikan raja",
+        "用户为本 Berorientasi pada pengguna",
+        "数据制胜 Kemenangan berbasis data"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1704,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788332282561_6",
+      "type": "single_choice",
+      "question": "搅拌投料过程，发现内包装袋塑料碎屑掉入浆料罐，按照异物管控要求，正确处置是（） Selama proses pemberian bahan pencampuran, serpihan plastik kantong kemasan dalam jatuh ke tangki slurry. Berdasarkan persyaratan pengendalian benda asing, penanganan yang benar adalah ()",
+      "options": [
+        "立即停止作业，该批次物料隔离挂牌，通知品质、工艺共同评审处置 Hentikan operasi segera, isolasi dan pasang label pada batch ini, beri tahu QA dan proses untuk penilaian bersama",
+        "少量碎屑人工挑出后继续生产投料 Pilih serpihan kecil secara manual lalu lanjutkan pengisian bahan produksi",
+        "当班内部处理，不做 MES 异常记录 Tangani di dalam shift yang sama, tidak buat catatan anomali MES",
+        "直接搅拌混合流入下工序，靠后工序过滤去除 Langsung diaduk dan dialirkan ke proses selanjutnya, disaring pada proses hilir"
+      ],
+      "answers": [
+        "立即停止作业，该批次物料隔离挂牌，通知品质、工艺共同评审处置 Hentikan operasi segera, isolasi dan pasang label pada batch ini, beri tahu QA dan proses untuk penilaian bersama"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1705,
       "source": "italent-review"
     }
   ]
