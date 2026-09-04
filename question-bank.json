@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.04.1",
+  "version": "2026.09.04.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-04T10:35:18+08:00",
+  "updatedAt": "2026-09-04T14:03:27+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1708,
+  "questionCount": 1712,
   "typeCounts": {
-    "single_choice": 968,
-    "multiple_choice": 276,
-    "true_false": 356,
+    "single_choice": 970,
+    "multiple_choice": 277,
+    "true_false": 357,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -31760,6 +31760,84 @@
         "B"
       ],
       "sourceIndex": 1708,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788501801923_2",
+      "type": "single_choice",
+      "question": "关于统计过程控制 SPC，基地使用 SPC 监控辊压厚度，下列说法正确的是（） Tentang Pengendalian Proses Statistik (SPC), pabrik menggunakan SPC untuk memantau ketebalan penggulungan. Pernyataan mana di bawah ini yang benar ()",
+      "options": [
+        "SPC 出现判异信号，要开展现场排查，识别过程是否发生异常，及时干预 Ketika muncul sinyal penyimpangan SPC, lakukan pemeriksaan lapangan, identifikasi apakah proses abnormal, lakukan intervensi tepat waktu",
+        "出现单点超出控制限，直接删除该组数据，继续绘图 Satu titik melebihi batas kendali: hapus dataset ini langsung dan lanjutkan pembuatan grafik",
+        "只要产品检验合格，SPC 控制图是否异常不用关注 Abaikan anomali grafik kendali SPC selama inspeksi produk jadi lulus",
+        "SPC 控制图只是用来应付外审，出现异常不需要现场处置 Bagan kendali SPC hanya untuk audit eksternal, tidak perlu tindakan lapangan jika terjadi ketidakteraturan"
+      ],
+      "answers": [
+        "SPC 出现判异信号，要开展现场排查，识别过程是否发生异常，及时干预 Ketika muncul sinyal penyimpangan SPC, lakukan pemeriksaan lapangan, identifikasi apakah proses abnormal, lakukan intervensi tepat waktu"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1709,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788501801923_3",
+      "type": "single_choice",
+      "question": "卷绕工序产生大量边角料、不良电芯，按照制程物料管理要求，做法正确的是（） Proses penggulungan menghasilkan banyak sisa bahan dan sel cacat. Berdasarkan persyaratan manajemen bahan proses, praktik yang benar adalah ()",
+      "options": [
+        "不良品、边角料分区隔离标识，按流程处置，严禁私自回掺、混入正常物料 Barang cacat dan sisa material harus diisolasi, diberi tanda dan ditangani sesuai prosedur; dilarang keras mencampur kembali ke material normal secara sembarangan",
+        "边角料、不良电芯随意堆放，后续统一回掺正常物料 Bahan sisa & produk tidak sesuai ditumpuk sembarangan, kemudian dicampur kembali ke bahan normal",
+        "当班不良不做记录，下一班再处理 Cacat shift saat ini tidak dicatat, akan ditangani oleh shift berikutnya",
+        "为减少报废数量，把轻微不良当作合格品往下流转 Memperlakukan produk cacat ringan sebagai produk baik untuk mengurangi jumlah limbah"
+      ],
+      "answers": [
+        "不良品、边角料分区隔离标识，按流程处置，严禁私自回掺、混入正常物料 Barang cacat dan sisa material harus diisolasi, diberi tanda dan ditangani sesuai prosedur; dilarang keras mencampur kembali ke material normal secara sembarangan"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1710,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788501801924_5",
+      "type": "true_false",
+      "question": "疑似不良物料没有经过品质判定，只要外观看不出明显缺陷，就可以流转到下工序。（） Suspected defective materials without quality judgment can flow to subsequent process as long as no obvious defect can be seen from appearance. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1711,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788501801924_6",
+      "type": "multiple_choice",
+      "question": "哪些是属于磁性异物（ ） Manakah yang termasuk benda asing magnetik ()",
+      "options": [
+        "铁(Fe) Besi (Fe)",
+        "镍（Ni） Nikel (Ni)",
+        "铬(Cr) Kromium (Cr)",
+        "铜（Cu） Tembaga (Cu)"
+      ],
+      "answers": [
+        "铁(Fe) Besi (Fe)",
+        "镍（Ni） Nikel (Ni)",
+        "铬(Cr) Kromium (Cr)"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1712,
       "source": "italent-review"
     }
   ]
