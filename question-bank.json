@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.02.1",
+  "version": "2026.09.04.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-02T14:58:27+08:00",
+  "updatedAt": "2026-09-04T10:35:18+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1705,
+  "questionCount": 1708,
   "typeCounts": {
-    "single_choice": 967,
-    "multiple_choice": 275,
-    "true_false": 355,
+    "single_choice": 968,
+    "multiple_choice": 276,
+    "true_false": 356,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -31699,6 +31699,67 @@
         "A"
       ],
       "sourceIndex": 1705,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788489313991_1",
+      "type": "multiple_choice",
+      "question": "龙蟠科技的核心文化包括 Budaya inti Teknologi Longpan meliputi",
+      "options": [
+        "核心目标：锚定汽车产业的核心价值链条 Tujuan Inti: Menjaga rantai nilai inti industri otomotif",
+        "核心客户：以深度绑定实现价值共生 Pelanggan Inti: Mencapai simbiosis nilai melalui ikatan mendalam",
+        "核心技术：一研发投入构筑技术护城河 Teknologi Inti: Investasi R&D untuk membangun benteng teknologi",
+        "核心竞争力：在产业生态中构建护城河 Daya Saing Inti: Membangun benteng dalam ekosistem industri"
+      ],
+      "answers": [
+        "核心目标：锚定汽车产业的核心价值链条 Tujuan Inti: Menjaga rantai nilai inti industri otomotif",
+        "核心客户：以深度绑定实现价值共生 Pelanggan Inti: Mencapai simbiosis nilai melalui ikatan mendalam",
+        "核心技术：一研发投入构筑技术护城河 Teknologi Inti: Investasi R&D untuk membangun benteng teknologi",
+        "核心竞争力：在产业生态中构建护城河 Daya Saing Inti: Membangun benteng dalam ekosistem industri"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1706,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788489313992_3",
+      "type": "single_choice",
+      "question": "锂电制造中金属异物进入电芯极易引发微短路、自放电甚至热失控，分切工序高频出现金属屑异物，以下不属于金属异物风险源的是（） Dalam pembuatan baterai litium, benda asing logam yang masuk ke sel mudah menyebabkan korsleting mikro, pengosongan sendiri bahkan pelarian termal. Benda asing serpihan logam sering terjadi di proses pemotongan. Manakah di bawah ini yang BUKAN sumber risiko benda asing logam ()",
+      "options": [
+        "镊子、工装夹具破损掉屑 Pinset dan perlengkapan penjepit rusak menghasilkan serpihan",
+        "切刀磨损崩齿、设备紧固螺丝松动脱落 Pemakaian gigi pisau potong, baut pengikat peralatan longgar dan lepas",
+        "环境湿度在工艺标准范围内正常波动 Fluktuasi kelembapan lingkungan normal dalam rentang spesifikasi proses",
+        "操作人员破损手套脱落金属丝 Kawat logam lepas dari sarung tangan operator yang rusak"
+      ],
+      "answers": [
+        "环境湿度在工艺标准范围内正常波动 Fluktuasi kelembapan lingkungan normal dalam rentang spesifikasi proses"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1707,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788489313992_5",
+      "type": "true_false",
+      "question": "\"8D 报告中临时遏制措施（D3）核心目的是把已经产生的不良全部返工完毕，不需要做物料追溯、隔离拦截。（） \" The core purpose of temporary containment measure (D3) in 8D report is to finish rework for all generated defects; material traceability, isolation and interception are not required. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1708,
       "source": "italent-review"
     }
   ]
