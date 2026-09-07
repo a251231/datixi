@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.07.1",
+  "version": "2026.09.07.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-07T10:03:00+08:00",
+  "updatedAt": "2026-09-07T15:37:32+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1713,
+  "questionCount": 1718,
   "typeCounts": {
-    "single_choice": 971,
-    "multiple_choice": 277,
-    "true_false": 357,
+    "single_choice": 974,
+    "multiple_choice": 278,
+    "true_false": 358,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -31857,6 +31857,101 @@
         "A"
       ],
       "sourceIndex": 1713,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788766648088_1",
+      "type": "multiple_choice",
+      "question": "对质量管理体系的变更，在()阶段应保持质量管理体系的完整性 Untuk perubahan sistem manajemen kualitas, integritas sistem manajemen kualitas harus dijaga pada tahap ()",
+      "options": [
+        "变更的策划阶段 Tahap perencanaan perubahan",
+        "变更之后 Setelah perubahan",
+        "变更的实施阶段 Tahap implementasi perubahan",
+        "体系变更试运行三个月后 Tiga bulan setelah operasi uji coba perubahan sistem"
+      ],
+      "answers": [
+        "变更的策划阶段 Tahap perencanaan perubahan",
+        "变更的实施阶段 Tahap implementasi perubahan"
+      ],
+      "answerLetters": [
+        "A",
+        "C"
+      ],
+      "sourceIndex": 1714,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788766648089_2",
+      "type": "single_choice",
+      "question": "质量管理体系文件的数量多少、详略程度、使用什么媒体视具体情况而定，一般不取决于下列哪个因素 Jumlah, tingkat rinci dan media dokumen sistem manajemen kualitas bergantung pada keadaan tertentu, dan umumnya TIDAK bergantung pada faktor mana di bawah ini",
+      "options": [
+        "组织的信誉 Reputasi organisasi",
+        "组织的类型和规模 Jenis dan ukuran organisasi",
+        "适用的法规要求 Persyaratan peraturan yang berlaku",
+        "产品的复杂性 Kompleksitas produk"
+      ],
+      "answers": [
+        "组织的信誉 Reputasi organisasi"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1715,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788766648089_4",
+      "type": "single_choice",
+      "question": "涂布工位巡检发现极片表面存在外来颗粒异物，该批次已经产出半成品，按照现场异物管控要求应执行（） Inspeksi patroli di stasiun kerja pelapisan menemukan partikel benda asing di permukaan lembar elektroda, dan batch ini telah menghasilkan produk setengah jadi. Berdasarkan persyaratan pengendalian benda asing di lokasi, () harus dilaksanakan",
+      "options": [
+        "立即停机，隔离全部可疑半成品，排查异物来源，根源消除后方可复产 Hentikan mesin segera, isolasi semua barang setengah jadi yang mencurigakan, cari sumber benda asing, baru boleh produksi kembali setelah sumber masalah terhapus",
+        "维持生产，依靠 FQC 全检筛选不良品 Pertahankan produksi, andalkan inspeksi penuh FQC untuk menyaring produk tidak sesuai",
+        "只登记异常，物料正常流转 Hanya catat anomali, material dialirkan seperti biasa",
+        "降低机速继续生产，减少产能损失 Kurangi kecepatan mesin dan lanjutkan produksi untuk mengurangi kerugian kapasitas"
+      ],
+      "answers": [
+        "立即停机，隔离全部可疑半成品，排查异物来源，根源消除后方可复产 Hentikan mesin segera, isolasi semua barang setengah jadi yang mencurigakan, cari sumber benda asing, baru boleh produksi kembali setelah sumber masalah terhapus"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1716,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788766648090_5",
+      "type": "single_choice",
+      "question": "针对现场设备质量报警，基地工艺纪律明确要求，下列做法合规的是（） Untuk alarm kualitas peralatan di lapangan, disiplin proses pabrik secara jelas mensyaratkan bahwa praktik mana di bawah ini yang sesuai ()",
+      "options": [
+        "报警弹出后直接复位，不查找原因继续生产 Langsung reset setelah alarm muncul, lanjutkan produksi tanpa cari penyebab",
+        "为保障产出，直接屏蔽报警阈值，维持设备连续运行 Untuk jaminan output, nonaktifkan ambang alarm langsung dan biarkan peralatan beroperasi terus‑menerus",
+        "只要最终检验电芯合格，报警可以不用处理 Alarm dapat diabaikan selama inspeksi akhir dinyatakan lulus",
+        "报警触发第一时间停机，排查异常根源，问题消除后再恢复生产，同步做好异常记录 Hentikan mesin segera saat alarm aktif, cari akar penyebab ketidakteraturan, produksi dilanjutkan setelah masalah teratasi, buat catatan ketidakteraturan"
+      ],
+      "answers": [
+        "报警触发第一时间停机，排查异常根源，问题消除后再恢复生产，同步做好异常记录 Hentikan mesin segera saat alarm aktif, cari akar penyebab ketidakteraturan, produksi dilanjutkan setelah masalah teratasi, buat catatan ketidakteraturan"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1717,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788766648090_6",
+      "type": "true_false",
+      "question": "\"北斗七星质量文化要求零缺陷，不让缺陷流向下工序。交接班发现上一班遗留疑似不良电芯，为完成交付计划，可优先流转交付，后续再安排筛选返工。（） \" Big‑Dipper‑Seven‑Star quality culture requires zero‑defect and prevents defects from flowing to subsequent processes. If suspected defective cells left by previous shift are found during shift‑handover, they can be prioritized for delivery to meet delivery plan, with screening and rework arranged afterwards. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1718,
       "source": "italent-review"
     }
   ]
