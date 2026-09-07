@@ -1,11 +1,11 @@
 {
-  "version": "2026.09.04.2",
+  "version": "2026.09.07.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-04T14:03:27+08:00",
+  "updatedAt": "2026-09-07T10:03:00+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1712,
+  "questionCount": 1713,
   "typeCounts": {
-    "single_choice": 970,
+    "single_choice": 971,
     "multiple_choice": 277,
     "true_false": 357,
     "fill_blank": 57,
@@ -31838,6 +31838,25 @@
         "C"
       ],
       "sourceIndex": 1712,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788746577695_4",
+      "type": "single_choice",
+      "question": "依据 IATF16949 及工艺纪律要求，设备大修、产品换型、工艺参数变更完成后，必须执行首件检验，首件样品确认合格后方可批量生产，首件检验的核心目的是（） Berdasarkan IATF16949 dan persyaratan disiplin proses, setelah overhaul peralatan, pergantian model produk dan perubahan parameter proses selesai, inspeksi barang pertama harus dilakukan, produksi massal hanya dapat dimulai setelah sampel barang pertama dinyatakan memenuhi syarat. Tujuan inti inspeksi barang pertama adalah ()",
+      "options": [
+        "识别人、机、料、法变化带来的质量风险，预防批量不良产生 Kenali risiko kualitas yang timbul dari perubahan manusia‑mesin‑material‑metode, cegah cacat massal",
+        "完成台账填写，应付体系外审 Lengkapi pengisian catatan hanya untuk memenuhi audit eksternal sistem",
+        "只要设备运行正常，可以简化首检流程 Prosedur inspeksi barang pertama dapat disederhanakan selama peralatan beroperasi normal",
+        "仅仅确认产品外观合格即可 Hanya memastikan penampilan produk memenuhi syarat"
+      ],
+      "answers": [
+        "识别人、机、料、法变化带来的质量风险，预防批量不良产生 Kenali risiko kualitas yang timbul dari perubahan manusia‑mesin‑material‑metode, cegah cacat massal"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1713,
       "source": "italent-review"
     }
   ]
