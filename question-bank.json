@@ -1,11 +1,11 @@
 {
-  "version": "2026.09.08.1",
+  "version": "2026.09.08.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-08T11:11:58+08:00",
+  "updatedAt": "2026-09-08T16:49:19+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1722,
+  "questionCount": 1725,
   "typeCounts": {
-    "single_choice": 977,
+    "single_choice": 980,
     "multiple_choice": 278,
     "true_false": 359,
     "fill_blank": 57,
@@ -32025,6 +32025,62 @@
         "A"
       ],
       "sourceIndex": 1722,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788857355823_2",
+      "type": "single_choice",
+      "question": "被誉为异物防控的九字真言是 Mantra sembilan karakter untuk pencegahan dan pengendalian benda asing adalah",
+      "options": [
+        "不制造、不生产、不接收 Kerusakan utama & metode analisis diagram tulang ikan",
+        "不引入、不产生 、不流出 Tidak masuk, tidak dihasilkan, tidak keluar",
+        "不接受、不制造、不流出 Tidak menerima, tidak memproduksi, tidak mengeluarkan"
+      ],
+      "answers": [
+        "不引入、不产生 、不流出 Tidak masuk, tidak dihasilkan, tidak keluar"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1723,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788857355824_4",
+      "type": "single_choice",
+      "question": "实验室MSA（）进行一次 MSA laboratorium dilakukan sekali setiap ()",
+      "options": [
+        "1个季度 Satu kuartal",
+        "1个月 1 bulan",
+        "一年 Satu tahun",
+        "半年 Setengah tahun"
+      ],
+      "answers": [
+        "一年 Satu tahun"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1724,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788857355824_5",
+      "type": "single_choice",
+      "question": "按照 IATF16949 不合格品控制程序，搅拌工序产出疑似异物浆料，正确处置要求是（） Berdasarkan prosedur pengendalian produk tidak sesuai IATF16949, proses pencampuran menghasilkan slurry yang diduga mengandung benda asing. Persyaratan penanganan yang benar adalah ()",
+      "options": [
+        "简单过滤后直接流往下工序 Langsung alir ke proses berikutnya setelah filtrasi sederhana",
+        "隔离标识可疑物料，停止流转，品质参与判定，按评审结果处置 Isolasi dan tandai material curiga, hentikan sirkulasi, tim kualitas ikut penilaian, tangani sesuai hasil tinjauan",
+        "当班内部消化，不在 MES 做任何异常记录 Selesaikan di dalam shift yang sama, tidak membuat catatan anomali apapun di MES",
+        "混入正常料中稀释使用 Campur ke material normal untuk diencerkan dan digunakan"
+      ],
+      "answers": [
+        "隔离标识可疑物料，停止流转，品质参与判定，按评审结果处置 Isolasi dan tandai material curiga, hentikan sirkulasi, tim kualitas ikut penilaian, tangani sesuai hasil tinjauan"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1725,
       "source": "italent-review"
     }
   ]
