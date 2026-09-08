@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.07.2",
+  "version": "2026.09.08.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-07T15:37:32+08:00",
+  "updatedAt": "2026-09-08T11:11:58+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1718,
+  "questionCount": 1722,
   "typeCounts": {
-    "single_choice": 974,
+    "single_choice": 977,
     "multiple_choice": 278,
-    "true_false": 358,
+    "true_false": 359,
     "fill_blank": 57,
     "short_answer": 51
   },
@@ -31952,6 +31952,79 @@
         "B"
       ],
       "sourceIndex": 1718,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788837104429_1",
+      "type": "true_false",
+      "question": "\"只有金属异物才会造成电芯安全风险，胶屑、毛发、纸质碎屑属于非金属异物，不会影响电芯性能，无需重点管控。（） \" Only metallic foreign objects will cause cell safety risks. Glue chips, hair and paper scraps are non‑metallic foreign objects, which will not affect cell performance and do not require key control. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1719,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788837104429_2",
+      "type": "single_choice",
+      "question": "根据湿法研磨作业 SOP 相关要求，以下关于湿法转料操作的描述正确的是 Berdasarkan persyaratan SOP operasi penggilingan basah, deskripsi mana di bawah ini tentang operasi transfer basah yang benar",
+      "options": [
+        "转料完成后中控无需通知现场操作人员确认，可直接启动后续设备 Setelah pemindahan material selesai, kontrol pusat dapat nyalakan peralatan selanjutnya tanpa konfirmasi operator lapangan",
+        "转料前无需确认阀门状态，可直接启动转料流程 Tidak perlu konfirmasi status katup sebelum pemindahan bahan; pindahkan proses langsung",
+        "合批罐内转料后的物料可存储 24 小时后再进行下一道工序 Material yang dipindahkan di tangki pencampuran dapat disimpan selama 24 jam sebelum diproses ke tahap berikutnya"
+      ],
+      "answers": [
+        "合批罐内转料后的物料可存储 24 小时后再进行下一道工序 Material yang dipindahkan di tangki pencampuran dapat disimpan selama 24 jam sebelum diproses ke tahap berikutnya"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1720,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788837104430_4",
+      "type": "single_choice",
+      "question": "GB/T19001-2016标准要求最高管理者应按策划的时间间隔评审质量管理体系，以确保其持续的 Standar GB/T19001-2016 mensyaratkan manajemen puncak meninjau sistem manajemen kualitas pada interval yang direncanakan untuk memastikan kelanjutannya",
+      "options": [
+        "符合性、充分性和有效性 Kesesuaian, kecukupan dan efektivitas",
+        "符合性、实施性和有效性 Kepatuhan, implementasi dan efektivitas",
+        "适宜性、实施性和有效性 Kesesuaian, kelayakan pelaksanaan dan efektivitas",
+        "适宜性、充分性和有效性 Kesesuaian, kecukupan dan efektivitas"
+      ],
+      "answers": [
+        "适宜性、充分性和有效性 Kesesuaian, kecukupan dan efektivitas"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1721,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788837104430_5",
+      "type": "single_choice",
+      "question": "北斗七星质量文化要求我的工位，我的质量责任。FQC 岗位发现前工序流转过来半成品存在极耳虚焊不良，现场产量压力较大，下列符合质量文化的处置是（） Budaya kualitas Bintang Biduk Tujuh mensyaratkan stasiun kerja saya, tanggung jawab kualitas saya. Posisi FQC menemukan bahwa produk setengah jadi dari proses sebelumnya memiliki cacat solder dingin tab, dan tekanan hasil produksi di lokasi tinggi. Penanganan mana di bawah ini yang sesuai dengan budaya kualitas ()",
+      "options": [
+        "隔离标识不良物料，拦截不往下流，同步反馈前工序、班组长、品质推动闭环 Isolasi dan tandai material cacat, cegah aliran ke proses selanjutnya, umpan balik ke proses sebelumnya, ketua tim dan QA dorong penyelesaian masalah",
+        "不是本岗位生产，不予干预 Lanjutkan produksi tanpa menghentikan operasi, tidak ada intervensi",
+        "直接退回上工序，不做任何书面及系统记录 Kembalikan langsung ke proses sebelumnya, tanpa catatan tertulis maupun sistem",
+        "挑出肉眼明显不良，剩余产品直接放行 Pisahkan cacat terlihat mata telanjang, sisa produk langsung dilepaskan"
+      ],
+      "answers": [
+        "隔离标识不良物料，拦截不往下流，同步反馈前工序、班组长、品质推动闭环 Isolasi dan tandai material cacat, cegah aliran ke proses selanjutnya, umpan balik ke proses sebelumnya, ketua tim dan QA dorong penyelesaian masalah"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1722,
       "source": "italent-review"
     }
   ]
