@@ -1,11 +1,11 @@
 {
-  "version": "2026.09.09.1",
+  "version": "2026.09.09.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-09T08:33:26+08:00",
+  "updatedAt": "2026-09-09T09:43:52+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1727,
+  "questionCount": 1729,
   "typeCounts": {
-    "single_choice": 980,
+    "single_choice": 982,
     "multiple_choice": 278,
     "true_false": 359,
     "fill_blank": 59,
@@ -32105,6 +32105,44 @@
       ],
       "answerLetters": [],
       "sourceIndex": 1727,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788918231214_1",
+      "type": "single_choice",
+      "question": "北斗七星质量文化坚持求真求实，记录可追溯。卷绕夜班为应付检查，事后补填、伪造 MES 及纸质巡检记录，该行为带来最主要质量风险是（） Budaya kualitas Bintang Biduk Tujuh menekankan mencari kebenaran dan catatan yang dapat ditelusuri. Shift malam penggulungan mengisi dan memalsukan catatan inspeksi MES dan kertas setelah kejadian untuk menghadapi pemeriksaan. Risiko kualitas paling utama yang ditimbulkan perilaku ini adalah ()",
+      "options": [
+        "出现电芯不良、客户投诉时，无法追溯人、机、料、法、环，难以定位问题根源 Terjadi cacat sel baterai, ada keluhan pelanggan, tidak dapat lacak manusia‑mesin‑material‑metode‑lingkungan, sulit tentukan sumber masalah",
+        "仅台账不好看，无实际产品风险 Hanya pencatatan buruk, tidak ada risiko produk nyata",
+        "便于快速编写 8D 报告 Memudahkan penyusunan laporan 8D dengan cepat",
+        "只涉及纪律考核，不影响产品安全 Hanya terkait penilaian disiplin, tidak mempengaruhi keamanan produk"
+      ],
+      "answers": [
+        "出现电芯不良、客户投诉时，无法追溯人、机、料、法、环，难以定位问题根源 Terjadi cacat sel baterai, ada keluhan pelanggan, tidak dapat lacak manusia‑mesin‑material‑metode‑lingkungan, sulit tentukan sumber masalah"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1728,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788918231215_6",
+      "type": "single_choice",
+      "question": "PQC收到取样信息后（）分钟内携带取样工具到达相应工序位置。 Dalam () menit setelah PQC menerima informasi pengambilan sampel, harus tiba di posisi proses yang sesuai dengan alat pengambilan sampel.",
+      "options": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "answers": [
+        "5"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1729,
       "source": "italent-review"
     }
   ]
