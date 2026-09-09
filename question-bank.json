@@ -1,14 +1,14 @@
 {
-  "version": "2026.09.08.2",
+  "version": "2026.09.09.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-08T16:49:19+08:00",
+  "updatedAt": "2026-09-09T08:33:26+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1725,
+  "questionCount": 1727,
   "typeCounts": {
     "single_choice": 980,
     "multiple_choice": 278,
     "true_false": 359,
-    "fill_blank": 57,
+    "fill_blank": 59,
     "short_answer": 51
   },
   "questions": [
@@ -32081,6 +32081,30 @@
         "B"
       ],
       "sourceIndex": 1725,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788914003038_1",
+      "type": "fill_blank",
+      "question": "五大工具有：产品质量先期策划（ APQP ）、生产件批准程序（ PPAP ）、失效模式和效果分析（ FMEA ）、统计过程控制（ ）、测量系统分析（ MSA ）",
+      "options": [],
+      "answers": [
+        "SPC"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1726,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1788914003038_3",
+      "type": "fill_blank",
+      "question": "特殊特性符号说明：“●”与（ ）有关的特殊特性。“▲”与（ 安全 ）有关的特殊特性。",
+      "options": [],
+      "answers": [
+        "性能"
+      ],
+      "answerLetters": [],
+      "sourceIndex": 1727,
       "source": "italent-review"
     }
   ]
