@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.10.1",
+  "version": "2026.09.10.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-10T15:15:53+08:00",
+  "updatedAt": "2026-09-10T15:32:47+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1732,
+  "questionCount": 1735,
   "typeCounts": {
-    "single_choice": 983,
+    "single_choice": 985,
     "multiple_choice": 279,
-    "true_false": 360,
+    "true_false": 361,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32205,6 +32205,61 @@
         "E"
       ],
       "sourceIndex": 1732,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789025537579_1",
+      "type": "true_false",
+      "question": "\"5Why 分析，只要找到操作人员失误就可以停止分析，不需要再往设备、制度、流程层面深挖。（） \" For 5‑Why analysis, analysis can be stopped once operator error is found; no further in‑depth analysis on equipment, system or process level is required. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1733,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789025537579_4",
+      "type": "single_choice",
+      "question": "车间直接和物料接触部件，如搅拌桨、阀门、混批机搅拌、星型阀、螺旋输送机、振动筛、真空上料管道、缓存仓，包装系统内部与物料接触件，铜锌管控要求（ ）。 Untuk bagian di bengkel yang bersentuhan langsung dengan bahan, seperti pengaduk, katup, pengaduk mesin pencampur, katup bintang, konveyor sekrup, saringan getar, pipa pemberian vakum, silo penyangga, dan bagian dalam sistem pengemasan yang bersentuhan dengan bahan, persyaratan pengendalian tembaga dan seng adalah ( ).",
+      "options": [
+        "≤2%",
+        "≤2.5%",
+        "0",
+        "≤1.5%"
+      ],
+      "answers": [
+        "0"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1734,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789025537579_6",
+      "type": "single_choice",
+      "question": "组织建立、实施和改进质量管理体系的目的是 Tujuan organisasi menetapkan, menerapkan dan memperbaiki sistem manajemen kualitas adalah",
+      "options": [
+        "强调质量管理的重要性 Menekankan pentingnya manajemen mutu",
+        "提高组织在社会上的声誉 Meningkatkan reputasi sosial organisasi",
+        "管理过程标准化 Standardisasi proses manajemen",
+        "使生产全过程得到有效控制，达到顾客满意 Membuat seluruh proses produksi terkontrol secara efektif guna mencapai kepuasan pelanggan"
+      ],
+      "answers": [
+        "使生产全过程得到有效控制，达到顾客满意 Membuat seluruh proses produksi terkontrol secara efektif guna mencapai kepuasan pelanggan"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1735,
       "source": "italent-review"
     }
   ]
