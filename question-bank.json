@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.09.2",
+  "version": "2026.09.10.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-09T09:43:52+08:00",
+  "updatedAt": "2026-09-10T15:15:53+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1729,
+  "questionCount": 1732,
   "typeCounts": {
-    "single_choice": 982,
-    "multiple_choice": 278,
-    "true_false": 359,
+    "single_choice": 983,
+    "multiple_choice": 279,
+    "true_false": 360,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32143,6 +32143,68 @@
         "D"
       ],
       "sourceIndex": 1729,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789024549798_1",
+      "type": "true_false",
+      "question": "\"涂布辊压出现批量掉粉、折极片，及时停机处置，虽然会产生一定报废，但可以避免更大批量报废与质量流出，有利于长期收率管控。（） \" When mass powder‑falling and electrode‑sheet folding occur during coating & rolling, stop machine timely for disposal. Although certain scrap will be generated, larger‑batch scrap and quality escape can be avoided, beneficial for long‑term yield control. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1730,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789024549798_2",
+      "type": "single_choice",
+      "question": "针对涂布面密度超差批量异常，启动 8D 报告，下面关于 8D 问题解决流程描述正确的是（） Untuk anomali massal penyimpangan kepadatan permukaan pelapisan, laporan 8D dimulai. Deskripsi mana di bawah ini tentang proses penyelesaian masalah 8D yang benar ()",
+      "options": [
+        "D3 临时遏制措施需要优先落实，做好可疑物料隔离、追溯拦截，防止不良继续流出 Tindakan penahanan sementara D3 harus dilaksanakan lebih dulu; isolasi dan blokir pelacakan material mencurigakan untuk cegah kebocoran cacat selanjutnya",
+        "8D 可以跳过 D2 问题描述，直接制定永久改善对策 8D dapat melewati D2 deskripsi masalah dan langsung tetapkan tindakan perbaikan permanen",
+        "对策写完成报告闭环，不需要验证对策实施有效性 Tutup laporan setelah countermeasure selesai ditulis, tidak perlu validasi efektivitas countermeasure",
+        "8D 报告只由品质部门单独编写，生产、设备、工艺不需要参与 Laporan 8D hanya disusun departemen kualitas saja, departemen produksi, peralatan dan proses tidak perlu ikut serta"
+      ],
+      "answers": [
+        "D3 临时遏制措施需要优先落实，做好可疑物料隔离、追溯拦截，防止不良继续流出 Tindakan penahanan sementara D3 harus dilaksanakan lebih dulu; isolasi dan blokir pelacakan material mencurigakan untuk cegah kebocoran cacat selanjutnya"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1731,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789024549798_3",
+      "type": "multiple_choice",
+      "question": "关于留样管理，正确的做法包括？() Praktik apa yang benar terkait manajemen sampel simpanan? ()",
+      "options": [
+        "\"按批次留样，留样量满足至少 2 次全检复测 \"Simpan sampel berdasarkan batch, jumlah sampel cukup untuk minimal dua kali pengujian ulang penuh",
+        "\"留样保存时间满足客户/法规要求 \"Waktu penyimpanan sampel simpanan memenuhi persyaratan pelanggan/peraturan",
+        "留样可与正常品混放以节省空间 Sampel simpanan dapat dicampur dengan produk normal untuk menghemat ruang",
+        "留样瓶标识清晰（批号/日期/取样人） Label botol sampel simpanan (nomor batch/tanggal/ pengambil sampel)",
+        "留样环境温湿度受控 Suhu dan kelembapan lingkungan penyimpanan sampel dikendalikan"
+      ],
+      "answers": [
+        "\"按批次留样，留样量满足至少 2 次全检复测 \"Simpan sampel berdasarkan batch, jumlah sampel cukup untuk minimal dua kali pengujian ulang penuh",
+        "\"留样保存时间满足客户/法规要求 \"Waktu penyimpanan sampel simpanan memenuhi persyaratan pelanggan/peraturan",
+        "留样瓶标识清晰（批号/日期/取样人） Label botol sampel simpanan (nomor batch/tanggal/ pengambil sampel)",
+        "留样环境温湿度受控 Suhu dan kelembapan lingkungan penyimpanan sampel dikendalikan"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "sourceIndex": 1732,
       "source": "italent-review"
     }
   ]
