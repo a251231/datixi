@@ -1,11 +1,11 @@
 {
-  "version": "2026.09.10.2",
+  "version": "2026.09.11.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-10T15:32:47+08:00",
+  "updatedAt": "2026-09-11T16:10:09+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1735,
+  "questionCount": 1736,
   "typeCounts": {
-    "single_choice": 985,
+    "single_choice": 986,
     "multiple_choice": 279,
     "true_false": 361,
     "fill_blank": 59,
@@ -32260,6 +32260,25 @@
         "D"
       ],
       "sourceIndex": 1735,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789114206168_3",
+      "type": "single_choice",
+      "question": "下面哪一种现场操作，会直接带来混料、错批次重大质量风险（） Operasi lapangan mana di bawah ini yang secara langsung membawa risiko kualitas besar berupa pencampuran bahan dan batch salah ()",
+      "options": [
+        "不同批次半成品料盘混放，料盘标识脱落未及时补打 Piring barang setengah jadi batch berbeda tercampur; label piring lepas dan tidak segera dicetak ulang",
+        "不合格物料单独区域存放，张贴红色不合格标识 Material tidak sesuai disimpan di kotak merah terpisah, tempel label merah ketidaksesuaian",
+        "换型结束清理工位上工序遗留物料 Bersihkan material setelah batch selesai",
+        "交接班核对在制品批次、异常物料并填写交接记录 Periksa material dalam proses saat serah terima shift dan isi catatan serah terima"
+      ],
+      "answers": [
+        "不同批次半成品料盘混放，料盘标识脱落未及时补打 Piring barang setengah jadi batch berbeda tercampur; label piring lepas dan tidak segera dicetak ulang"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1736,
       "source": "italent-review"
     }
   ]
