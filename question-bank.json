@@ -1,11 +1,11 @@
 {
-  "version": "2026.09.11.1",
+  "version": "2026.09.13.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-11T16:10:09+08:00",
+  "updatedAt": "2026-09-13T16:12:12+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1736,
+  "questionCount": 1742,
   "typeCounts": {
-    "single_choice": 986,
+    "single_choice": 992,
     "multiple_choice": 279,
     "true_false": 361,
     "fill_blank": 59,
@@ -32279,6 +32279,120 @@
         "A"
       ],
       "sourceIndex": 1736,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789287106464_5",
+      "type": "single_choice",
+      "question": "关于卡诺Kano质量模型描述不当的是哪一项？（）",
+      "options": [
+        "卡诺模型是依照顾客的感受及满足顾客要求的程度来建立的",
+        "卡诺模型中将质量分为:基本质量、一元质量、魅力质量",
+        "一元质量特性为:当其特性不充足时，顾客不满意；充足时，顾客就满意。充足程度与满意程度呈线性关系",
+        "卡诺模型中基本质量、一元质量、魅力质量会相互转化。即基本质量特性可以转化成一元质量特性，一元质量特性可以转化为魅力质量特性"
+      ],
+      "answers": [
+        "卡诺模型中基本质量、一元质量、魅力质量会相互转化。即基本质量特性可以转化成一元质量特性，一元质量特性可以转化为魅力质量特性"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1737,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789287106465_12",
+      "type": "single_choice",
+      "question": "收集了500 个关于比萨饼配送的数据，发现有25个迟到，10个太冷，7个损失，8个有错误的成分，请计算DPMO 值（）",
+      "options": [
+        "5%",
+        "0.1",
+        "100000",
+        "25000"
+      ],
+      "answers": [
+        "25000"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1738,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789287106465_14",
+      "type": "single_choice",
+      "question": "某六西格玛团队界定某项目过程的输出时，明确某产品可能出现的缺陷有甲、乙、丙三种。经过调查统计2个月的数据结果是在抽样的200个产品中，发现甲种的缺陷个数为2个，乙种的缺陷个数为3、丙种的缺陷个数为1，则DPMO为_______。（）",
+      "options": [
+        "600",
+        "10000",
+        "30000",
+        "60000"
+      ],
+      "answers": [
+        "10000"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1739,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789287106465_15",
+      "type": "single_choice",
+      "question": "为了充分考虑过程中子过程的存在，找出隐蔽工厂的度量方法被称为________。（）",
+      "options": [
+        "合格率",
+        "流通合格率",
+        "过程最终合格率",
+        "制造能力"
+      ],
+      "answers": [
+        "流通合格率"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1740,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789287106467_34",
+      "type": "single_choice",
+      "question": "以下是某项目的双代号网络图，该项目的关键路径是:（）",
+      "options": [
+        "①→②→④→⑥",
+        "①→②→③→⑤→⑥",
+        "①→②→③→④→⑥",
+        "①-③→⑤→⑥"
+      ],
+      "answers": [
+        "①→②→④→⑥"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1741,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789287106467_35",
+      "type": "single_choice",
+      "question": "下图是某项目计划的双代号网络图，箭线下的数据表示工序所需时间(时间单位:天)，M工序表示节点8-10之间的工序，基于该网络图，M工序的最早可能开始时间是______天后;最晚必须开始时间是______天后。（）",
+      "options": [
+        "14, 16",
+        "4, 6",
+        "14, 17",
+        "10, 14"
+      ],
+      "answers": [
+        "14, 17"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1742,
       "source": "italent-review"
     }
   ]
