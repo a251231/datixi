@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.13.1",
+  "version": "2026.09.14.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-13T16:12:12+08:00",
+  "updatedAt": "2026-09-14T16:47:55+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1742,
+  "questionCount": 1745,
   "typeCounts": {
-    "single_choice": 992,
-    "multiple_choice": 279,
-    "true_false": 361,
+    "single_choice": 993,
+    "multiple_choice": 280,
+    "true_false": 362,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32393,6 +32393,65 @@
         "C"
       ],
       "sourceIndex": 1742,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789375673565_1",
+      "type": "true_false",
+      "question": "SPC上控制限:Mean+3s1gmn下控制限:Mean-3sigma SPC upper control limit: Mean+3sigma; lower control limit: Mean‑3sigma",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1743,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789375673565_3",
+      "type": "multiple_choice",
+      "question": "分层审核过程中一般关注点的问题至少包括以下哪些内容 Dalam proses audit berlapis, isu fokus umum setidaknya mencakup konten mana di bawah ini",
+      "options": [
+        "操作工遵守安全规定和佩戴个人防护装置 Operator wajib mematuhi peraturan keselamatan dan memakai alat pelindung diri",
+        "确保符合物料管理的要求 Memastikan kepatuhan terhadap persyaratan manajemen bahan",
+        "操作工理解和遵守标准化操作和质量标准 Operator memahami dan mematuhi prosedur operasi standar dan standar kualitas",
+        "生产计划 Rencana produksi"
+      ],
+      "answers": [
+        "操作工遵守安全规定和佩戴个人防护装置 Operator wajib mematuhi peraturan keselamatan dan memakai alat pelindung diri",
+        "确保符合物料管理的要求 Memastikan kepatuhan terhadap persyaratan manajemen bahan",
+        "操作工理解和遵守标准化操作和质量标准 Operator memahami dan mematuhi prosedur operasi standar dan standar kualitas"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sourceIndex": 1744,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789375673565_4",
+      "type": "single_choice",
+      "question": "对纠正措施的正确理解应是 Pemahaman yang benar tentang tindakan koreksi adalah",
+      "options": [
+        "把不合格品降级使用而采取的措施 Tindakan yang diambil untuk menurunkan kelas dan menggunakan produk tidak sesuai",
+        "把不合格品返工后成为合格品采取的措施 Tindakan untuk mengubah produk tidak sesuai menjadi produk sesuai",
+        "为消除已发现的不合格品而采取的措施 Tindakan yang diambil untuk menghilangkan produk tidak sesuai yang teridentifikasi",
+        "为消除已发现的不合格原因而采取的措施 Tindakan yang diambil untuk menghilangkan penyebab ketidaksesuaian yang teridentifikasi"
+      ],
+      "answers": [
+        "为消除已发现的不合格原因而采取的措施 Tindakan yang diambil untuk menghilangkan penyebab ketidaksesuaian yang teridentifikasi"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1745,
       "source": "italent-review"
     }
   ]
