@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.14.1",
+  "version": "2026.09.14.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-14T16:47:55+08:00",
+  "updatedAt": "2026-09-14T19:51:43+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1745,
+  "questionCount": 1748,
   "typeCounts": {
-    "single_choice": 993,
-    "multiple_choice": 280,
-    "true_false": 362,
+    "single_choice": 994,
+    "multiple_choice": 281,
+    "true_false": 363,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32452,6 +32452,63 @@
         "D"
       ],
       "sourceIndex": 1745,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789386697838_1",
+      "type": "true_false",
+      "question": "设备到达定期维保周期，因维保检查影响产能，故推迟或不维保 When equipment reaches periodic maintenance cycle, maintenance shall be postponed or skipped because maintenance inspection will affect production capacity.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1746,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789386697839_3",
+      "type": "multiple_choice",
+      "question": "8D 中 D3 临时遏制措施需满足的要求有 Persyaratan yang harus dipenuhi untuk tindakan penahanan sementara D3 dalam 8D",
+      "options": [
+        "可作为长期永久对策使用 Dapat digunakan sebagai tindakan perbaikan permanen jangka panjang",
+        "措施有效性需要验证 Efektivitas tindakan perlu diverifikasi",
+        "隔离不良，防止继续流出 Mengisolasi cacat untuk mencegah aliran keluar berkelanjutan",
+        "明确实施范围、起止时间 Memperjelas ruang lingkup implementasi dan waktu mulai/berakhir"
+      ],
+      "answers": [
+        "措施有效性需要验证 Efektivitas tindakan perlu diverifikasi",
+        "隔离不良，防止继续流出 Mengisolasi cacat untuk mencegah aliran keluar berkelanjutan",
+        "明确实施范围、起止时间 Memperjelas ruang lingkup implementasi dan waktu mulai/berakhir"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1747,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789386697839_4",
+      "type": "single_choice",
+      "question": "锂源特殊特性符号说明: “●” 与（）的特殊特性。“▲” 与（）特殊特性。（） 1. Penjelasan simbol karakteristik khusus sumber litium: \"●\" adalah karakteristik khusus ( ), \"▲\" adalah karakteristik khusus ( ).",
+      "options": [
+        "性能有关，安全有关 Berkaitan dengan performa, berkaitan dengan keamanan",
+        "安全有关，性能有关 Terkait keselamatan, terkait performa"
+      ],
+      "answers": [
+        "性能有关，安全有关 Berkaitan dengan performa, berkaitan dengan keamanan"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1748,
       "source": "italent-review"
     }
   ]
