@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.14.2",
+  "version": "2026.09.15.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-14T19:51:43+08:00",
+  "updatedAt": "2026-09-15T12:47:51+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1748,
+  "questionCount": 1750,
   "typeCounts": {
     "single_choice": 994,
-    "multiple_choice": 281,
-    "true_false": 363,
+    "multiple_choice": 282,
+    "true_false": 364,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32509,6 +32509,44 @@
         "A"
       ],
       "sourceIndex": 1748,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789447670154_2",
+      "type": "true_false",
+      "question": "取完样关闭取样口，拧紧锁扣，并清理现场5S。 Close sampling port after sampling, fasten lock buckle and conduct on‑site 5S cleaning.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1749,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789447670155_6",
+      "type": "multiple_choice",
+      "question": "员工在车间工作时，以下哪种方式会产生异物？ Praktik mana di bawah ini yang akan menghasilkan benda asing ketika karyawan bekerja di bengkel",
+      "options": [
+        "用扳手敲击金属设备 Memukul peralatan logam dengan kunci pas",
+        "携带零食进入车间并随意扔在地上 Membawa camilan ke bengkel dan membuangnya di lantai sembarangan",
+        "用除磁小车进行地面清磁 Menggunakan gerai demagnetisasi untuk demagnetisasi lantai",
+        "每日清扫清洁地面 Sapu dan bersihkan lantai setiap hari"
+      ],
+      "answers": [
+        "用扳手敲击金属设备 Memukul peralatan logam dengan kunci pas",
+        "携带零食进入车间并随意扔在地上 Membawa camilan ke bengkel dan membuangnya di lantai sembarangan"
+      ],
+      "answerLetters": [
+        "A",
+        "B"
+      ],
+      "sourceIndex": 1750,
       "source": "italent-review"
     }
   ]
