@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.15.1",
+  "version": "2026.09.16.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-15T12:47:51+08:00",
+  "updatedAt": "2026-09-16T16:59:10+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1750,
+  "questionCount": 1754,
   "typeCounts": {
     "single_choice": 994,
-    "multiple_choice": 282,
-    "true_false": 364,
+    "multiple_choice": 284,
+    "true_false": 366,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32547,6 +32547,91 @@
         "B"
       ],
       "sourceIndex": 1750,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789549128921_2",
+      "type": "multiple_choice",
+      "question": "关于审核的说法，正确的有 Pernyataan mana mengenai audit yang benar",
+      "options": [
+        "质量管理体系与环境管理体系或其他管理体系一起接受审核称为“联合审核” Audit yang dilaksanakan untuk sistem manajemen kualitas bersamaan dengan sistem manajemen lingkungan atau sistem manajemen lainnya disebut \"audit gabungan\"",
+        "按审核对象不同可将审核划分为体系审核、过程审核和产品审核 Berdasarkan objek audit yang berbeda, audit dapat diklasifikasikan menjadi audit sistem, audit proses dan audit produk",
+        "按审核委托方不同可将审核划分为第一方审核、第二方审核和第三方审核 Berdasarkan klien audit yang berbeda, audit dapat diklasifikasikan menjadi audit pihak pertama, audit pihak kedua dan audit pihak ketiga",
+        "第一方审核亦称内部审核 Audit pihak pertama juga disebut audit internal",
+        "第二方审核是外部审核 Audit pihak kedua adalah audit eksternal"
+      ],
+      "answers": [
+        "按审核对象不同可将审核划分为体系审核、过程审核和产品审核 Berdasarkan objek audit yang berbeda, audit dapat diklasifikasikan menjadi audit sistem, audit proses dan audit produk",
+        "按审核委托方不同可将审核划分为第一方审核、第二方审核和第三方审核 Berdasarkan klien audit yang berbeda, audit dapat diklasifikasikan menjadi audit pihak pertama, audit pihak kedua dan audit pihak ketiga",
+        "第一方审核亦称内部审核 Audit pihak pertama juga disebut audit internal",
+        "第二方审核是外部审核 Audit pihak kedua adalah audit eksternal"
+      ],
+      "answerLetters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "sourceIndex": 1751,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789549128921_3",
+      "type": "multiple_choice",
+      "question": "提升收率、降低单耗的措施有（） Langkah‑langkah untuk meningkatkan hasil produksi dan menurunkan konsumsi satuan meliputi ()",
+      "options": [
+        "稳定砂磨冷却参数 Menstabilkan parameter pendinginan penggilingan pasir",
+        "优化过滤工艺 Mengoptimalkan proses filtrasi",
+        "减少浆料结块 Mengurangi penggumpalan slurry",
+        "严控投料配比 Mengontrol rasio pemberian bahan secara ketat"
+      ],
+      "answers": [
+        "稳定砂磨冷却参数 Menstabilkan parameter pendinginan penggilingan pasir",
+        "优化过滤工艺 Mengoptimalkan proses filtrasi",
+        "减少浆料结块 Mengurangi penggumpalan slurry",
+        "严控投料配比 Mengontrol rasio pemberian bahan secara ketat"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1752,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789549128921_5",
+      "type": "true_false",
+      "question": "基于风险的思维使组织能够确定可能导致其过程和质量管理体系偏离策划结果的各种因素，采取预防控制，最大限度地降低不利影响，并最大限度地利用出现的机遇。 Risk‑based thinking enables organization to identify various factors that may cause deviation of its processes and quality‑management system from planned results, adopt preventive control, minimize adverse impacts and maximize utilization of emerging opportunities.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1753,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789549128921_6",
+      "type": "true_false",
+      "question": "\"依据北斗七星质量文化 “标准不可逾越”，设备维修、产品换型完成后，生产任务紧可以跳过首件检验，依靠过程巡检把控产品质量。（） \" According to the Big‑Dipper‑Seven‑Star quality culture \"Standards shall not be crossed\". After equipment maintenance and product model change, first‑article inspection can be skipped for tight production tasks, and product quality is controlled by in‑process patrol inspection. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1754,
       "source": "italent-review"
     }
   ]
