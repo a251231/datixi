@@ -1,11 +1,11 @@
 {
-  "version": "2026.09.16.1",
+  "version": "2026.09.17.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-16T16:59:10+08:00",
+  "updatedAt": "2026-09-17T21:54:11+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1754,
+  "questionCount": 1763,
   "typeCounts": {
-    "single_choice": 994,
+    "single_choice": 1003,
     "multiple_choice": 284,
     "true_false": 366,
     "fill_blank": 59,
@@ -32632,6 +32632,177 @@
         "B"
       ],
       "sourceIndex": 1754,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245655_1",
+      "type": "single_choice",
+      "question": "特级动火作业的现场监护要求是，作业过程中（）",
+      "options": [
+        "可1名监护人在岗，短时离岗无需报备",
+        "必须2名及以上专职监护人全程在岗",
+        "监护人可兼顾其他轻微作业",
+        "现场无人作业时监护人可离岗休息"
+      ],
+      "answers": [
+        "必须2名及以上专职监护人全程在岗"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1755,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_2",
+      "type": "single_choice",
+      "question": "高处作业使用的安全带，正确的悬挂原则是（）",
+      "options": [
+        "低挂高用",
+        "高挂低用",
+        "就近悬挂，无高低要求",
+        "水平悬挂即可"
+      ],
+      "answers": [
+        "高挂低用"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1756,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_3",
+      "type": "single_choice",
+      "question": "高处作业分级中，Ⅱ级高处作业的高度范围是（）",
+      "options": [
+        "2m～5m",
+        "5m～15m",
+        "15m～30m",
+        "30m以上"
+      ],
+      "answers": [
+        "5m～15m"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1757,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_4",
+      "type": "single_choice",
+      "question": "临时用电线路严禁私拉乱接，电缆穿越道路时必须采取的保护措施是（）",
+      "options": [
+        "穿管或加盖防护板",
+        "直接地面铺设",
+        "缠绕绝缘胶带",
+        "垫高悬空即可"
+      ],
+      "answers": [
+        "穿管或加盖防护板"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1758,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_5",
+      "type": "single_choice",
+      "question": "盲板抽堵作业，同一管道上（）同时进行两处及以上盲板抽堵作业",
+      "options": [
+        "可以",
+        "经审批后可以",
+        "严禁",
+        "专人监护下可以"
+      ],
+      "answers": [
+        "严禁"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1759,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_6",
+      "type": "single_choice",
+      "question": "动土作业是指在厂区、装置范围内进行挖土、打桩、钻探、坑探、地锚入土深度在()以上的作业",
+      "options": [
+        "1m",
+        "2m",
+        "2.5m",
+        "0.5m"
+      ],
+      "answers": [
+        "0.5m"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1760,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_7",
+      "type": "single_choice",
+      "question": "断路作业结束后，清理现场、恢复道路通行，需经（）验收确认",
+      "options": [
+        "作业人员",
+        "监护人",
+        "作业审批部门",
+        "现场保安"
+      ],
+      "answers": [
+        "作业审批部门"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1761,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_9",
+      "type": "single_choice",
+      "question": "存在有毒有害介质的受限空间作业，作业人员必须佩戴的防护用品是（）",
+      "options": [
+        "过滤式防毒面具",
+        "正压式空气呼吸器",
+        "防尘口罩",
+        "半面罩防毒面具"
+      ],
+      "answers": [
+        "正压式空气呼吸器"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1762,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789653245656_10",
+      "type": "single_choice",
+      "question": "高处作业雨雪天气作业，作业面结冰、湿滑时，正确做法是（）",
+      "options": [
+        "加快作业进度完成施工",
+        "铺设防滑措施后谨慎作业",
+        "立即停止高处作业",
+        "系好安全带即可继续作业"
+      ],
+      "answers": [
+        "立即停止高处作业"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1763,
       "source": "italent-review"
     }
   ]
