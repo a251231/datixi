@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.17.1",
+  "version": "2026.09.18.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-17T21:54:11+08:00",
+  "updatedAt": "2026-09-18T15:37:43+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1763,
+  "questionCount": 1766,
   "typeCounts": {
-    "single_choice": 1003,
+    "single_choice": 1004,
     "multiple_choice": 284,
-    "true_false": 366,
+    "true_false": 368,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32803,6 +32803,59 @@
         "C"
       ],
       "sourceIndex": 1763,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789717048135_1",
+      "type": "true_false",
+      "question": "\"工位粉尘较多时，可以使用压缩空气直接对着极片、电芯物料方向吹扫，快速清理工位卫生。（） \" When workstation dust is heavy, compressed air can be blown directly toward electrode sheets and cell materials for quick workstation cleaning. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1764,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789717048135_3",
+      "type": "true_false",
+      "question": "进出车间保持自己鞋子干净，可以不更换工鞋或戴鞋套 Keep personal shoes clean when entering/exiting workshop, work‑shoe change or shoe‑cover wearing is not required.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1765,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789717048136_6",
+      "type": "single_choice",
+      "question": "以下哪个不是八项质量管理原则（）。 Berikut ini yang bukan merupakan salah satu dari Delapan Prinsip Manajemen Mutu adalah ( ).",
+      "options": [
+        "与供方互利的关系 Hubungan saling menguntungkan dengan pemasok",
+        "系统论的方法 Pendekatan Teori Sistem Metode sistematis",
+        "过程方法 Pendekatan proses",
+        "全员参与 Keterlibatan seluruh karyawan"
+      ],
+      "answers": [
+        "系统论的方法 Pendekatan Teori Sistem Metode sistematis"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1766,
       "source": "italent-review"
     }
   ]
