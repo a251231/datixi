@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.18.1",
+  "version": "2026.09.20.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-18T15:37:43+08:00",
+  "updatedAt": "2026-09-20T13:08:44+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1766,
+  "questionCount": 1768,
   "typeCounts": {
     "single_choice": 1004,
     "multiple_choice": 284,
-    "true_false": 368,
+    "true_false": 370,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32856,6 +32856,40 @@
         "B"
       ],
       "sourceIndex": 1766,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789880921283_4",
+      "type": "true_false",
+      "question": "\"北斗七星质量文化倡导协同聚力，出现电芯胀气、注液异常问题时，各工序第一时间同步信息，共同复盘、落实改善并跟踪效果，不互相推诿。（） \" Big‑Dipper‑Seven‑Star quality culture advocates collaboration. When cell gas swelling or abnormal electrolyte injection occurs, each process shall synchronize information immediately, jointly review, implement improvement and track effect, without shifting blame to each other. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1767,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789880921283_5",
+      "type": "true_false",
+      "question": "质量检测部QC需每日记录分样、留样室室温湿度记录,每班一次填写《温湿度记录表》,温度控制范围23±3°C,湿度控制范围≤45%。温湿度预警线根据历史温湿度情况确定,每半年评估一次预警线。 QC of Quality‑Inspection Department shall record temperature & humidity of sample‑splitting and sample‑retention room daily, fill in 《Temperature‑Humidity Record Form》 once per shift. Temperature control range:23±3℃, humidity ≤45%. Early‑warning threshold shall be determined based on historical temperature‑humidity data and reviewed every half‑year.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1768,
       "source": "italent-review"
     }
   ]
