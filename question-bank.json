@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.21.1",
+  "version": "2026.09.21.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-21T16:33:28+08:00",
+  "updatedAt": "2026-09-21T17:09:12+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1770,
+  "questionCount": 1771,
   "typeCounts": {
     "single_choice": 1004,
     "multiple_choice": 285,
-    "true_false": 371,
+    "true_false": 372,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32933,6 +32933,23 @@
         "B"
       ],
       "sourceIndex": 1770,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789981724662_4",
+      "type": "true_false",
+      "question": "SPC 控制图中\"连续 7 点同向上升/下降\"应判为异常。（） \"Seven consecutive points rising/falling in same direction\" in SPC control chart shall be judged as abnormality. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1771,
       "source": "italent-review"
     }
   ]
