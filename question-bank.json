@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.20.1",
+  "version": "2026.09.21.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-20T13:08:44+08:00",
+  "updatedAt": "2026-09-21T16:33:28+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1768,
+  "questionCount": 1770,
   "typeCounts": {
     "single_choice": 1004,
-    "multiple_choice": 284,
-    "true_false": 370,
+    "multiple_choice": 285,
+    "true_false": 371,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32890,6 +32890,49 @@
         "A"
       ],
       "sourceIndex": 1768,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789979606710_1",
+      "type": "multiple_choice",
+      "question": "单耗管理的主要作用包括以下哪些？() Apa fungsi utama manajemen konsumsi satuan? ()",
+      "options": [
+        "反映物料利用效率 Mencerminkan efisiensi pemanfaatan bahan",
+        "增加库存 Meningkatkan persediaan",
+        "用于成本核算 Digunakan untuk akuntansi biaya",
+        "评价班组绩效 Mengevaluasi kinerja tim",
+        "识别异常波动 Mengidentifikasi fluktuasi abnormal"
+      ],
+      "answers": [
+        "反映物料利用效率 Mencerminkan efisiensi pemanfaatan bahan",
+        "用于成本核算 Digunakan untuk akuntansi biaya",
+        "评价班组绩效 Mengevaluasi kinerja tim",
+        "识别异常波动 Mengidentifikasi fluktuasi abnormal"
+      ],
+      "answerLetters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "sourceIndex": 1769,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1789979606711_2",
+      "type": "true_false",
+      "question": "\"IATF16949 工艺变更管控要求：现场工艺参数临时调整，操作工可根据生产实际自行修改设备参数，修改完成后再通知工艺工程师即可。（） \" IATF16949 process‑change control requirement: For temporary adjustment of on‑site process parameters, operators may modify equipment parameters by themselves according to actual production, and notify process engineers only after modification completion. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1770,
       "source": "italent-review"
     }
   ]
