@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.21.2",
+  "version": "2026.09.22.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-21T17:09:12+08:00",
+  "updatedAt": "2026-09-22T18:46:45+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1771,
+  "questionCount": 1774,
   "typeCounts": {
-    "single_choice": 1004,
-    "multiple_choice": 285,
-    "true_false": 372,
+    "single_choice": 1005,
+    "multiple_choice": 286,
+    "true_false": 373,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -32950,6 +32950,64 @@
         "A"
       ],
       "sourceIndex": 1771,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790073997361_2",
+      "type": "true_false",
+      "question": "PDCA循环是质量管理体系持续改进的基本方法。（） PDCA cycle is the basic method for continuous improvement of quality‑management system. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1772,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790073997361_3",
+      "type": "multiple_choice",
+      "question": "生产或维修严禁使用什么材质的工器具（） Perkakas bahan apa yang dilarang keras digunakan dalam produksi atau perawatan ()",
+      "options": [
+        "铁 Besi",
+        "塑料 Plastik",
+        "不锈钢 Baja tahan karat",
+        "铜 Tembaga",
+        "锌 seng"
+      ],
+      "answers": [
+        "铜 Tembaga",
+        "锌 seng"
+      ],
+      "answerLetters": [
+        "D",
+        "E"
+      ],
+      "sourceIndex": 1773,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790073997362_5",
+      "type": "single_choice",
+      "question": "下列属于金属异物的是（） Berikut yang termasuk benda asing berupa logam adalah ( ).",
+      "options": [
+        "毛刷绒毛 Brush fiber lint",
+        "保温棉 Kotak isolasi panas",
+        "塑料碎屑 Puing plastik",
+        "铁、铬、镍、铜等 Besi, krom, nikel, tembaga, dll."
+      ],
+      "answers": [
+        "铁、铬、镍、铜等 Besi, krom, nikel, tembaga, dll."
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1774,
       "source": "italent-review"
     }
   ]
