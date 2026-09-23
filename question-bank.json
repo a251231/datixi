@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.22.1",
+  "version": "2026.09.23.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-22T18:46:45+08:00",
+  "updatedAt": "2026-09-23T13:42:05+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1774,
+  "questionCount": 1776,
   "typeCounts": {
-    "single_choice": 1005,
+    "single_choice": 1006,
     "multiple_choice": 286,
-    "true_false": 373,
+    "true_false": 374,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -33008,6 +33008,42 @@
         "D"
       ],
       "sourceIndex": 1774,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790142121560_1",
+      "type": "single_choice",
+      "question": "质量管理体系文件的数量多少、详略程度、使用什么媒体视具体情况而定，一般与哪个因素无关 Jumlah, tingkat rinci dan media dokumen sistem manajemen kualitas bergantung pada keadaan tertentu, dan umumnya tidak berhubungan dengan faktor mana",
+      "options": [
+        "组织的信誉 Reputasi organisasi",
+        "组织的类型和规模 Jenis dan ukuran organisasi",
+        "适用的法规要求 Persyaratan peraturan yang berlaku",
+        "产品的复杂性 Kompleksitas produk"
+      ],
+      "answers": [
+        "组织的信誉 Reputasi organisasi"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1775,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790142121560_2",
+      "type": "true_false",
+      "question": "使用质控样进行测试测试是为了检验测试设备的稳定性 Testing with quality‑control samples aims to verify stability of test equipment.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1776,
       "source": "italent-review"
     }
   ]
