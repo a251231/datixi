@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.24.1",
+  "version": "2026.09.24.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-24T09:42:48+08:00",
+  "updatedAt": "2026-09-24T11:22:04+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1778,
+  "questionCount": 1797,
   "typeCounts": {
-    "single_choice": 1007,
+    "single_choice": 1022,
     "multiple_choice": 286,
-    "true_false": 375,
+    "true_false": 379,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -33080,6 +33080,359 @@
         "B"
       ],
       "sourceIndex": 1778,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_1",
+      "type": "single_choice",
+      "question": "华为的研发投资以什么为导向，并将研发作为一项投资进行谨慎科学的管理？",
+      "options": [
+        "商业成功",
+        "技术领先最快",
+        "项目数量最多",
+        "股东短期分红"
+      ],
+      "answers": [
+        "商业成功"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1779,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_2",
+      "type": "single_choice",
+      "question": "《华为公司基本法》第十一条关于利润的表述是（ ）。",
+      "options": [
+        "设立足够高的、合理的利润率和利润目标，而不单纯追求利润的最大化",
+        "追求利润的绝对最大化",
+        "不计成本追求规模",
+        "只要不亏损即可"
+      ],
+      "answers": [
+        "设立足够高的、合理的利润率和利润目标，而不单纯追求利润的最大化"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1780,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_3",
+      "type": "single_choice",
+      "question": "华为长期坚持将销售收入的（ ）以上投入研发。",
+      "options": [
+        "0.05",
+        "0.1",
+        "0.2",
+        "0.3"
+      ],
+      "answers": [
+        "0.1"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1781,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_4",
+      "type": "single_choice",
+      "question": "华为产品投资的‘压强原则’的核心内涵是（ ）。",
+      "options": [
+        "集中力量在局部形成突破，再持续投入并扩大",
+        "平均分散投资所有方向",
+        "只在低成本项目上投入",
+        "一旦亏损立即全面收缩"
+      ],
+      "answers": [
+        "集中力量在局部形成突破，再持续投入并扩大"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1782,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_5",
+      "type": "single_choice",
+      "question": "关于华为投资主航道的策略，下列正确的是（ ）。",
+      "options": [
+        "战略要聚焦到主航道，不能持续投资的项目坚决不投资，避免分散精力失去战略机遇",
+        "全面多元化投资所有领域",
+        "对非战略性产品也大量投资",
+        "只追求规模扩张"
+      ],
+      "answers": [
+        "战略要聚焦到主航道，不能持续投资的项目坚决不投资，避免分散精力失去战略机遇"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1783,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_6",
+      "type": "single_choice",
+      "question": "华为MM（市场管理）流程主要包含6个步骤，下列不属于这6个步骤的是（ ）。",
+      "options": [
+        "理解市场",
+        "市场细分",
+        "组合分析",
+        "产品开发现场管理"
+      ],
+      "answers": [
+        "产品开发现场管理"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1784,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_7",
+      "type": "single_choice",
+      "question": "‘理解市场’在MM流程中的作用是（ ）。",
+      "options": [
+        "加强对自身所运作的环境及变化的深入了解，为后续分析提供基础数据",
+        "直接决定产品定价",
+        "负责产品生产制造",
+        "只开展营销宣传"
+      ],
+      "answers": [
+        "加强对自身所运作的环境及变化的深入了解，为后续分析提供基础数据"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1785,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_8",
+      "type": "single_choice",
+      "question": "关于华为产品与解决方案的两个驱动力，下列正确的是（ ）。",
+      "options": [
+        "一是客户需求拉动路标，二是技术驱动产业升级，两者相辅相成，客户需求是龙头",
+        "只靠技术驱动，不需要客户需求",
+        "只靠客户需求，不需要技术",
+        "二者相互对立"
+      ],
+      "answers": [
+        "一是客户需求拉动路标，二是技术驱动产业升级，两者相辅相成，客户需求是龙头"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1786,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098444_9",
+      "type": "single_choice",
+      "question": "任正非在2017年指出，产品的竞争力是（ ），公司要注重商业成功。",
+      "options": [
+        "商业竞争力，而不仅仅是技术",
+        "纯技术参数",
+        "单纯的价格优势",
+        "品牌知名度"
+      ],
+      "answers": [
+        "商业竞争力，而不仅仅是技术"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1787,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_10",
+      "type": "single_choice",
+      "question": "马斯洛需求层次理论把人类需求从低到高分为5个层次，下列不符合这5个层次的是（ ）。",
+      "options": [
+        "生理需求",
+        "安全需求",
+        "社交需求",
+        "利润最大化需求"
+      ],
+      "answers": [
+        "利润最大化需求"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1788,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_11",
+      "type": "single_choice",
+      "question": "从华为产品开发视角，客户需求特指对产品哪些方面的客户要求？",
+      "options": [
+        "功能、性能、成本、定价、可服务、可维护、可制造、包装、配件、运营、网络安全、资料等",
+        "仅指产品外形美观",
+        "仅指采购价格最低",
+        "仅指发货速度"
+      ],
+      "answers": [
+        "功能、性能、成本、定价、可服务、可维护、可制造、包装、配件、运营、网络安全、资料等"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1789,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_12",
+      "type": "single_choice",
+      "question": "关于重量级团队，下列描述正确的是（ ）。",
+      "options": [
+        "重量级的关键是团队负责人的权力大于功能部门经理的权力，对组员具有主要考评权力",
+        "团队成员只代表个人不代表本功能部门",
+        "团队负责人权力小于部门经理",
+        "重量级团队不需要对组员考评"
+      ],
+      "answers": [
+        "重量级的关键是团队负责人的权力大于功能部门经理的权力，对组员具有主要考评权力"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1790,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_13",
+      "type": "single_choice",
+      "question": "管理好研发投资，依赖于IPD重量级团队的有效运作，特别是（ ）的有效运作，这是实现从机会投资到商业变现的关键要素。",
+      "options": [
+        "IRB/IPMT",
+        "LMT仅一人",
+        "外部顾问团队",
+        "单一产品经理"
+      ],
+      "answers": [
+        "IRB/IPMT"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1791,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_14",
+      "type": "single_choice",
+      "question": "PDT（产品开发团队）的基本组成，下列不包括在内的是（ ）。",
+      "options": [
+        "来自研发、市场等部门的代表",
+        "需求管理工程师、市场支持工程师",
+        "系统工程师、开发",
+        "外部独立审计师"
+      ],
+      "answers": [
+        "外部独立审计师"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1792,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_15",
+      "type": "single_choice",
+      "question": "PDT对产品开发整个过程负责，其目标是（ ）。",
+      "options": [
+        "完成开发项目任务书要求，确保产品包在财务和市场上取得成功",
+        "仅完成技术开发不考虑市场",
+        "只负责产品测试",
+        "只负责产品发布"
+      ],
+      "answers": [
+        "完成开发项目任务书要求，确保产品包在财务和市场上取得成功"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1793,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_16",
+      "type": "true_false",
+      "question": "华为的产品投资目标是追求股东利益最大化。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1794,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_17",
+      "type": "true_false",
+      "question": "华为主张赚大钱不赚小钱，追求短期内利润最大化。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1795,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_18",
+      "type": "true_false",
+      "question": "华为认为产品竞争力就是单纯的技术竞争力，技术越先进竞争力越强。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1796,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790220098445_20",
+      "type": "true_false",
+      "question": "华为2008年徐直军指出，产品在客户现网的表现及所提供服务和支持的表现，直接决定华为能否真正和客户构筑伙伴关系、提升份额。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1797,
       "source": "italent-review"
     }
   ]
