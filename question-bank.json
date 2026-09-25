@@ -1,12 +1,12 @@
 {
-  "version": "2026.09.25.1",
+  "version": "2026.09.25.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-25T16:23:22+08:00",
+  "updatedAt": "2026-09-25T16:32:03+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1830,
+  "questionCount": 1836,
   "typeCounts": {
-    "single_choice": 1047,
-    "multiple_choice": 294,
+    "single_choice": 1051,
+    "multiple_choice": 296,
     "true_false": 379,
     "fill_blank": 59,
     "short_answer": 51
@@ -34084,6 +34084,133 @@
         "B"
       ],
       "sourceIndex": 1830,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790325101758_3",
+      "type": "multiple_choice",
+      "question": "以下关于六西格玛的阐述，正确的有？（）",
+      "options": [
+        "六西格玛是一个目标",
+        "六西格玛是一套方法",
+        "六西格玛最终目的是改善产品质量",
+        "六西格玛是一种思维模式"
+      ],
+      "answers": [
+        "六西格玛是一个目标",
+        "六西格玛是一套方法",
+        "六西格玛最终目的是改善产品质量",
+        "六西格玛是一种思维模式"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1831,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790325101758_6",
+      "type": "single_choice",
+      "question": "失效模式及后果分析从3方面考察事件的风险程度，以下哪一项不是？（）",
+      "options": [
+        "失效事件后果的严重程度",
+        "引起失效事件的潜在原因的发生频率",
+        "控制失效事件的成本",
+        "失效事件或者潜在原因是否容易被发现"
+      ],
+      "answers": [
+        "控制失效事件的成本"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1832,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790325101758_7",
+      "type": "multiple_choice",
+      "question": "进行FMEA 分析时对于风险度大的故障模式必须（）",
+      "options": [
+        "提供备件以便在出现该故障模式时更换",
+        "规定在出现该故障模式时安排抢修",
+        "采取设计和工艺的改进措施消除该故障模式或降低其风险度",
+        "采取措施降低该故障模式的严重度、发生频率和检测难度"
+      ],
+      "answers": [
+        "提供备件以便在出现该故障模式时更换",
+        "规定在出现该故障模式时安排抢修",
+        "采取设计和工艺的改进措施消除该故障模式或降低其风险度",
+        "采取措施降低该故障模式的严重度、发生频率和检测难度"
+      ],
+      "answerLetters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "sourceIndex": 1833,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790325101759_15",
+      "type": "single_choice",
+      "question": "在钳工车间自动钻空的过程中，取30 个钻空结果分析，其中心位置与规定中心点在水平方向的偏差值的平均值为1 微米，标准差为8 微米。测量系统进行分析后发现重复性标准差为3 微米，再现性标准差为4 微米。从精确度/过程波动的角度来分析，可以得到结论（）",
+      "options": [
+        "本测量系统从精确度/过程波动比(R&R%)来说是完全合格的",
+        "本测量系统从精确度/过程波动比(R&R%)来说是勉强合格的",
+        "本测量系统从精确度/过程波动比(R&R%)来说是不合格的",
+        "上述数据不能得到精确度/过程波动比(R&R%), 从而无法判断"
+      ],
+      "answers": [
+        "本测量系统从精确度/过程波动比(R&R%)来说是不合格的"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1834,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790325101760_25",
+      "type": "single_choice",
+      "question": "下列方差分析结果说明正确的是（）",
+      "options": [
+        "= 0.3406 R-Sq = 68.53% R-Sq(adj) = 66.20%",
+        "班组别强度无差异",
+        "每个班组之间强度都有差异",
+        "至少有一个班组与其他班组之间的强度有差异",
+        "无法判断"
+      ],
+      "answers": [
+        "每个班组之间强度都有差异"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1835,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790325101761_27",
+      "type": "single_choice",
+      "question": "下列关于方差分析的说明中，错误的是（）",
+      "options": [
+        "方差分析的目的是为了比较多个总体的显著性差异",
+        "方差分析条件中，输出变量应该是独立、正态的",
+        "方差分析条件中，各水平的总体分散是一致的",
+        "方差分析原理来源于因子和误差方差比的卡方分布"
+      ],
+      "answers": [
+        "方差分析条件中，各水平的总体分散是一致的"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1836,
       "source": "italent-review"
     }
   ]
