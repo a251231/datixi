@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.25.2",
+  "version": "2026.09.28.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-25T16:32:03+08:00",
+  "updatedAt": "2026-09-28T09:55:02+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1836,
+  "questionCount": 1839,
   "typeCounts": {
     "single_choice": 1051,
     "multiple_choice": 296,
-    "true_false": 379,
+    "true_false": 382,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -34211,6 +34211,57 @@
         "C"
       ],
       "sourceIndex": 1836,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790560498756_2",
+      "type": "true_false",
+      "question": "员工进出车间必须穿戴工服、戴工帽、换工鞋（或戴鞋套）、戴口罩，走风淋门 Employees entering/exiting workshop must wear work uniform, work cap, work shoes (or shoe covers), mask and pass through air‑shower chamber.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1837,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790560498756_3",
+      "type": "true_false",
+      "question": "所有进车间人员不允许带钥匙、耳环、项链、手链等金属物品 All personnel entering workshop are forbidden to carry metal articles such as keys, earrings, necklaces and bracelets.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1838,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790560498756_4",
+      "type": "true_false",
+      "question": "\"交接班不仅交接产量，必须同步交接未闭环异常、可疑物料、设备隐患，双方确认完成再交接班，防止质量风险向后班转移。（） \" Shift‑handover shall cover not only output, but also unclosed‑loop abnormalities, suspect materials and hidden equipment risks. Handover shall be completed after mutual confirmation to prevent quality risks transferring to next shift. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "√"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1839,
       "source": "italent-review"
     }
   ]
