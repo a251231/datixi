@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.28.1",
+  "version": "2026.09.29.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-28T09:55:02+08:00",
+  "updatedAt": "2026-09-29T08:56:28+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1839,
+  "questionCount": 1841,
   "typeCounts": {
     "single_choice": 1051,
     "multiple_choice": 296,
-    "true_false": 382,
+    "true_false": 384,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -34262,6 +34262,40 @@
         "A"
       ],
       "sourceIndex": 1839,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790643385502_4",
+      "type": "true_false",
+      "question": "八项规定是龙蟠文化的行为层——是全员的行为公约，而不是外加的行政约束。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1840,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790643385502_5",
+      "type": "true_false",
+      "question": "先报告再处置，问题不上交了事；数据不改、礼品不收、资料不带走——发现苗头主动报告，既保护自己，也保护团队。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1841,
       "source": "italent-review"
     }
   ]
