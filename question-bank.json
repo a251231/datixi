@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.29.4",
+  "version": "2026.09.29.5",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-29T10:22:07+08:00",
+  "updatedAt": "2026-09-29T10:52:11+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1844,
+  "questionCount": 1845,
   "typeCounts": {
     "single_choice": 1052,
     "multiple_choice": 297,
-    "true_false": 385,
+    "true_false": 386,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -34355,6 +34355,23 @@
         "D"
       ],
       "sourceIndex": 1844,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790650328754_3",
+      "type": "true_false",
+      "question": "MSA中的稳定性分析，是指同一样件在相同环境下短时间内连续多次测量，以评价其短期波动 Stability analysis in MSA refers to multiple consecutive measurements of one sample under identical environment within short time, to evaluate its short‑term fluctuation.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1845,
       "source": "italent-review"
     }
   ]
