@@ -1,13 +1,13 @@
 {
-  "version": "2026.09.29.2",
+  "version": "2026.09.29.3",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-29T09:47:21+08:00",
+  "updatedAt": "2026-09-29T09:59:10+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1842,
+  "questionCount": 1843,
   "typeCounts": {
     "single_choice": 1052,
     "multiple_choice": 296,
-    "true_false": 384,
+    "true_false": 385,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -34315,6 +34315,23 @@
         "C"
       ],
       "sourceIndex": 1842,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1790647145136_2",
+      "type": "true_false",
+      "question": "\"工位发现手套破损、台面散落金属碎屑，暂时未产出不良品，可以继续生产，等到交接班再统一整改。（） \" Broken gloves and scattered metal scraps on workbench are found at workstation. No defective products are generated temporarily, so production may continue, and unified rectification can be done at shift‑handover. ()",
+      "options": [
+        "√",
+        "×"
+      ],
+      "answers": [
+        "×"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1843,
       "source": "italent-review"
     }
   ]
