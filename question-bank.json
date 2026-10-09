@@ -1,11 +1,11 @@
 {
-  "version": "2026.09.29.5",
+  "version": "2026.10.09.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-09-29T10:52:11+08:00",
+  "updatedAt": "2026-10-09T16:46:17+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1845,
+  "questionCount": 1853,
   "typeCounts": {
-    "single_choice": 1052,
+    "single_choice": 1060,
     "multiple_choice": 297,
     "true_false": 386,
     "fill_blank": 59,
@@ -34372,6 +34372,158 @@
         "B"
       ],
       "sourceIndex": 1845,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_2",
+      "type": "single_choice",
+      "question": "节后综合症成为生产安全的 “隐形杀手”，其核心安全隐患是极易导致（）",
+      "options": [
+        "工作效率低下",
+        "团队沟通不畅",
+        "操作失误和判断错误",
+        "员工情绪低落"
+      ],
+      "answers": [
+        "操作失误和判断错误"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1846,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_3",
+      "type": "single_choice",
+      "question": "“三管三必须” 安全生产原则不包括（）",
+      "options": [
+        "管行业必须管安全",
+        "管技术必须管安全",
+        "管业务必须管安全",
+        "管生产经营必须管安全"
+      ],
+      "answers": [
+        "管技术必须管安全"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1847,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_4",
+      "type": "single_choice",
+      "question": "以下哪项不属于 “三违” 行为（）",
+      "options": [
+        "违章指挥",
+        "违章操作",
+        "违反劳动纪律",
+        "违反交通安全"
+      ],
+      "answers": [
+        "违反交通安全"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1848,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_5",
+      "type": "single_choice",
+      "question": "“四不伤害” 原则中，“不被他人伤害” 的核心要求是（）",
+      "options": [
+        "规范操作，做好自身防护",
+        "关注他人，及时提醒隐患",
+        "拒绝违章指挥，远离作业风险",
+        "及时制止他人的不安全行为"
+      ],
+      "answers": [
+        "拒绝违章指挥，远离作业风险"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1849,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_7",
+      "type": "single_choice",
+      "question": "复工复产安全管理的核心是（ ），防范各类安全事故发生，保障人员生命和财产安全。",
+      "options": [
+        "正确赶进度、保产量",
+        "安全第一、预防为主",
+        "简化流程、提高效率",
+        "降低成本、减少投入"
+      ],
+      "answers": [
+        "安全第一、预防为主"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1850,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_8",
+      "type": "single_choice",
+      "question": "消防通道、安全出口必须保持畅通，严禁堆放杂物、堵塞通道，这是为了（ ）。",
+      "options": [
+        "美观整洁",
+        "方便运输",
+        "应急疏散和救援",
+        "节省空间"
+      ],
+      "answers": [
+        "应急疏散和救援"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1851,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_9",
+      "type": "single_choice",
+      "question": "岗位上操作时，必须按规定佩戴和使用（ ），严禁违章操作、冒险作业。",
+      "options": [
+        "个人防护用品",
+        "饰品",
+        "休闲服装",
+        "手机"
+      ],
+      "answers": [
+        "个人防护用品"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1852,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1791535571675_10",
+      "type": "single_choice",
+      "question": "对受限空间，检测合格后，方可安排人员进入作业",
+      "options": [
+        "通风、气体检测",
+        "简单清扫",
+        "注水测试",
+        "照明检查"
+      ],
+      "answers": [
+        "通风、气体检测"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1853,
       "source": "italent-review"
     }
   ]
