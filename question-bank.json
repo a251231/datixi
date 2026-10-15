@@ -1,13 +1,13 @@
 {
-  "version": "2026.10.15.1",
+  "version": "2026.10.15.2",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-10-15T14:39:16+08:00",
+  "updatedAt": "2026-10-15T14:42:47+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1861,
+  "questionCount": 1869,
   "typeCounts": {
-    "single_choice": 1065,
+    "single_choice": 1071,
     "multiple_choice": 297,
-    "true_false": 389,
+    "true_false": 391,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -34670,6 +34670,154 @@
         "A"
       ],
       "sourceIndex": 1861,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564135_1",
+      "type": "single_choice",
+      "question": "业务分层是按业务类型和价值链关系划分的层次分类，下列关于业务分层的说法正确的是（ ）。",
+      "options": [
+        "业务分层主要用于市场营销管理",
+        "业务分层是管理业务的基础",
+        "业务分层与开发流程无关",
+        "业务分层只适用于软件产品"
+      ],
+      "answers": [
+        "业务分层是管理业务的基础"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1862,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564136_3",
+      "type": "single_choice",
+      "question": "关于平台的定义，下列说法正确的是（ ）。",
+      "options": [
+        "平台是基于领域内统一架构下的一组公共组件，可由多个子系统有机集成",
+        "平台就是单个产品",
+        "平台与架构无关",
+        "平台只能用于硬件"
+      ],
+      "answers": [
+        "平台是基于领域内统一架构下的一组公共组件，可由多个子系统有机集成"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1863,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564136_5",
+      "type": "single_choice",
+      "question": "软件工程是指（ ）。",
+      "options": [
+        "用工程化的方法定义、开发和维护软件的工程技术和学科",
+        "只负责编码",
+        "只负责测试",
+        "无需管理活动"
+      ],
+      "answers": [
+        "用工程化的方法定义、开发和维护软件的工程技术和学科"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1864,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564136_7",
+      "type": "single_choice",
+      "question": "在公司层面，华为的研发能力统一由哪个机构来支撑（ ）。",
+      "options": [
+        "2012实验室",
+        "营销部",
+        "财务部",
+        "法务部"
+      ],
+      "answers": [
+        "2012实验室"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1865,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564136_9",
+      "type": "single_choice",
+      "question": "架构最重要的作用之一是（ ）。",
+      "options": [
+        "将这些模块之间的接口标准化、明确模块规格",
+        "取代所有软件开发流程",
+        "保证产品一次性开发完成",
+        "减少产品功能数量"
+      ],
+      "answers": [
+        "将这些模块之间的接口标准化、明确模块规格"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1866,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564136_10",
+      "type": "single_choice",
+      "question": "华为认为从长远来看，产品间竞争的核心（归根结底）是（ ）。",
+      "options": [
+        "价格的竞争",
+        "基础平台的竞争",
+        "渠道的竞争",
+        "人才的竞争"
+      ],
+      "answers": [
+        "基础平台的竞争"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1867,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564137_19",
+      "type": "true_false",
+      "question": "CBB是指可以在不同产品系统之间共用的零部件、模块、技术及其相关设计成果。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1868,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046564137_20",
+      "type": "true_false",
+      "question": "华为实施IPD-CMM后，软件开发周期缩短、生产率提高、软件遗留缺陷密度大幅降低。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1869,
       "source": "italent-review"
     }
   ]
