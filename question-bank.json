@@ -1,13 +1,13 @@
 {
-  "version": "2026.10.09.1",
+  "version": "2026.10.15.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-10-09T16:46:17+08:00",
+  "updatedAt": "2026-10-15T14:39:16+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1853,
+  "questionCount": 1861,
   "typeCounts": {
-    "single_choice": 1060,
+    "single_choice": 1065,
     "multiple_choice": 297,
-    "true_false": 386,
+    "true_false": 389,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -34524,6 +34524,152 @@
         "A"
       ],
       "sourceIndex": 1853,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351164_2",
+      "type": "single_choice",
+      "question": "关于架构的定义，下列说法正确的是（ ）。",
+      "options": [
+        "架构只描述系统的物理组成",
+        "架构描述了系统由哪些元素组成、元素间关系及设计思想",
+        "架构是代码的统称",
+        "架构与产品竞争力无关"
+      ],
+      "answers": [
+        "架构描述了系统由哪些元素组成、元素间关系及设计思想"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1854,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351164_4",
+      "type": "single_choice",
+      "question": "共用基础模块（CBB）是指（ ）。",
+      "options": [
+        "只在一个产品内使用的元件",
+        "可以在不同产品系统之间共用的零部件、模块、技术及其相关设计成果",
+        "不可复用的组件",
+        "仅用于采购的外购件"
+      ],
+      "answers": [
+        "可以在不同产品系统之间共用的零部件、模块、技术及其相关设计成果"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1855,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351164_6",
+      "type": "single_choice",
+      "question": "关于开源的定义，下列说法正确的是（ ）。",
+      "options": [
+        "开源就是源代码对公众开放",
+        "开源意味着收取高昂费用",
+        "开源软件不允许商业机构再开发",
+        "开源与公司战略无关"
+      ],
+      "answers": [
+        "开源就是源代码对公众开放"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1856,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351164_12",
+      "type": "single_choice",
+      "question": "CMM的核心是用过程的规范性保障软件开发的质量。华为从哪一年开始关注并考虑将CMM模型引入软件开发过程（ ）。",
+      "options": [
+        "1995年",
+        "1998年",
+        "2005年",
+        "2010年"
+      ],
+      "answers": [
+        "1998年"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1857,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351165_14",
+      "type": "single_choice",
+      "question": "华为将研发能力分为技术能力与非技术能力，其中技术能力是通过什么体系来管理（ ）。",
+      "options": [
+        "研发能力提升委员会",
+        "技术管理体系（TMS）",
+        "财务体系",
+        "人力资源体系"
+      ],
+      "answers": [
+        "技术管理体系（TMS）"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1858,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351165_16",
+      "type": "true_false",
+      "question": "业务分层是管理业务的基础，同时也是结构化流程和异步开发的基础。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1859,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351165_17",
+      "type": "true_false",
+      "question": "架构是系统最高层次的设计，指导和约束系统下层的设计，高层设计不好，后续补救会无济于事。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1860,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792046351165_18",
+      "type": "true_false",
+      "question": "华为能够后来者居上，走上业界一流的道路，靠的就是平台战略，平台战略的基础是架构与设计。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1861,
       "source": "italent-review"
     }
   ]
