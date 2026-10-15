@@ -1,11 +1,11 @@
 {
-  "version": "2026.10.15.3",
+  "version": "2026.10.15.4",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-10-15T16:13:36+08:00",
+  "updatedAt": "2026-10-15T16:19:49+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1872,
+  "questionCount": 1882,
   "typeCounts": {
-    "single_choice": 1074,
+    "single_choice": 1084,
     "multiple_choice": 297,
     "true_false": 391,
     "fill_blank": 59,
@@ -34875,6 +34875,196 @@
         "A"
       ],
       "sourceIndex": 1872,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361829_1",
+      "type": "single_choice",
+      "question": "职业病危害多发行业不包括以下哪一项（）",
+      "options": [
+        "矿山开采",
+        "金属冶炼",
+        "软件开发",
+        "建材加工"
+      ],
+      "answers": [
+        "软件开发"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1873,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361829_2",
+      "type": "single_choice",
+      "question": "当前我国职业健康工作的核心目标是（）",
+      "options": [
+        "杜绝所有工伤事故",
+        "预防、控制职业病危害，保护劳动者健康",
+        "提高企业生产效率",
+        "减少企业安全投入"
+      ],
+      "answers": [
+        "预防、控制职业病危害，保护劳动者健康"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1874,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361829_3",
+      "type": "single_choice",
+      "question": "职业病定义：企业、事业单位和个体经济组织等用人单位的劳动者在（）中，因接触粉尘、放射性物质和其他有毒、有害因素而引起的疾病。",
+      "options": [
+        "日常生活",
+        "职业活动",
+        "外出旅游",
+        "业余兼职"
+      ],
+      "answers": [
+        "职业活动"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1875,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361829_4",
+      "type": "single_choice",
+      "question": "用人单位与劳动者订立劳动合同时，应当将工作过程中可能产生的（）如实告知劳动者，并在劳动合同中写明。",
+      "options": [
+        "工资涨幅",
+        "职业病危害及其后果、防护措施和待遇",
+        "企业经营状况",
+        "考勤制度"
+      ],
+      "answers": [
+        "职业病危害及其后果、防护措施和待遇"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1876,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361829_5",
+      "type": "single_choice",
+      "question": "工作场所职业病危害因素检测，用人单位应当（）至少进行一次检测。",
+      "options": [
+        "半年",
+        "一年",
+        "三年",
+        "五年"
+      ],
+      "answers": [
+        "一年"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1877,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361829_6",
+      "type": "single_choice",
+      "question": "职业健康培训，用人单位应当对劳动者进行（）的职业卫生培训和在岗期间的定期职业卫生培训。",
+      "options": [
+        "上岗前",
+        "离岗前",
+        "每年年底",
+        "每季度末"
+      ],
+      "answers": [
+        "上岗前"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1878,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361829_7",
+      "type": "single_choice",
+      "question": "工业噪声 8 小时等效声级职业接触限值为（）dB 。",
+      "options": [
+        "60",
+        "110",
+        "100",
+        "85"
+      ],
+      "answers": [
+        "85"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1879,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361830_8",
+      "type": "single_choice",
+      "question": "化学腐蚀性液体溅入眼睛，应急处置正确的是（）",
+      "options": [
+        "立即用大量流动清水持续冲洗眼睛至少 15 分钟",
+        "用手揉搓眼睛",
+        "滴眼药水后就医",
+        "用纸巾捂住眼睛"
+      ],
+      "answers": [
+        "立即用大量流动清水持续冲洗眼睛至少 15 分钟"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1880,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361830_9",
+      "type": "single_choice",
+      "question": "用人单位提供的个体防护用品应当（）",
+      "options": [
+        "符合国家职业卫生标准",
+        "廉价即可",
+        "员工自备",
+        "可重复无限次使用"
+      ],
+      "answers": [
+        "符合国家职业卫生标准"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1881,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792052361830_10",
+      "type": "single_choice",
+      "question": "发生职业病危害事故时，用人单位应当立即（）",
+      "options": [
+        "隐瞒事故不报告",
+        "等待上级通知再处置",
+        "组织救援，控制危害，报告卫生行政部门",
+        "继续维持生产"
+      ],
+      "answers": [
+        "组织救援，控制危害，报告卫生行政部门"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1882,
       "source": "italent-review"
     }
   ]
