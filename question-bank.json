@@ -1,11 +1,11 @@
 {
-  "version": "2026.10.15.2",
+  "version": "2026.10.15.3",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-10-15T14:42:47+08:00",
+  "updatedAt": "2026-10-15T16:13:36+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1869,
+  "questionCount": 1872,
   "typeCounts": {
-    "single_choice": 1071,
+    "single_choice": 1074,
     "multiple_choice": 297,
     "true_false": 391,
     "fill_blank": 59,
@@ -34818,6 +34818,63 @@
         "A"
       ],
       "sourceIndex": 1869,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792051988295_1",
+      "type": "single_choice",
+      "question": "下列不属于特种设备的是（）",
+      "options": [
+        "压力管道",
+        "客运索道",
+        "常压储罐",
+        "安全阀"
+      ],
+      "answers": [
+        "常压储罐"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1870,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792051988295_2",
+      "type": "single_choice",
+      "question": "以下不需要取特殊作业操作证的是",
+      "options": [
+        "高压电工作业",
+        "低压电工作业",
+        "化工自动化控制仪表作业",
+        "叉车作业"
+      ],
+      "answers": [
+        "叉车作业"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1871,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792051988295_4",
+      "type": "single_choice",
+      "question": "下列表述正确的是",
+      "options": [
+        "特种设备安全总监应由公司高层领导担任",
+        "特种设备管理不需要设置专门的机构",
+        "压力容器使用时不超过试验压力就行",
+        "特种设备每年检验一次"
+      ],
+      "answers": [
+        "特种设备安全总监应由公司高层领导担任"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1872,
       "source": "italent-review"
     }
   ]
