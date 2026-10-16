@@ -1,11 +1,11 @@
 {
-  "version": "2026.10.15.4",
+  "version": "2026.10.16.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-10-15T16:19:49+08:00",
+  "updatedAt": "2026-10-16T08:21:07+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1882,
+  "questionCount": 1883,
   "typeCounts": {
-    "single_choice": 1084,
+    "single_choice": 1085,
     "multiple_choice": 297,
     "true_false": 391,
     "fill_blank": 59,
@@ -35065,6 +35065,24 @@
         "C"
       ],
       "sourceIndex": 1882,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792110064993_4",
+      "type": "single_choice",
+      "question": "下列包装材料错误的是（ ）。",
+      "options": [
+        "浓硫酸用铁罐盛装",
+        "氧化氢（双氧水）用铁桶装",
+        "浓盐酸用瓷坛盛装"
+      ],
+      "answers": [
+        "氧化氢（双氧水）用铁桶装"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1883,
       "source": "italent-review"
     }
   ]
