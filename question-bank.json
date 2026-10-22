@@ -1,13 +1,13 @@
 {
-  "version": "2026.10.16.1",
+  "version": "2026.10.22.1",
   "title": "质量体系知识竞赛题库",
-  "updatedAt": "2026-10-16T08:21:07+08:00",
+  "updatedAt": "2026-10-22T17:11:53+08:00",
   "source": "2026年锂源大体系知识竞赛题库（20260808更新）.docx",
-  "questionCount": 1883,
+  "questionCount": 1902,
   "typeCounts": {
-    "single_choice": 1085,
+    "single_choice": 1100,
     "multiple_choice": 297,
-    "true_false": 391,
+    "true_false": 395,
     "fill_blank": 59,
     "short_answer": 51
   },
@@ -35083,6 +35083,359 @@
         "B"
       ],
       "sourceIndex": 1883,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311699_1",
+      "type": "single_choice",
+      "question": "华为将创新分成两类进行管理，其中确定性创新由哪个组织负责（ ）。",
+      "options": [
+        "2012实验室",
+        "产品线",
+        "财务部",
+        "市场部"
+      ],
+      "answers": [
+        "产品线"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1884,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_2",
+      "type": "single_choice",
+      "question": "华为定义的技术，其特点是（ ）。",
+      "options": [
+        "是可被许多产品应用的设计方案，不直接对市场商用交付",
+        "直接面向市场销售",
+        "与产品开发完全相同",
+        "不具备复用价值"
+      ],
+      "answers": [
+        "是可被许多产品应用的设计方案，不直接对市场商用交付"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1885,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_3",
+      "type": "single_choice",
+      "question": "在华为技术管理体系（TMS）中，负责公司技术投资决策的是（ ）。",
+      "options": [
+        "ITMT",
+        "IPMT",
+        "PL-TMT",
+        "LMT"
+      ],
+      "answers": [
+        "ITMT"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1886,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_4",
+      "type": "single_choice",
+      "question": "知识产权（IPR）是指权利人对其所创作的智力劳动成果所享有的专有权利。华为认为，只有拥有和保护知识产权（ ）。",
+      "options": [
+        "才能进入世界竞争",
+        "才能降低成本",
+        "才能内部共享",
+        "才能减少研发"
+      ],
+      "answers": [
+        "才能进入世界竞争"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1887,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_5",
+      "type": "single_choice",
+      "question": "创新理论的鼻祖熊彼特认为，创新就是建立一种新的生产关系，将“新组合”引入生产体系。下列不属于熊彼特所说的“新组合”5种情况的是（ ）。",
+      "options": [
+        "采用一种新产品",
+        "采用一种新的生产方法",
+        "开辟一个新市场",
+        "降低产品销售价格"
+      ],
+      "answers": [
+        "降低产品销售价格"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1888,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_6",
+      "type": "single_choice",
+      "question": "华为将技术开发与产品开发进行分离的主要目的是（ ）。",
+      "options": [
+        "增加开发成本",
+        "降低技术风险、使开发过程可控、减少开发经费浪费，并便于实现异步开发",
+        "让技术无法复用",
+        "增加产品上市时间"
+      ],
+      "answers": [
+        "降低技术风险、使开发过程可控、减少开发经费浪费，并便于实现异步开发"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1889,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_7",
+      "type": "single_choice",
+      "question": "技术开发团队（TDT）是执行团队，下列关于TDT的说法错误的是（ ）。",
+      "options": [
+        "负责执行ITMT/IPMT批准的平台与技术的开发和交付",
+        "TDT与PDT的团队成员组成完全相同",
+        "负责断裂点构筑，关注立项目标达成",
+        "由技术开发涉及的功能领域代表组成核心小组"
+      ],
+      "answers": [
+        "TDT与PDT的团队成员组成完全相同"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1890,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_8",
+      "type": "single_choice",
+      "question": "核心专利是指（ ）。",
+      "options": [
+        "可以随意绕开设计的专利",
+        "制造某个技术领域的某种产品必须使用的技术所对应的专利，不能通过规避设计绕开",
+        "应用型专利",
+        "与产品无关的专利"
+      ],
+      "answers": [
+        "制造某个技术领域的某种产品必须使用的技术所对应的专利，不能通过规避设计绕开"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1891,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_9",
+      "type": "single_choice",
+      "question": "关于华为的创新管理理念，下列说法错误的是（ ）。",
+      "options": [
+        "华为鼓励创新、宽容失败",
+        "华为反对盲目创新",
+        "创新可以不围绕商业需要，为创新而创新",
+        "创新要为客户价值而创新"
+      ],
+      "answers": [
+        "创新可以不围绕商业需要，为创新而创新"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1892,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_10",
+      "type": "single_choice",
+      "question": "华为技术开发（TD）流程包括的阶段是（ ）。",
+      "options": [
+        "概念、计划、开发、验证、发布",
+        "概念、设计、开发、测试、发布",
+        "概念、计划、开发和迁移阶段，以及迁移后的生命周期技术维护阶段",
+        "需求、设计、编码、测试、发布"
+      ],
+      "answers": [
+        "概念、计划、开发和迁移阶段，以及迁移后的生命周期技术维护阶段"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1893,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_11",
+      "type": "single_choice",
+      "question": "关于2012实验室的角色，下列说法错误的是（ ）。",
+      "options": [
+        "是集团整体研发能力提升的责任者",
+        "是集团的创新、研究、平台并发的责任主体",
+        "是公司探索未来方向的主战部队",
+        "只负责产品营销"
+      ],
+      "answers": [
+        "只负责产品营销"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1894,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_12",
+      "type": "single_choice",
+      "question": "关于核心专利的成长过程，下列说法正确的是（ ）。",
+      "options": [
+        "很快就能形成",
+        "一两年就能看到效果",
+        "成长过程十分漫长艰难，应用型核心专利至少需要7～8年",
+        "无需长期积累"
+      ],
+      "answers": [
+        "成长过程十分漫长艰难，应用型核心专利至少需要7～8年"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1895,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_13",
+      "type": "single_choice",
+      "question": "华为在产品技术创新上，要保持技术领先，但要领先竞争对手（ ）。",
+      "options": [
+        "半步",
+        "三步",
+        "一步",
+        "五步"
+      ],
+      "answers": [
+        "半步"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1896,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_14",
+      "type": "single_choice",
+      "question": "技术开发流程与产品开发流程相比，其明显的差异是（ ）。",
+      "options": [
+        "更多阶段",
+        "有验证和发布阶段",
+        "关注商用性",
+        "没有产品开发的验证、发布阶段，关注技术能否突破或实现"
+      ],
+      "answers": [
+        "没有产品开发的验证、发布阶段，关注技术能否突破或实现"
+      ],
+      "answerLetters": [
+        "D"
+      ],
+      "sourceIndex": 1897,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311700_15",
+      "type": "single_choice",
+      "question": "2012实验室下设的机构不包括（ ）。",
+      "options": [
+        "中央研究院、中央软件院",
+        "中央硬件工程院、海思半导体与器件业务部",
+        "市场部",
+        "研发能力中心以及海外研究所"
+      ],
+      "answers": [
+        "市场部"
+      ],
+      "answerLetters": [
+        "C"
+      ],
+      "sourceIndex": 1898,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311701_16",
+      "type": "true_false",
+      "question": "华为坚持每年将10%以上的销售收入投入研发，从不因短期经营效益波动而减少创新投入。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1899,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311701_17",
+      "type": "true_false",
+      "question": "技术开发关注的是中短期技术，其目的是将技术尽快应用到产品上快速推出市场。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1900,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311701_19",
+      "type": "true_false",
+      "question": "未来的企业市场竞争本质上就是IPR（知识产权）之争，要成为世界级企业必须拥有核心知识产权。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "正确"
+      ],
+      "answerLetters": [
+        "A"
+      ],
+      "sourceIndex": 1901,
+      "source": "italent-review"
+    },
+    {
+      "id": "italent_review_1792660311701_20",
+      "type": "true_false",
+      "question": "华为鼓励创新、宽容失败，因此可以不设创新边界、进行没有价值的盲目创新。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answers": [
+        "错误"
+      ],
+      "answerLetters": [
+        "B"
+      ],
+      "sourceIndex": 1902,
       "source": "italent-review"
     }
   ]
